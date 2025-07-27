@@ -3,17 +3,17 @@
 xmlns:media='http://search.yahoo.com/mrss/'
 xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'
 xmlns:gd='http://schemas.google.com/g/2005'
-xmlns:yt='http://gdata.youtube.com/schemas/2007'>
-    <id>http://gdata.youtube.com/feeds/api/standardfeeds/us/recently_featured</id>
+xmlns:yt='http://192.168.1.27/schemas/2007'>
+    <id>http://192.168.1.27/feeds/api/standardfeeds/us/recently_featured</id>
     <updated>2010-12-21T18:59:58.000-08:00</updated>
-    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
     <title type='text'> </title>
     <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
     <author>
         <name>YouTube</name>
         <uri>http://www.youtube.com/</uri>
     </author>
-    <generator version='2.0' uri='http://gdata.youtube.com/'>YouTube data API</generator>
+    <generator version='2.0' uri='http://192.168.1.27/'>YouTube data API</generator>
     <openSearch:totalResults>25</openSearch:totalResults>
     <openSearch:startIndex>1</openSearch:startIndex>
     <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
@@ -22,10 +22,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='4oBpaBEMBIM'>4oBpaBEMBIM</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Demo - "Zhongli: The Listener" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/4oBpaBEMBIM/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/4oBpaBEMBIM/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -34,7 +34,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/4oBpaBEMBIM/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=4oBpaBEMBIM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -56,10 +56,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='SO__VQZirJ4'>SO__VQZirJ4</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Genshin Impact Story Teaser: We Will Be Reunited (Contains spoilers)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/SO__VQZirJ4/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/SO__VQZirJ4/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -68,7 +68,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/SO__VQZirJ4/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=SO__VQZirJ4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -90,10 +90,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='Zuk9kbK1mek'>Zuk9kbK1mek</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Collected Miscellany - "Qiqi: Fortune-Preserving Talisman"｜Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/Zuk9kbK1mek/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/Zuk9kbK1mek/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -102,7 +102,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/Zuk9kbK1mek/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Zuk9kbK1mek' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -124,10 +124,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='Go7SeJ-yOL4'>Go7SeJ-yOL4</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>New Character Demo - "Eula: Flickering Candlelight" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/Go7SeJ-yOL4/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/Go7SeJ-yOL4/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -136,7 +136,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/Go7SeJ-yOL4/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Go7SeJ-yOL4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -158,10 +158,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='TAlKhARUcoY'>TAlKhARUcoY</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Teyvat Chapter Storyline Preview: Travail｜Genshin Impact (Contains spoilers)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/TAlKhARUcoY/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/TAlKhARUcoY/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -170,7 +170,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/TAlKhARUcoY/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=TAlKhARUcoY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -192,10 +192,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='YjiloHxQ5eE'>YjiloHxQ5eE</youTubeId>
             <published>2022-07-08T22:00:00.000Z</published>
             <updated>2022-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>TGA 2021 Genshin Impact Entry Video｜Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/YjiloHxQ5eE/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/YjiloHxQ5eE/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -204,7 +204,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/YjiloHxQ5eE/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=YjiloHxQ5eE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -226,10 +226,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='oSSCRUmaquo'>oSSCRUmaquo</youTubeId>
             <published>2023-07-08T22:00:00.000Z</published>
             <updated>2023-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Demo - "Tighnari: Plant Patrol" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/oSSCRUmaquo/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/oSSCRUmaquo/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -238,7 +238,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/oSSCRUmaquo/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=oSSCRUmaquo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -260,10 +260,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='TvqGRUWm8qE'>TvqGRUWm8qE</youTubeId>
             <published>2020-07-08T22:00:00.000Z</published>
             <updated>2020-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>"Pyro Chapter" - Chef de Cuisine Xiangling｜Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/TvqGRUWm8qE/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/TvqGRUWm8qE/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -272,7 +272,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/TvqGRUWm8qE/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=TvqGRUWm8qE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -294,10 +294,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='qrH9vMZBwAk'>qrH9vMZBwAk</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Demo - "Hu Tao: Let the Living Beware" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/qrH9vMZBwAk/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/qrH9vMZBwAk/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -306,7 +306,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/qrH9vMZBwAk/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=qrH9vMZBwAk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -328,10 +328,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='TmaAOV4SJNQ'>TmaAOV4SJNQ</youTubeId>
             <published>2023-07-08T22:00:00.000Z</published>
             <updated>2023-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Teyvat Chapter Interlude Teaser: A Winter Night's Lazzo | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/TmaAOV4SJNQ/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/TmaAOV4SJNQ/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -340,7 +340,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/TmaAOV4SJNQ/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=TmaAOV4SJNQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -362,10 +362,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='mvrW4aKwAXw'>mvrW4aKwAXw</youTubeId>
             <published>2022-07-08T22:00:00.000Z</published>
             <updated>2022-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Demo - "Raiden Shogun: Judgment of Euthymia" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/mvrW4aKwAXw/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/mvrW4aKwAXw/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -374,7 +374,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/mvrW4aKwAXw/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=mvrW4aKwAXw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -396,10 +396,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='zif0Lmhrivc'>zif0Lmhrivc</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>New Character Demo - "Kaedehara Kazuha: Wandering Winds" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/zif0Lmhrivc/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/zif0Lmhrivc/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -408,7 +408,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/zif0Lmhrivc/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=zif0Lmhrivc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -430,10 +430,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='gEOI-Ae_aaU'>gEOI-Ae_aaU</youTubeId>
             <published>2022-07-08T22:00:00.000Z</published>
             <updated>2022-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Version 2.0 "The Immovable God and the Eternal Euthymia" Trailer | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/gEOI-Ae_aaU/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/gEOI-Ae_aaU/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -442,7 +442,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/gEOI-Ae_aaU/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=gEOI-Ae_aaU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -464,10 +464,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='5RCsr1Y8UZA'>5RCsr1Y8UZA</youTubeId>
             <published>2022-07-08T22:00:00.000Z</published>
             <updated>2022-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Demo - "Kamisato Ayaka: Camellia in Winter Snow" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/5RCsr1Y8UZA/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/5RCsr1Y8UZA/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -476,7 +476,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/5RCsr1Y8UZA/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=5RCsr1Y8UZA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -498,10 +498,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='M2blSYJ6hrE'>M2blSYJ6hrE</youTubeId>
             <published>2020-07-08T22:00:00.000Z</published>
             <updated>2020-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>"Cryo Chapter" - Cavalry Captain Kaeya｜Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/M2blSYJ6hrE/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/M2blSYJ6hrE/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -510,7 +510,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/M2blSYJ6hrE/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=M2blSYJ6hrE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -532,10 +532,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='3f2-EANyrNM'>3f2-EANyrNM</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Demo - "Childe: A Letter to Snezhnaya" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/3f2-EANyrNM/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/3f2-EANyrNM/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -544,7 +544,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/3f2-EANyrNM/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=3f2-EANyrNM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -566,10 +566,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='C_duDk5e8yU'>C_duDk5e8yU</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>New Character Demo - "Klee: Da-Da Da!" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/C_duDk5e8yU/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/C_duDk5e8yU/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -578,7 +578,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/C_duDk5e8yU/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=C_duDk5e8yU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -600,10 +600,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='sjozpa9DsZU'>sjozpa9DsZU</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Demo - "Xiao: Doombane" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/sjozpa9DsZU/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/sjozpa9DsZU/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -612,7 +612,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/sjozpa9DsZU/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=sjozpa9DsZU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -634,10 +634,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='pFrKZxStL_U'>pFrKZxStL_U</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Producing the Sounds of Liyue | Genshin Impact: Behind the Scenes</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/pFrKZxStL_U/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/pFrKZxStL_U/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -646,7 +646,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/pFrKZxStL_U/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=pFrKZxStL_U' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -668,10 +668,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='f_5-i0ZJfds'>f_5-i0ZJfds</youTubeId>
             <published>2022-07-08T22:00:00.000Z</published>
             <updated>2022-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Version 2.1 "Floating World Under the Moonlight" Trailer | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/f_5-i0ZJfds/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/f_5-i0ZJfds/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -680,7 +680,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/f_5-i0ZJfds/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=f_5-i0ZJfds' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -702,10 +702,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='EN79SfbcvIE'>EN79SfbcvIE</youTubeId>
             <published>2024-07-08T22:00:00.000Z</published>
             <updated>2024-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Demo - "Furina: All the World's a Stage" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/EN79SfbcvIE/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/EN79SfbcvIE/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -714,7 +714,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/EN79SfbcvIE/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=EN79SfbcvIE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -736,10 +736,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='6XbHqN8Cs60'>6XbHqN8Cs60</youTubeId>
             <published>2023-07-08T22:00:00.000Z</published>
             <updated>2023-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Demo - "Alhaitham: Think Before You Act" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/6XbHqN8Cs60/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/6XbHqN8Cs60/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -748,7 +748,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/6XbHqN8Cs60/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=6XbHqN8Cs60' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -770,10 +770,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='dn8etqEPtFg'>dn8etqEPtFg</youTubeId>
             <published>2022-07-08T22:00:00.000Z</published>
             <updated>2022-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Demo - "Yoimiya: Dazzling Lights in the Summer" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/dn8etqEPtFg/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/dn8etqEPtFg/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -782,7 +782,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/dn8etqEPtFg/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=dn8etqEPtFg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -804,10 +804,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='jdq2shrprdU'>jdq2shrprdU</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Collected Miscellany - "Klee: Jumpy Dumpty" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/jdq2shrprdU/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/jdq2shrprdU/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -816,7 +816,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/jdq2shrprdU/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=jdq2shrprdU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -838,10 +838,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='EiAhMr6IJTQ'>EiAhMr6IJTQ</youTubeId>
             <published>2022-07-08T22:00:00.000Z</published>
             <updated>2022-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Story Teaser: The Divine Damsel of Devastation | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/EiAhMr6IJTQ/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/EiAhMr6IJTQ/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -850,7 +850,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/EiAhMr6IJTQ/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=EiAhMr6IJTQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -872,10 +872,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='dc3eD6C6Gbk'>dc3eD6C6Gbk</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Teaser - "Hu Tao: Scared Yet?" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/dc3eD6C6Gbk/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/dc3eD6C6Gbk/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -884,7 +884,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/dc3eD6C6Gbk/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=dc3eD6C6Gbk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -906,10 +906,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='lf_b7_5oAZk'>lf_b7_5oAZk</youTubeId>
             <published>2021-07-08T22:00:00.000Z</published>
             <updated>2021-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Collected Miscellany - "Keqing: Starward Sword" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/lf_b7_5oAZk/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/lf_b7_5oAZk/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -918,7 +918,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/lf_b7_5oAZk/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=lf_b7_5oAZk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -940,10 +940,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='fVf0RB3nvOU'>fVf0RB3nvOU</youTubeId>
             <published>2022-07-08T22:00:00.000Z</published>
             <updated>2022-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Demo - "Sangonomiya Kokomi: A Thousand Waves Under the Moon" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/fVf0RB3nvOU/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/fVf0RB3nvOU/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -952,7 +952,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/fVf0RB3nvOU/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=fVf0RB3nvOU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -974,10 +974,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='9SbgmM3mSps'>9SbgmM3mSps</youTubeId>
             <published>2023-07-08T22:00:00.000Z</published>
             <updated>2023-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Overture Teaser: The Final Feast | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/9SbgmM3mSps/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/9SbgmM3mSps/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -986,7 +986,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/9SbgmM3mSps/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=9SbgmM3mSps' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -1008,10 +1008,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='ydPqFAEgHzs'>ydPqFAEgHzs</youTubeId>
             <published>2022-07-08T22:00:00.000Z</published>
             <updated>2022-07-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Character Teaser - "Raiden Shogun: Nightmare" | Genshin Impact</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/ydPqFAEgHzs/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/ydPqFAEgHzs/related"/>
             <author>
                 <name>GenshinImpact</name>
                 <uri>http://192.168.1.27/feeds/api/users/GenshinImpact</uri>
@@ -1020,7 +1020,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/ydPqFAEgHzs/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=ydPqFAEgHzs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>

@@ -55,6 +55,7 @@ PAYLOAD_TEMPLATE = {
 class GetVideoInfo:
     def build(self, videoId):
         cache_path = f"./assets/cache/videoinfo/{videoId}.json"
+
         # 🗂️ Check if cached response exists
         if os.path.exists(cache_path):
             with open(cache_path, 'r', encoding='utf-8') as cache_file:
@@ -2337,26 +2338,6 @@ def get_user_info(channel_id: str) -> dict:
         json.dump(data, f, indent=2)
     return extract_user_info(data, channel_id)
 
-def get_uploads(channel_id: str) -> list[dict]:
-    path = f"{USER_DIR}/{channel_id}_uploads.json"
-    payload = {
-        "context": { "client": { "clientName": "WEB", "clientVersion": "2.20210721.00.00" } },
-        "browseId": channel_id
-    }
-    data = load_json_if_fresh(path, timedelta(hours=48)) or fetch_youtubei("browse", payload)
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
-    try:
-        contents = data["contents"]["twoColumnBrowseResultsRenderer"]["tabs"][1]\
-            ["tabRenderer"]["content"]["richGridRenderer"]["contents"]
-        videos = []
-        for item in contents:
-            video = item.get("richItemRenderer", {}).get("content", {}).get("videoRenderer")
-            if video:
-                videos.append(video)
-        return videos
-    except Exception:
-        return []
 
 def generate_atom_xml(info: dict, handle: str, base_url: str) -> str:
     now = datetime.now().isoformat()
@@ -2390,82 +2371,6 @@ def generate_atom_xml(info: dict, handle: str, base_url: str) -> str:
     <yt:channelId>{escape(info['userName'])}</yt:channelId>
 </entry>"""
 
-def generate_uploads_atom_xml(info: dict, uploads: list, handle: str, base_url: str) -> str:
-    feed_id = f"{base_url}/feeds/api/users/{handle}/uploads"
-    now = datetime.utcnow().isoformat() + "Z"
-    entries = ""
-
-    for video in uploads:
-        video_id = video.get("videoId")
-        title = video.get("title", {}).get("runs", [{}])[0].get("text", "")
-        description = video.get("descriptionSnippet", {}).get("runs", [{}])[0].get("text", "")
-        duration_str = video.get("lengthText", {}).get("simpleText", "")
-        duration_sec = parse_duration_to_seconds(duration_str)
-        views_str = video.get("viewCountText", {}).get("simpleText", "")
-        views = normalize_views(views_str)
-        published_text = video.get("publishedTimeText", {}).get("simpleText", "")
-        published = parse_published_date(published_text)  # should return ISO8601
-        thumbnail = video.get("thumbnail", {}).get("thumbnails", [{}])[-1].get("url", "")
-
-        entries += f"""
-        <entry>
-            <id>{base_url}/feeds/api/videos/{video_id}</id>
-            <youTubeId id="{video_id}">{video_id}</youTubeId>
-            <published>{published}</published>
-            <updated>{published}</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
-            <title type="text"><![CDATA[{title}]]></title>
-            <content type="text"><![CDATA[{description}]]></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="{base_url}/feeds/api/videos/{video_id}/related"/>
-            <author>
-                <name>{info['userName']}</name>
-                <uri>{base_url}/feeds/api/users/{info['userName']}</uri>
-            </author>
-            <gd:comments>
-                <gd:feedLink href="{base_url}/feeds/api/videos/{video_id}/comments" countHint="530"/>
-            </gd:comments>
-            <media:group>
-                <media:category label="-" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">-</media:category>
-                <media:content url="{base_url}/channel_fh264_getvideo?v={video_id}" type="video/3gpp" medium="video" expression="full" duration="{duration_sec}" yt:format="3"/>
-                <media:description type="plain"><![CDATA[{description}]]></media:description>
-                <media:keywords>-</media:keywords>
-                <media:player url="http://www.youtube.com/watch?v={video_id}"/>
-                <media:thumbnail yt:name="hqdefault" url="http://i.ytimg.com/vi/{video_id}/hqdefault.jpg" height="240" width="320" time="00:00:00"/>
-                <media:thumbnail yt:name="poster" url="http://i.ytimg.com/vi/{video_id}/0.jpg" height="240" width="320" time="00:00:00"/>
-                <media:thumbnail yt:name="default" url="http://i.ytimg.com/vi/{video_id}/0.jpg" height="240" width="320" time="00:00:00"/>
-                <yt:duration seconds="{duration_sec}"/>
-                <yt:videoid id="{video_id}">{video_id}</yt:videoid>
-                <youTubeId id="{video_id}">{video_id}</youTubeId>
-                <media:credit role="uploader" name="{info['userName']}">{info['userName']}</media:credit>
-            </media:group>
-            <gd:rating average="5" max="5" min="1" numRaters="0" rel="http://schemas.google.com/g/2005#overall"/>
-            <yt:statistics favoriteCount="0" viewCount="{views}"/>
-            <yt:rating numLikes="0" numDislikes="0"/>
-        </entry>
-        """
-
-    return f"""<?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns='http://www.w3.org/2005/Atom'
-      xmlns:media='http://search.yahoo.com/mrss/'
-      xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'
-      xmlns:gd='http://schemas.google.com/g/2005'
-      xmlns:yt='http://gdata.youtube.com/schemas/2007'>
-    <id>{feed_id}</id>
-    <updated>{now}</updated>
-    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
-    <title type='text'>Uploads by {handle}</title>
-    <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
-    <author>
-        <name>{info['userName']}</name>
-        <uri>{base_url}/feeds/api/users/{info['userName']}</uri>
-    </author>
-    <generator version='2.0' uri='http://gdata.youtube.com/'>YouTube data API</generator>
-    <openSearch:totalResults>{len(uploads)}</openSearch:totalResults>
-    <openSearch:startIndex>1</openSearch:startIndex>
-    <openSearch:itemsPerPage>{len(uploads)}</openSearch:itemsPerPage>
-    {entries}
-</feed>"""
-
 @app.route("/feeds/api/users/<user_ident>")
 @app.route("/feeds/api/channels/<user_ident>")
 def serve_user_profile(user_ident):
@@ -2492,40 +2397,6 @@ def serve_user_profile(user_ident):
     info = get_user_info(channel_id)
     base_url = f"{request.scheme}://{request.host}"
     xml_response = generate_atom_xml(info, user_ident, base_url)
-    return Response(xml_response, mimetype="application/atom+xml")
-
-
-@app.route("/feeds/api/users/<user_ident>/uploads")
-@app.route("/users/<user_ident>/uploads")
-def serve_user_uploads(user_ident):
-    if not user_ident.startswith("UC"):
-        handle = f"@{user_ident}"
-        channel_id = resolve_channel_id(handle) or find_channel_id_in_videocache(user_ident)
-    else:
-        channel_id = user_ident
-
-
-    if not channel_id:
-        for filename in os.listdir("assets/cache/videoinfo"):
-            if filename.endswith(".json"):
-                try:
-                    with open(os.path.join("assets/cache/videoinfo", filename), "r", encoding="utf-8") as f:
-                        data = json.load(f)
-                    cid = data.get("channelId")
-                    cname = data.get("channelName", "").lstrip("@")
-                    if cname.lower() == user_ident.lower() or cid.lower() == user_ident.lower():
-                        channel_id = cid
-                        break
-                except Exception:
-                    continue
-
-    if not channel_id:
-        return Response("Channel not found", status=404)
-
-    info = get_user_info(channel_id)
-    uploads = get_uploads(channel_id)
-    base_url = f"{request.scheme}://{request.host}"
-    xml_response = generate_uploads_atom_xml(info, uploads, user_ident, base_url)
     return Response(xml_response, mimetype="application/atom+xml")
 
 TEMPLATE_PATH = 'Mobile/player.json'

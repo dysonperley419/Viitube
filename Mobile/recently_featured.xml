@@ -3,17 +3,17 @@
 xmlns:media='http://search.yahoo.com/mrss/'
 xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'
 xmlns:gd='http://schemas.google.com/g/2005'
-xmlns:yt='http://gdata.youtube.com/schemas/2007'>
-    <id>http://gdata.youtube.com/feeds/api/standardfeeds/us/recently_featured</id>
+xmlns:yt='http://192.168.1.27/schemas/2007'>
+    <id>http://192.168.1.27/feeds/api/standardfeeds/us/recently_featured</id>
     <updated>2010-12-21T18:59:58.000-08:00</updated>
-    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
     <title type='text'> </title>
     <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
     <author>
         <name>YouTube</name>
         <uri>http://www.youtube.com/</uri>
     </author>
-    <generator version='2.0' uri='http://gdata.youtube.com/'>YouTube data API</generator>
+    <generator version='2.0' uri='http://192.168.1.27/'>YouTube data API</generator>
     <openSearch:totalResults>25</openSearch:totalResults>
     <openSearch:startIndex>1</openSearch:startIndex>
     <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
@@ -22,10 +22,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='Sv4c4v520NQ'>Sv4c4v520NQ</youTubeId>
             <published>2025-06-08T22:00:00.000Z</published>
             <updated>2025-06-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Viitube | A Youtube on Wii Revival (Version 2)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/Sv4c4v520NQ/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/Sv4c4v520NQ/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -34,7 +34,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/Sv4c4v520NQ/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Sv4c4v520NQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -56,10 +56,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='A5L9E5s4njo'>A5L9E5s4njo</youTubeId>
             <published>2025-06-08T22:00:00.000Z</published>
             <updated>2025-06-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>E4-Breakdown During Big brother (Season 7) (November 2006) (MOCK)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/A5L9E5s4njo/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/A5L9E5s4njo/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -68,7 +68,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/A5L9E5s4njo/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=A5L9E5s4njo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -90,10 +90,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='gJ3PcDZtv5E'>gJ3PcDZtv5E</youTubeId>
             <published>2025-02-08T23:00:00.000Z</published>
             <updated>2025-02-08T23:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Wii No Ma v770 Revival  (Vii no ma) (beta test)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/gJ3PcDZtv5E/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/gJ3PcDZtv5E/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -102,7 +102,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/gJ3PcDZtv5E/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=gJ3PcDZtv5E' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -124,10 +124,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='xahWuRVdR80'>xahWuRVdR80</youTubeId>
             <published>2025-05-08T22:00:00.000Z</published>
             <updated>2025-05-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Youtube On Wii Revival (ViiTube)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/xahWuRVdR80/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/xahWuRVdR80/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -136,7 +136,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/xahWuRVdR80/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=xahWuRVdR80' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -158,10 +158,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='boswnYyPQCI'>boswnYyPQCI</youTubeId>
             <published>2025-03-08T23:00:00.000Z</published>
             <updated>2025-03-08T23:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Wii No Ma v0/v512 overview (Vii No Ma) (Read description)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/boswnYyPQCI/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/boswnYyPQCI/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -170,7 +170,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/boswnYyPQCI/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=boswnYyPQCI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -192,10 +192,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='rYbhMaSZ3z8'>rYbhMaSZ3z8</youTubeId>
             <published>2025-04-08T22:00:00.000Z</published>
             <updated>2025-04-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Wii no ma v0/v512,v770,v1025 overview (Vii No Ma)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/rYbhMaSZ3z8/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/rYbhMaSZ3z8/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -204,7 +204,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/rYbhMaSZ3z8/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=rYbhMaSZ3z8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -226,10 +226,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='b5YvuQLw2Zs'>b5YvuQLw2Zs</youTubeId>
             <published>2025-03-08T23:00:00.000Z</published>
             <updated>2025-03-08T23:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Riri miaou-carmine (slowed+reverb)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/b5YvuQLw2Zs/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/b5YvuQLw2Zs/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -238,7 +238,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/b5YvuQLw2Zs/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=b5YvuQLw2Zs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -260,10 +260,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='tJonN7Sbbl4'>tJonN7Sbbl4</youTubeId>
             <published>2025-03-08T23:00:00.000Z</published>
             <updated>2025-03-08T23:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Wii No Ma v770 Revival (Vii No Ma PreBeta2) (Beta)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/tJonN7Sbbl4/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/tJonN7Sbbl4/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -272,7 +272,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/tJonN7Sbbl4/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=tJonN7Sbbl4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -294,10 +294,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='vHIzIKwG72Q'>vHIzIKwG72Q</youTubeId>
             <published>2025-03-08T23:00:00.000Z</published>
             <updated>2025-03-08T23:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Vii No Ma:Patching (v3)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/vHIzIKwG72Q/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/vHIzIKwG72Q/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -306,7 +306,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/vHIzIKwG72Q/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=vHIzIKwG72Q' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -328,10 +328,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='_FYkdjSR00M'>_FYkdjSR00M</youTubeId>
             <published>2025-04-08T22:00:00.000Z</published>
             <updated>2025-04-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Channel 4 Breakdown during Celebrity Big Brother (January 2005)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/_FYkdjSR00M/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/_FYkdjSR00M/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -340,7 +340,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/_FYkdjSR00M/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=_FYkdjSR00M' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -362,10 +362,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='YHppYGEkG3c'>YHppYGEkG3c</youTubeId>
             <published>2025-06-08T22:00:00.000Z</published>
             <updated>2025-06-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Viitube | Setup And Patching</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/YHppYGEkG3c/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/YHppYGEkG3c/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -374,7 +374,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/YHppYGEkG3c/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=YHppYGEkG3c' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -396,10 +396,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='QgDfF8N7nN0'>QgDfF8N7nN0</youTubeId>
             <published>2025-06-08T22:00:00.000Z</published>
             <updated>2025-06-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Viitube | Amelioration With login (ver 1.1.0)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/QgDfF8N7nN0/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/QgDfF8N7nN0/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -408,7 +408,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/QgDfF8N7nN0/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=QgDfF8N7nN0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -430,10 +430,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='703VNFuEW_g'>703VNFuEW_g</youTubeId>
             <published>2025-03-08T23:00:00.000Z</published>
             <updated>2025-03-08T23:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Bad Apple On Wii Room Shopping</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/703VNFuEW_g/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/703VNFuEW_g/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -442,7 +442,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/703VNFuEW_g/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=703VNFuEW_g' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -464,10 +464,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='39WFBUou40A'>39WFBUou40A</youTubeId>
             <published>2025-06-08T22:00:00.000Z</published>
             <updated>2025-06-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Viitube | Login In Test (Version 4)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/39WFBUou40A/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/39WFBUou40A/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -476,7 +476,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/39WFBUou40A/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=39WFBUou40A' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -498,10 +498,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='B2UweK55x68'>B2UweK55x68</youTubeId>
             <published>2025-06-08T22:00:00.000Z</published>
             <updated>2025-06-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Channel 5 EAS Scenario:Moon enter in colision with earth (MOCK)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/B2UweK55x68/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/B2UweK55x68/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -510,7 +510,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/B2UweK55x68/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=B2UweK55x68' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -532,10 +532,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='ENvBB1WSjeE'>ENvBB1WSjeE</youTubeId>
             <published>2025-06-08T22:00:00.000Z</published>
             <updated>2025-06-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>QVC EAS Scenario-Asteroid Impact closedown (2023) (MOCK)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/ENvBB1WSjeE/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/ENvBB1WSjeE/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -544,7 +544,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/ENvBB1WSjeE/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=ENvBB1WSjeE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -566,10 +566,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='a0SFWlZoBwU'>a0SFWlZoBwU</youTubeId>
             <published>2025-05-08T22:00:00.000Z</published>
             <updated>2025-05-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>E4 got Screwed... (2009) (Fake)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/a0SFWlZoBwU/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/a0SFWlZoBwU/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -578,7 +578,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/a0SFWlZoBwU/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=a0SFWlZoBwU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -600,10 +600,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='iomf58mM9Rw'>iomf58mM9Rw</youTubeId>
             <published>2025-06-08T22:00:00.000Z</published>
             <updated>2025-06-08T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Compare the market Advert (2008) (Upscaled)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/iomf58mM9Rw/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/iomf58mM9Rw/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -612,7 +612,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/iomf58mM9Rw/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=iomf58mM9Rw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
@@ -634,10 +634,10 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
             <youTubeId id='QwhfmkxWrz4'>QwhfmkxWrz4</youTubeId>
             <published>2025-07-03T22:00:00.000Z</published>
             <updated>2025-07-03T22:00:00.000Z</updated>
-            <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" label="-" term="-">-</category>
+            <category scheme="http://192.168.1.27/schemas/2007/categories.cat" label="-" term="-">-</category>
             <title type='text'>Genshin Impact - La vaguelette (Slowed + Reverb)</title>
             <content type='text'></content>
-            <link rel="http://gdata.youtube.com/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/QwhfmkxWrz4/related"/>
+            <link rel="http://192.168.1.27/schemas/2007#video.related" href="http://192.168.1.27/feeds/api/videos/QwhfmkxWrz4/related"/>
             <author>
                 <name>kinich-j3x</name>
                 <uri>http://192.168.1.27/feeds/api/users/kinich-j3x</uri>
@@ -646,7 +646,7 @@ xmlns:yt='http://gdata.youtube.com/schemas/2007'>
                 <gd:feedLink href='http://192.168.1.27/feeds/api/videos/QwhfmkxWrz4/comments' countHint='530'/>
             </gd:comments>
             <media:group>
-                <media:category label='-' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>-</media:category>
+                <media:category label='-' scheme='http://192.168.1.27/schemas/2007/categories.cat'>-</media:category>
                 <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=QwhfmkxWrz4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/>
                 <media:description type='plain'></media:description>
                 <media:keywords>-</media:keywords>
