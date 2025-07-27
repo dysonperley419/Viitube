@@ -54,8 +54,7 @@ PAYLOAD_TEMPLATE = {
 
 class GetVideoInfo:
     def build(self, videoId):
-
-
+        cache_path = f"./assets/cache/videoinfo/{videoId}.json"
         # 🗂️ Check if cached response exists
         if os.path.exists(cache_path):
             with open(cache_path, 'r', encoding='utf-8') as cache_file:
