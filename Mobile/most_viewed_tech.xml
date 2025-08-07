@@ -1,0 +1,1856 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:KZeIEiBrT_w</id>
+		<published>2025-08-07T14:46:59</published>
+		<updated>2025-08-07T14:46:59</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Strange Math That Predicts (Almost) Anything</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/KZeIEiBrT_w?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=KZeIEiBrT_w&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/KZeIEiBrT_w/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=KZeIEiBrT_w'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/KZeIEiBrT_w?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/KZeIEiBrT_w/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/KZeIEiBrT_w?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=KZeIEiBrT_w' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=KZeIEiBrT_w' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=KZeIEiBrT_w' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>Sponsored by Brilliant
+👉 To try everything Brilliant has to offer for free for a full 30 days, visit https://brilliant.org/veritasium. You’ll also get 20% off an annual premium subscription.
+
+How a feud in Russia led to modern prediction algorithms. 
+
+If you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV 
+
+Sign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter
+
+▀▀▀
+A huge thank you to Brian Hayes, David Aldous, Geoff Engelstein, Jeffrey Rosenthal, Jimmy He, Mark Priestley, Michael Choi,  Peter Norvig, Sam Power, and Thomas Haigh for their invaluable expertise and contributions to this video. 
+
+And a special thank you to Madeline Johnson for her excellent fact-checking.
+
+▀▀▀
+0:00 The Law of Large Numbers
+4:37 What is a Markov Chain?
+9:43  Ulam and Solitaire
+12:21 Nuclear Fission
+15:46 The Monte Carlo Method
+16:32 The first search engines
+19:07 Google is born
+25:16 How does predictive text work?
+27:10 Are Markov chains memoryless?
+29:41 How to perfectly shuffle a deck of cards
+
+▀▀▀
+References:
+https://ve42.co/RefsMarkov 
+
+Images &amp; Video:
+https://ve42.co/7Z
+
+▀▀▀
+Special thanks to our Patreon supporters:
+
+Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Ibby Hadeed, JT, Jeromy Johnson, Jon Jamison, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Meekay, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Bush, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, TTST, Tj Steyn, Ubiquity Ventures, wolfee 
+
+▀▀▀
+Writers: Kaela Albert, Casper Mebius &amp; Derek Muller
+Producer &amp; Director: Kaela Albert
+Editors: Peter Nelson &amp; Jack Saxon
+Camera Operators: Gabe Strong, Gregor Cavlovic &amp; Derek Muller
+Animator: Andrew neet, Emma Wright, Fabio Albertelli &amp; Ivy Trello
+Illustrator: Caine Esperanzo, Jakub Misiek &amp; Maria Gustanovich
+Assistant Editor: James Stuart
+Researchers: Darius Garewal, Gabe Strong &amp; Emilia Gyles
+Thumbnail Designers: Ren Hurley &amp; Ben Powell
+Production Team: Rob Beasley Spence, Casper Mebius, Sulli Yost and Henry Van Dyck
+Executive Producers: Derek Muller &amp; Casper Mebius
+Additional video/photos supplied by Getty Images, Pond5 and Storyblocks
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=KZeIEiBrT_w&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KZeIEiBrT_w/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KZeIEiBrT_w/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KZeIEiBrT_w/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KZeIEiBrT_w/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KZeIEiBrT_w/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KZeIEiBrT_w/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KZeIEiBrT_w/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Strange Math That Predicts (Almost) Anything</media:title>
+			<yt:duration seconds='1952'/>
+	        <yt:uploaded>2025-08-07T14:46:59</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>KZeIEiBrT_w</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='5220647'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:-QTkPfq7w1A</id>
+		<published>2025-08-07T14:46:59</published>
+		<updated>2025-08-07T14:46:59</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>This mechanism shrinks when pulled</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/-QTkPfq7w1A?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=-QTkPfq7w1A&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/-QTkPfq7w1A/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=-QTkPfq7w1A'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/-QTkPfq7w1A?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/-QTkPfq7w1A/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/-QTkPfq7w1A?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=-QTkPfq7w1A' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=-QTkPfq7w1A' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=-QTkPfq7w1A' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>How an unlikely physics paradox controls these counterintuitive structures. Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off.
+
+If you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV
+
+Sign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter
+
+▀▀▀
+A huge thank you to Paul Ducarme and Bas Overvelde at AMOLF for showing us around. 
+Check out their research on counter-snapping structures here - https://ve42.co/CounterSnapping
+
+For more on Braess’s Paradox, check out these great videos by Up and Atom (https://youtu.be/cALezV_Fwi0) and Steve Mould (https://www.youtube.com/watch?v=Cg73j3QYRJc)
+
+▀▀▀
+0:00 What happens if you cut this rope?
+1:41 The Spring Paradox
+4:59 New York’s Perplexing Discovery
+6:29 Road Networks and Traffic Flow
+8:40 Braess’s Paradox 
+14:29 Snapping
+17:16 This object shrinks when you stretch it
+
+▀▀▀
+References:
+
+Ducarme, P., Weber, B., Hecke, M. van, &amp; Johannes. (2025). Exotic mechanical properties enabled by countersnapping instabilities. Proceedings of the National Academy of Sciences - https://ve42.co/CounterSnapping
+Braess&apos;s Paradox via Wikipedia - https://ve42.co/BraessWiki
+Braess, D., Nagurney, A., &amp; Wakolbinger, T. (2005). On a Paradox of Traffic Planning. Transportation Science - https://ve42.co/Braess2005
+Schäfer, B., Pesch, T., Manik, D., Gollenstede, J., Lin, G., Beck, H.-P., … Timme, M. (2022). Understanding Braess’ Paradox in power grids. Nature Communications - https://ve42.co/Schafer2022
+Kolata, G. (1990). What if They Closed 42d Street and Nobody Noticed? New York Times - https://ve42.co/Kolata1990
+Youn, H., Gastner, M. T., &amp; Jeong, H. (2008). Price of Anarchy in Transportation Networks: Efficiency and Optimality Control. Physical Review Letters - https://ve42.co/Youn2008
+Nicolaou, Z. G., &amp; Motter, A. E. (2012). Mechanical metamaterials with negative compressibility transitions. Nature Materials - https://ve42.co/Nicolaou2012
+Counter-Snapping replication package - https://ve42.co/CSPackage
+
+Images &amp; Video:
+
+Earth Day Festivities via VHS Music Rarities - https://www.youtube.com/watch?v=0awPgHjn2nY
+Earth Day Speeches - https://www.youtube.com/watch?v=RMDI3kXpeQ8
+1990s New York via NYC Nostalgia - https://www.youtube.com/watch?v=0YaFxTw0VqM
+42nd Street Closure via Trainluvr - https://www.youtube.com/watch?v=gELde63Fzio
+42nd Street Traffic Operator - https://ve42.co/NYCTraffic
+Dietrich Braess via opc.mfo.de -  https://ve42.co/BraessOPC
+Dietrich Braess via Wikipedia - https://ve42.co/BraessWikiPic
+Belt Buckle via Mingda Hardware - https://ve42.co/BeltBuckle
+
+▀▀▀
+Special thanks to our Patreon supporters:
+Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Charles Ian Norman Venn, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Jeromy Johnson, Jon Jamison, JT, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, and wolfee
+
+▀▀▀
+Writers: Gregor Čavlović &amp; Derek Muller
+Producer &amp; Director: Gregor Čavlović
+Editors: James Stuart &amp; Trenton Oliver
+Camera Operators: Sander Mook, Dylan Meanwell, Fabio Albertelli, Casper Mebius &amp; Gregor Čavlović
+Animator: Fabio Albertelli
+Illustrator: Jakub Misiek
+Additional Editor: Peter Nelson &amp; James Horsley
+Researchers: Darius Garewal &amp; Gabe Strong
+Thumbnail Designers: Ren Hurley &amp; Ben Powell
+Production Team: Rob Beasley Spence, Tori Brittain &amp; Matthew Cavanagh
+Executive Producers: Derek Muller &amp; Casper Mebius
+
+Additional video/photos supplied by Getty Images, Pond5. 
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=-QTkPfq7w1A&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-QTkPfq7w1A/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-QTkPfq7w1A/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-QTkPfq7w1A/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-QTkPfq7w1A/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-QTkPfq7w1A/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-QTkPfq7w1A/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-QTkPfq7w1A/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>This mechanism shrinks when pulled</media:title>
+			<yt:duration seconds='1386'/>
+	        <yt:uploaded>2025-08-07T14:46:59</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>-QTkPfq7w1A</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='8151746'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:x32Zq-XvID4</id>
+		<published>2025-08-07T14:46:59</published>
+		<updated>2025-08-07T14:46:59</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Obviously True Theorem No One Can Prove</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/x32Zq-XvID4?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=x32Zq-XvID4&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/x32Zq-XvID4/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=x32Zq-XvID4'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/x32Zq-XvID4?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/x32Zq-XvID4/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/x32Zq-XvID4?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=x32Zq-XvID4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=x32Zq-XvID4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=x32Zq-XvID4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>This deceptively simple math problem has stumped mathematicians for almost 300 years! 👉 Head to https://hensonshaving.com/veritasium and enter code &apos;Veritasium&apos; for 100 free blades with the purchase of a razor. Make sure to add both the razor and the blades to your cart for the code to take effect.
+
+If you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV 
+
+Sign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter
+
+▀▀▀
+A huge thank you to Steven Strogatz, Alex Kontorovich, Harald Helfgott, Senia Sheydvasser, Jared Duker Lichtman, Roger Heath-Brown, Kevin Ford, Carl-Fredrik Nyberg Brodda, Kaneenika Sinha &amp; Shehzad Hathi for their invaluable expertise and contributions to this video.
+
+Look out for the upcoming @fern-tv  video on the tragic life of Srinivasa Ramanujan! A huge thank you to Ruben Katschko, Mathias Hawk, Chris Varga, Elmer and David from fern for working with us!
+
+The full interview with Steven Strogatz is out now, exclusive to Patreon! - https://www.patreon.com/c/veritasium
+
+▀▀▀
+0:00 What is Goldbach’s Conjecture?
+4:33 Goldbach and Euler
+7:03 The Prime Number Theorem
+11:16 The Genius of Ramanujan
+14:57 The Circle Method
+27:31 Proving the Weak Goldbach Conjecture
+32:40 Math vs Mao
+36:06 Back to Chen Jingrun
+37:15 How you can prove the Strong Goldbach Conjecture 
+
+▀▀▀
+References:
+References can be found here - https://ve42.co/GoldbachRefs
+
+Images &amp; Video:
+Image and video references can be found here - https://ve42.co/GoldbachVisuals
+
+▀▀▀
+Special thanks to our Patreon supporters:
+Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Charles Ian Norman Venn, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, iRick, Jeromy Johnson, Jon Jamison, JT, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, wolfee
+
+▀▀▀
+Writers: Casper Mebius &amp; Derek Muller
+Additional Writers: Darius Garewal, Callum Cuttle &amp; Aakasha Bagga
+Producer &amp; Director: Casper Mebius
+Editors: Jack Saxon &amp; Peter Nelson
+Camera Operators: Casper Mebius &amp; Derek Muller
+Animators: Fabio Albertelli, Emma Wright, Ivy Tello, Allama Nandii, Emma Foster, Mike Radjabov &amp; Andrew Neet
+Illustrators: Maria Gusakovich, Jakub Misiek &amp; Caine Esperanza
+Assistant Editor: James Stuart
+Researchers: Darius Garewal, Geeta Thakur &amp; Gabe Strong
+Thumbnail Designers: Ren Hurley &amp; Ben Powell
+Production Team: Rob Beasley Spence, Tori Brittain, Casper Mebius &amp; Gregor Čavlović
+Advice &amp; Feedback: Gregor Čavlović
+Executive Producers: Derek Muller &amp; Casper Mebius
+
+Additional video/photos supplied by Getty Images, Pond5. 
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=x32Zq-XvID4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x32Zq-XvID4/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x32Zq-XvID4/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x32Zq-XvID4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x32Zq-XvID4/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x32Zq-XvID4/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x32Zq-XvID4/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x32Zq-XvID4/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Obviously True Theorem No One Can Prove</media:title>
+			<yt:duration seconds='2554'/>
+	        <yt:uploaded>2025-08-07T14:46:59</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>x32Zq-XvID4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='5867577'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:J3i3F2e4IYs</id>
+		<published>2025-08-07T14:47:00</published>
+		<updated>2025-08-07T14:47:00</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Biggest Misconception in Football (ft. Tom Brady)</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/J3i3F2e4IYs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=J3i3F2e4IYs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/J3i3F2e4IYs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=J3i3F2e4IYs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/J3i3F2e4IYs?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/J3i3F2e4IYs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/J3i3F2e4IYs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=J3i3F2e4IYs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=J3i3F2e4IYs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=J3i3F2e4IYs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>Even the GOAT Tom Brady can’t throw a perfect spiral. Here’s why. 🌏 Get exclusive NordVPN deal here ➵  https://NordVPN.com/veritasium It’s risk free with Nord’s 30 day money-back guarantee!✌
+
+If you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV
+
+Sign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter
+
+▀▀▀
+A huge thank you to Tom Brady for coming and throwing some footballs with us and letting us analyse his throw.  You can check out his channel here: https://www.youtube.com/@tombrady 
+
+Also thank you to Kevin Bonner and the team at Shadow Lion for helping make this happen!
+
+A big thanks to Daniel Hare and Wilson for all their help collecting and analyzing the data. 
+
+A massive thank you to Prof. Philip Ansell, David Attig, Matt Brotnow, Sam Hince and Derrick Wiberg at the University of Illinois at Urbana-Champaign for all their work testing out footballs in their wind tunnel (more of that to come in our second video).  
+
+We’d also like to shout out Stewart Bible, Ryan Sayko and the rest of the team at Resolved Analytics for all their work on the CFD models - https://www.resolvedanalytics.com/
+
+Thank you to Mike Lopez and Tom Bliss from the Football Data and Analytics at the NFL for sharing data and insights from across NFL history.
+
+We’re incredibly grateful to Prof. Richard Price and Major Brett Gibbons for their invaluable contributions to this video.
+
+Thank you to Prof. Chad Orzel, Prof. John Eric Goff, Dr Ainissa Ramirez, Prof. Tony Schmitz &amp; Jonathan Ferguson for all their help on the project.
+
+Also thanks to Chris Anstis for his help as a stand-in QB!
+
+▀▀▀
+0:00 How Tom Brady Throws a Football
+2:51 Why do you spin a football to throw it?
+5:36 How does rifling affect a projectile? 
+9:09 The Turnover Paradox
+11:15 How fast can Tom Brady throw?
+14:31 Analysing Brady’s Throw 
+16:38 Gyroscopic Procession
+19:47 It’s impossible to throw straight
+23:17 Outdoor vs Dome Stadiums
+24:31 Why Tom Brady is the GOAT
+
+▀▀▀
+
+References:
+References can be found here - https://ve42.co/BradyReferences 
+
+Images &amp; Video:
+Image and video references can be found here - https://ve42.co/BradyVisuals 
+
+▀▀▀
+Special thanks to our Patreon supporters:
+Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, armedtoe, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Charles Ian Norman Venn, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, iRick, Jeromy Johnson, Jon Jamison, JT, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Robert Oliveira, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, wolfee
+
+▀▀▀
+
+
+Producer &amp; Director: Henry van Dyck
+Writing: Henry van Dyck &amp; Derek Muller
+Editor: Trenton Oliver
+Animators: Mike Radjabov &amp; Fabio Albetelli 
+Illustrator: Jakub Misiek
+Researchers: Emilia Gyles &amp; Gabe Strong
+Field Producer: Katy Savage
+Camera Operators: John Nicholls, Trenton Oliver, Melkwych Pierre-Louis &amp; Scott Wellington
+Drone Operators: Nathan Taupez Scinto, Angelo Fiorini
+Sound Recordist: Vlady Garcia
+Production Assistant: Leah Jiji
+Media Manager: Gabriel C. Rodriguez
+Assistant Editor: James Stuart
+Thumbnail Designers: Ren Hurley &amp; Ben Powell
+Production Team: Josh Pitt, Rob Beasley Spence, Tori Brittain &amp; Barbara Abraul
+Executive Producers: Derek Muller &amp; Zoe Heron
+
+Additional video/photos supplied by Getty Images
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=J3i3F2e4IYs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/J3i3F2e4IYs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/J3i3F2e4IYs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/J3i3F2e4IYs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/J3i3F2e4IYs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/J3i3F2e4IYs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/J3i3F2e4IYs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/J3i3F2e4IYs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Biggest Misconception in Football (ft. Tom Brady)</media:title>
+			<yt:duration seconds='1637'/>
+	        <yt:uploaded>2025-08-07T14:47:00</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>J3i3F2e4IYs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='6088225'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:SC2eSujzrUY</id>
+		<published>2025-08-07T14:47:00</published>
+		<updated>2025-08-07T14:47:00</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>How One Company Secretly Poisoned The Planet</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/SC2eSujzrUY?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=SC2eSujzrUY&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/SC2eSujzrUY/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=SC2eSujzrUY'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/SC2eSujzrUY?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/SC2eSujzrUY/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/SC2eSujzrUY?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=SC2eSujzrUY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=SC2eSujzrUY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=SC2eSujzrUY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>The biggest chemical cover up in history. PFAS has polluted the entire global water system. Now, potentially dangerous forever chemicals are being found in the entire US population. Go to https://groundnews.com/Ve to get all sides of every story. Subscribe to save 40% off the unlimited Vantage Plan through our link.
+
+If you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV
+
+Sign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter
+
+▀▀▀
+0:00 Killed by Fridges
+5:27 Teflon and The Manhattan Project
+7:59 Teflon is Tricky
+11:37 The Teflon Revolution
+13:27 Earl Tennant&apos;s Farm
+17:34 Inside DuPont
+20:28 Fluoride In Drinking Water 
+25:00 It&apos;s bigger than that
+29:23 What is PFAS?
+35:56 How much PFAS is in Derek’s blood?
+37:56 How forever chemicals get into your blood
+46:18 Removing PFAS from drinking water
+49:30 Can you lower your PFAS levels?
+
+▀▀▀
+A huge thank you to Rob Bilott for his time and expertise. Check out his fantastic book: Bilott, R. (2019). Exposure. Simon and Schuster - https://ve42.co/7R
+
+Rob&apos;s story also inspired the 2019 film: Dark Waters.
+
+Thank you to Doctor Mike for giving us a medical perspective on PFAS! Check him out at @DoctorMike 
+
+Thank you to Henrik Haggeman and the Puraffinity team, as well as Andrew Patterson and Eurofins, for doing the PFAS testing.
+
+Thank you to Leslie Hamilton, Johns Hopkins APL, Alex Conrad, Imperial College London, Jana Avgustini, and Matija Krvavica for their help on the project.
+
+▀▀▀
+PFAS Tools: 
+PFAS Blood Test - https://ve42.co/PFASTest
+What&apos;s My Exposure? via www-pfas.pfas-exchange.org - https://ve42.co/myexposure
+Serum PFAS Calculator via ics.uci.edu - https://ve42.co/pfascalculator
+Interactive Map: PFAS Contamination Crisis via www.ewg.org - https://ve42.co/pfasmapinteractive
+The Map of Forever Pollution via foreverpollution.eu - https://ve42.co/foreverpollutionmap
+Australian PFAS Chemicals Map via pfas.australianmap.net - https://ve42.co/australianpfasmap
+
+▀▀▀
+References:
+
+References can be found here - https://ve42.co/PFASReferences
+
+Images &amp; Video:
+
+Image and video references can be found here - https://ve42.co/PFASVisuals
+
+3D Models:
+
+&quot;Low Poly Base Mesh-530 Tri&quot; (https://skfb.ly/onsxE) by Huge_Man
+&quot;Blood Vessel&quot; (https://skfb.ly/owHJX) by IMU University
+“Generic Factory” (https://skfb.ly/onQpR) by assetfactory
+&quot;Lowpoly People + Waldo&quot; (https://skfb.ly/6zqCE) by Loïc Norgeot 
+PFOA Molecule via PubChem - https://pubchem.ncbi.nlm.nih.gov/compound/Perfluorooctanoic-acid
+
+▀▀▀
+Special thanks to our Patreon supporters:
+Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, iRick, Jon Jamison, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Samuel White, TTST, Tj Steyn, Ubiquity Ventures, wolfee
+
+▀▀▀
+Writers: Gregor Čavlović &amp; Derek Muller
+Producer &amp; Director: Gregor Čavlović
+Editors: Peter Nelson &amp; Jack Saxon
+Camera Operators: Tas Underwood, Emilia Gyles, Gregor Čavlović &amp; Derek Muller
+Animators: Andrew Neet, Emma Wright &amp; Fabio Albertelli
+Illustrators: Caine Esperanza, Jakub Misiek &amp; Maria Gusakovich
+Assistant Editor: James Stuart
+Additional Editor: James Horsley
+Researchers: Geeta Thakur, Darius Garewal, Gabe Strong &amp; Emilia Gyles
+Thumbnail Designers: Ren Hurley &amp; Ben Powell
+Production Team: Rob Beasley Spence, Tori Brittain, Casper Mebius, Sulli Yost &amp; Matthew Cavanagh
+Executive Producers: Derek Muller &amp; Zoe Heron
+
+Additional video/photos supplied by Getty Images, Pond5. 
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=SC2eSujzrUY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SC2eSujzrUY/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SC2eSujzrUY/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SC2eSujzrUY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SC2eSujzrUY/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SC2eSujzrUY/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SC2eSujzrUY/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SC2eSujzrUY/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>How One Company Secretly Poisoned The Planet</media:title>
+			<yt:duration seconds='3248'/>
+	        <yt:uploaded>2025-08-07T14:47:00</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>SC2eSujzrUY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='18714062'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Q56PMJbCFXQ</id>
+		<published>2025-08-07T14:47:00</published>
+		<updated>2025-08-07T14:47:00</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Most Dangerous Building in Manhattan</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Q56PMJbCFXQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Q56PMJbCFXQ&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/Q56PMJbCFXQ/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Q56PMJbCFXQ'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/Q56PMJbCFXQ?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/Q56PMJbCFXQ/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/Q56PMJbCFXQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Q56PMJbCFXQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=Q56PMJbCFXQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=Q56PMJbCFXQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>How a single phone call from a student helped uncover a flaw that nearly toppled Citicorp. Get an exclusive 15% discount on Saily data plans! Use code veritasium at checkout. Download Saily app or go to https://saily.com/veritasium 
+
+If you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV 
+
+Correction: From construction images of Citicorp, sharp-eyed viewers might see that the mid-V columns are still there. Those columns help prevent buckling of the diagonal and the weight of people on the floor above, but do not take the majority of the gravity load. So we left them out of our diagram to clearly explain the load paths. See page 70 of this source for more details - https://drive.google.com/file/d/1ODFo66-_V7Y9vKANbj53mQ0z20RZ2Uai/view
+
+Sign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter
+
+▀▀▀
+0:00 Why is the citicorp building on stilts?
+4:44 How wind load works
+7:49 Tuned Mass Dampers 
+11:17 The Anonymous Student
+14:00 Quartering Winds
+18:38 What were the odds of collapse?
+20:31 How was the citicorp building fixed?
+25:40 Hurricane Ella
+27:00 TMDs Take Over The World
+28:36 Conspiracies and Cover Ups
+
+▀▀▀
+A big thank you for the incredible people without whom we couldn&apos;t have done this! 🖤
+
+To Michael Greenburg, author of The Great Miscalculation, for his insights that really brought the story and its context to life. He gave us a pre-copy of his upcoming book, and it is fantastic: https://ve42.co/Miscalc
+To Eric Hines for all his help with the technical details, fact-checking, and making sure we got the engineering right.
+To Michael J. Vardaro for helping us uncover the details of the story and the resources he provided. 
+To Brock Hedegaard for helping us dive deep into the Citicorp structural analysis. Learn the fundamentals of structural analysis on his brilliant channel, @StructuresProfH, and see here for his analysis of the citicorp center; https://www.youtube.com/watch?v=lE_DspFE2ZM
+To Michele Barbato from UC Davis for his inputs on the load calculations.
+https://faculty.engineering.ucdavis.edu/barbato/
+Matt from @mvvvc  for talking us through his wind load analysis.
+To Prof. Chris Letchford who helped us understand the impact of wind on Citicorp&apos;s structure. 
+To DongHun Yeo from NIST for discussing his research about wind effects on buildings similar to citicorp: https://ve42.co/WindLoad
+Finally, to Team Columbia —who built the epic TMD and ran wind tunnel experiments that made this story come alive.
+This includes the folks at the Mechanical Engineering Teaching Laboratory
+(Follow all the cool stuff they’re doing: @mechcu, @columbiaengineering or visit https://teachinglab.me/)
+Amanda Lombardo, Manager of Instructional Laboratories
+Daniela Durón García, Assistant Manager of Instructional Laboratories
+Jorge Casas, Machinist
+And the amazing seniors from the Columbia Space Initiative:
+(Support their awesome work here: columbiaspace.org/support-us/, Follow them: @columbiaspaceinitiative)
+Michael Sheehan
+Claudio Solano
+Jessica Bolar
+Kathryn Lampo
+
+▀▀▀
+References:
+Michael M. Greenburg. The Great Miscalculation via. nyupress.org - https://ve42.co/Miscalc
+Joe Morgenstern. The Fifty-Nine-Story Crisis via. The New Yorker - https://ve42.co/59Crisis
+National Academy of Engineering. William LeMessurier-The Fifty-Nine-Story Crisis: A Lesson in Professional Behavior - https://www.youtube.com/watch?v=um-7IlAdAtg
+Diane Lee Hartley. Implications of a Major Urban Office Complex: The Scientific, Social and Symbolic Meanings of Citicorp Center via. princeton.edu - https://ve42.co/CitiSymbol
+Addition References here: https://ve42.co/citiref
+
+▀▀▀
+Special thanks to our Patreon supporters:
+Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Autodidactic Studios, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, HydrochloRick, Jon Jamison, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, wolfee
+
+▀▀▀
+Written and Directed by Sulli Yost
+Edited by Trenton Oliver
+Additional Editing by Axel Oliver, James Horsley and Peter Nelson
+3D Modeling by Maydelis Anaya Romero 
+Animation by Mike Radjabov, Andrew Neet, Fabio Albertelli, Jakub Misiek, and Emma Wright
+Illustration by Jakub Misiek, Maria Gusakovich and Cainejan Esperanza
+Filmed by Sulli Yost, Henry van Dyck, Andrew Abballe, Derek Muller
+Produced by Sulli Yost, Derek Muller, Casper Mebius, Zoe Heron, Rob Beasley Spence and Tori Brittain
+Additional research by Geeta Thakur
+Thumbnail contributions by Ren Hurley and Ben Powell
+Additional video/photos supplied by Getty Images, Pond5, Axiom Images and Storyblocks 
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Q56PMJbCFXQ&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q56PMJbCFXQ/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q56PMJbCFXQ/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q56PMJbCFXQ/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q56PMJbCFXQ/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q56PMJbCFXQ/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q56PMJbCFXQ/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q56PMJbCFXQ/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Most Dangerous Building in Manhattan</media:title>
+			<yt:duration seconds='2019'/>
+	        <yt:uploaded>2025-08-07T14:47:00</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>Q56PMJbCFXQ</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='14659987'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:lcjdwSY2AzM</id>
+		<published>2025-08-07T14:47:00</published>
+		<updated>2025-08-07T14:47:00</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Hole In Relativity Einstein Didn’t Predict</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/lcjdwSY2AzM?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=lcjdwSY2AzM&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/lcjdwSY2AzM/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=lcjdwSY2AzM'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/lcjdwSY2AzM?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/lcjdwSY2AzM/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/lcjdwSY2AzM?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=lcjdwSY2AzM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=lcjdwSY2AzM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=lcjdwSY2AzM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>Why does energy disappear in General Relativity? 👉 Use code VERITASIUM to get 50% off your first monthly KiwiCo Crate! https://www.kiwico.com/VERITASIUM 
+
+Try Snatoms! A molecular modelling kit I invented where the atoms snap together.
+https://ve42.co/SnatomsV 
+
+Sign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter
+
+▀▀▀
+A huge thank you to Prof. Geraint Lewis, Prof. Melissa Franklin, Prof. David Kaiser, Elba Alonso-Monsalve, Richard Behiel, Prof. Leo Stein and Jakob Schwintenberg for their invaluable expertise and contributions to this video. 
+
+Special thanks to Alessandro from ScienceClic for his help on animations and input on the script. Check out his excellent video on Noether’s theorem here: https://www.youtube.com/watch?v=hF_uHfSoOGA 
+
+▀▀▀
+0:00 What is symmetry?
+4:25 Emmy Noether and Einstein
+7:33 General Covariance
+11:59 The Principle of Least Action
+15:29 Noether’s First Theorem
+18:24 The Continuity Equation
+23:20 Escape from Germany
+24:49 The Standard Model - Higgs and Quarks
+
+▀▀▀
+References:
+MathHistory Biography - Emmy Amalie Noether via mathshistory.st-andrews.ac.uk - https://ve42.co/BioNoether
+Bartlett, J. G. (2021). The Standard Cosmological Model and CMB Anisotropies. New Astron.Rev. 43 (1999) 83-109 - https://ve42.co/CosmoCMB
+Kimberling, C. (1982). Emmy Noether, Greatest Woman Mathematician. Mathematics Teacher, March 1982, Volume 84, Number 3, pp. 246–249. - https://ve42.co/NoetherGreat
+Blunck, A., et al. (2016). Mathematik und Gender. Verlag Franzbecker - https://ve42.co/MathGender
+Evans, R. J. (1976). The Feminist movement in Germany, 1894-1933. Sage Publications - https://ve42.co/FeministGer 
+Without Emmy Noether, there would be a huge gap in mathematics and its understanding via www.mpg.de - https://ve42.co/NoetherGap 
+Dihedral group of order 6 via Wikipedia - https://ve42.co/Dihedral6
+Emmy Noether University of Erlangen via Wikipedia - https://ve42.co/Erlangen
+Timeline of women in mathematics via Wikipedia - https://ve42.co/WomenMath
+Elizaveta Litvinova via Wikipedia - https://ve42.co/LitvinovaE
+Sofya Kovalevskaya via Wikipedia - https://ve42.co/KovalevskayaS
+Charlotte Scott via Wikipedia - https://ve42.co/ScottC
+Cornelia Fabri via Wikipedia - https://ve42.co/FabriC
+Emmy Noether, the renowned mathematician who taught 20 years of unpaid classes just because she was a woman via english.elpais.com - https://ve42.co/NoetherPay
+Noether, E. (1908). Über die Bildung des Formensystems der ternären biquadratischen Form. Reimer - https://ve42.co/NDissert
+Noether, E. (1983). Invariante Variationsprobleme. Gott.Nachr.1918:235-257,1918; Transp.Theory Statist.Phys.1:186-207,1971 - https://ve42.co/InvarProb
+Noether, E. (2018). M. A. Tavel’s English translation of “Invariante Variationsprobleme”. arXiv - https://ve42.co/InvarProbEn
+Byers, N. (1998). E. Noether’s Discovery of the Deep Connection Between Symmetries and Conservation Laws*. Mod.Phys.Lett. A14 (1999) 99-104 - https://ve42.co/SymCon
+De Haro, S. (2021). Noether’s Theorems and Energy in General Relativity. Cambridge University Press, 2021 - https://ve42.co/EnergyGR
+Rowe, D. E. (2019). Emmy Noether on Energy Conservation in General Relativity. arXiv - https://ve42.co/EnergyCon
+Branding, K. (2005). A Note on General Relativity, Energy Conservation, and Noether’s Theorems. Springer - https://ve42.co/GRanEC
+
+Additional References:
+https://ve42.co/NoethersAdRefs 
+
+▀▀▀
+Special thanks to our Patreon supporters:
+Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Autodidactic Studios, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, iRick, Jon Jamison, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay,  meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, TTST, Tj Steyn, Ubiquity Ventures, wolfee
+
+▀▀▀
+Directed by Matthew Davies
+Written by Matthew Davies, Casper Mebius, Derek Muller and Pablo Rovetto
+Edited by Trenton Oliver, Peter Nelson and Nick Lear
+Animated by Fabio Albertelli, Emma Wright, Andrew Neet, Alessandro Roussel and Ivy Tello 
+Illustrations by Jakub Misiek, Cainejan Esperanza, Tommy Stevens, Maria Gusakovich and Emma Wright
+Additional research by Henry van Dyck, Gabe Strong and Darius Garewal
+Produced by Matthew Davies, Casper Mebius, Derek Muller, Zoe Heron, Rob Beasley Spence and Tori Brittain
+
+Thumbnail contributions by Jakub Misiek, Ren Hurley, Ben Powell and Peter Sheppard
+
+Additional video/photos supplied by Getty Images and Pond5
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=lcjdwSY2AzM&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lcjdwSY2AzM/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lcjdwSY2AzM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lcjdwSY2AzM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lcjdwSY2AzM/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lcjdwSY2AzM/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lcjdwSY2AzM/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lcjdwSY2AzM/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Hole In Relativity Einstein Didn’t Predict</media:title>
+			<yt:duration seconds='1659'/>
+	        <yt:uploaded>2025-08-07T14:47:00</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>lcjdwSY2AzM</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='8522246'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:_cr46G2K5Fo</id>
+		<published>2025-08-07T14:47:00</published>
+		<updated>2025-08-07T14:47:00</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Man Who Almost Broke Math (And Himself...) - Axiom of Choice</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/_cr46G2K5Fo?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=_cr46G2K5Fo&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/_cr46G2K5Fo/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=_cr46G2K5Fo'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/_cr46G2K5Fo?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/_cr46G2K5Fo/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/_cr46G2K5Fo?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=_cr46G2K5Fo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=_cr46G2K5Fo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=_cr46G2K5Fo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>How do you make infinite choices? 👉 To try everything Brilliant has to offer for free for a full 30 days, visit http://brilliant.org/veritasium. You’ll also get 20% off an annual premium subscription.
+
+Try Snatoms! A molecular modelling kit I invented where the atoms snap together.
+https://ve42.co/SnatomsV 
+
+Sign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter
+
+▀▀▀
+A huge thank you to Dr Asaf Karagila, Prof. Alex Kontorovich, Prof. Joel David Hamkins, Prof. Andrew Marks, Prof. Gabriel Goldberg and Prof. Elliot Glazer for their invaluable expertise and contributions to this video. 
+
+Head over and sign up to our Patreon for some exclusive behind the scenes footage, showing how the animations and illustrations for this video were made - https://www.patreon.com/posts/patreon-behind-126443880?utm_medium=clipboard_copy&amp;utm_source=copyLink&amp;utm_campaign=postshare_creator&amp;utm_content=join_link
+
+▀▀▀
+0:00 What comes after one?
+2:42 Some infinities are bigger than others
+6:17 The Well Ordering Principle 
+10:32 Zermelo And The Axiom Of Choice
+17:22 Why is the axiom of choice controversial?
+23:16 The Banach–Tarski Paradox
+27:53 Obviously True, Obviously False
+29:58 Your Proof Your Choice 
+
+▀▀▀
+References:
+
+Up and Atom - https://www.youtube.com/watch?v=X56zst79Xjg    
+Minutephysics -  https://www.youtube.com/watch?v=A-QoutHCu4o  
+PBS Infinite Series - https://www.youtube.com/watch?v=hcRZadc5KpI&amp;t=125s    
+Vsauce - https://www.youtube.com/watch?v=s86-Z-CbaHA&amp;t=474s 
+Ernst Zermelo via Wikipedia - https://ve42.co/zermeloBio   
+Axiom of choice via Wikipedia - https://ve42.co/choiceAxiom  
+Georg Cantor via Wikipedia - https://ve42.co/cantorMath 
+Gregory H. Moore (2013). Consequences of the Axiom of Choice. Dover Publications - https://ve42.co/choiceBook 
+Georg Cantor (1874). On a property of the class of all real algebraic numbers. Journal für die Reine und Angewandte Mathematik  - https://ve42.co/MeyerCantor1874 
+Heinz-Dieter Ebbinghaus (Dec 2012). Zermelo and the Heidelberg Congress 1904. Historia Mathematica - https://ve42.co/SciDirect1904 
+Herbert B. Enderton (1977). Elements of Set Theory.  - https://ve42.co/SciDirectGCH 
+
+Additional References - https://ve42.co/AoCAdRefs 
+
+Images &amp; Video: 
+
+Foundations of a general theory of sets by Georg Cantor via ViaLibri - https://ve42.co/grundlagen 
+Alfred Tarski by George Bergman via Wikimedia Commons - https://ve42.co/tarski 
+Alfred Tarski Offprint Group by Alfred Tarski via Bonhams - https://ve42.co/tarskipaper 
+La mission strasbourgeoise de Maurice Fréchet by Laurent Mazliak via Images des mathematiques - https://ve42.co/frechet 
+Kurt Gödel by Alfred Eisenstaedt via New Yorker  - https://ve42.co/godel 
+Leopold Kronecker by Granger  via Fine Art America - https://ve42.co/kronecker 
+Lashi Bandara (2006). Zermelo-Frankel Set Theory and Well Orderings. ResearchGate - https://ve42.co/zermelofrankel 
+Heidelberg, Germany 1936 by Wagner &amp; Debes via Ward Maps - https://ve42.co/heidelberg 
+Pythagoras  by J. Augustus Knapp via the marginalian - https://ve42.co/pythag 
+Paul Cohen by C. J. Mozzochi via C. J. Mozzochi - https://ve42.co/paulcohen 
+Instituto de Matemática Pura e Aplicada. Lecture 01: Introduction: a non-measurable set via Youtube - https://www.youtube.com/watch?v=llnNaRzuvd4&amp;t=834s 
+Simons Foundation. Fields Medal: James Maynard. Youtube https://www.youtube.com/watch?v=un-z8kgOrV0&amp;t=8s
+
+▀▀▀
+Special thanks to our Patreon supporters:
+Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Autodidactic Studios, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, HydrochloRick, Jon Jamison, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, wolfee
+
+
+▀▀▀
+Directed by Kaela Albert
+Written by Kaela Albert and Emily Zhang 
+Edited by Jack Saxon and Luke Molloy
+Assistant Edited by James Stuart
+Animated by Fabio Albertelli, Andrew Neet, Alex Zepharin, Mike Radjabov, Emma Wright and Ivy Tello
+Illustrations by Jakub Misiek, Maria Gusakovich, Cainejan Esperanza, Tommy A. Steven and Emma Wright
+Additional research by Emilia Gyles, Gabe Bean, Geeta Thakur and Vincent Cheng 
+Produced by Kaela Albert, Casper Mebius, Derek Muller, Emily Zhang, Zoe Heron, Rob Beasley Spence, and Tori Brittain
+Additional Editing by Luke Molloy and James Stuart
+
+Thumbnail contributions by Ben Powell, Peter Sheppard and Ren Hurley  
+
+Additional video/photos supplied by Getty Images and Storyblocks
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=_cr46G2K5Fo&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_cr46G2K5Fo/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_cr46G2K5Fo/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_cr46G2K5Fo/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_cr46G2K5Fo/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_cr46G2K5Fo/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_cr46G2K5Fo/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_cr46G2K5Fo/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Man Who Almost Broke Math (And Himself...) - Axiom of Choice</media:title>
+			<yt:duration seconds='1980'/>
+	        <yt:uploaded>2025-08-07T14:47:00</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>_cr46G2K5Fo</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='10695080'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:20vUNgRdB4o</id>
+		<published>2025-08-07T14:47:01</published>
+		<updated>2025-08-07T14:47:01</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>How this helicopter survived 1004 days on Mars, then disappeared...</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/20vUNgRdB4o?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=20vUNgRdB4o&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/20vUNgRdB4o/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=20vUNgRdB4o'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/20vUNgRdB4o?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/20vUNgRdB4o/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/20vUNgRdB4o?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=20vUNgRdB4o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=20vUNgRdB4o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=20vUNgRdB4o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>How a helicopter built of phone parts survived Mars for 3 years. Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off an annual Incogni plan.
+
+Try Snatoms! A molecular modelling kit I invented where the atoms snap together.
+https://ve42.co/SnatomsV 
+
+Correction: 
+0:12, we say that ingenuity is 680g which is its weight on Mars. On Earth however, it weighs around 1800g.
+
+Clarifications:
+- A Patreon supporter named Zeus pointed out that we were wrong about Perseverance&apos;s/Ingenuity&apos;s position on Mars. It is in the Northern Hemisphere and hence Mars would be getting closer to the Sun as it goes into winter.
+- Ingenuity was on Mars for 1004 Earth days.
+
+Sign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter
+
+▀▀▀
+A massive thank you to the team at JPL and especially Teddy Tzanetos, Travis Brown, Håvard Grip and DC Agle
+
+Check out Astrum&apos;s video on Mars - https://www.youtube.com/watch?v=b7mjp7MDx_w
+
+▀▀▀
+0:00 How Did Ingenuity Get To Mars?
+3:23 Better Results, Bigger Expectations
+6:15 Wobblecopter
+7:48 Dust On Mars
+9:41 What Is The Temperature On Mars?
+11:54 Wake-Up Call
+13:41 Android To The Rescue
+16:22 Cosmic Rays
+20:53 Dune and The Crash
+25:26 The Next Generation
+
+▀▀▀
+References:
+
+Ingenuity Mars Helicopter - NASA Science via science.nasa.gov - https://ve42.co/marsheli2 
+Ingenuity (helicopter) via Wikipedia - https://ve42.co/wikiheli 
+Mars Facts | NASA Mars Exploration via science.nasa.gov - https://ve42.co/marsfacts 
+Inside the Ingenuity Helicopter Teamwork on Mars via insideunmannedsystems.com - https://ve42.co/marscrew 
+Ingenuity Adapts for Mars Winter Operations via science.nasa.gov - https://ve42.co/marswinter 
+Ingenuity Is Doing Surprisingly Well via www.universetoday.com - https://ve42.co/marswell 
+Remember NASA&apos;s Little Mars Copter? It&apos;s Still Going Strong via www.sciencealert.com - https://ve42.co/marsstrong 
+How Far Away Is Mars? via www.space.com - https://ve42.co/marsdist 
+Mars Cameras via science.nasa.gov - https://ve42.co/marsorb 
+Mars Exploration Meeting Documentation via www.hou.usra.edu - https://ve42.co/marsmeet 
+Ingenuity Quick Facts via www.jpl.nasa.gov - https://ve42.co/marsquick 
+Flight 14 Delayed via science.nasa.gov - https://ve42.co/marsspin 
+
+Additional References - https://ve42.co/MarsAdRefs 
+
+Images &amp; Video:
+
+Images and video from Perseverance and Ingenuity missions supplied by the NASA Jet Propulsion Laboratory
+
+Matthias (3 axis accelerometer, 3 axis gyroscope) https://youtu.be/yqFfmwVufMo?si=IoCj32PeVNZ4VJ-F
+Veritasium. https://youtu.be/ty9QSiVC2g0?si=Gb48I-YjADPbPUsL
+The Limiting Factor 
+https://youtu.be/4-1psMHSpKs?si=LF1jfLLNsBwRfwkB
+NASA Jet Propulsion Laboratory. https://youtu.be/xsUtq8PwZpQ?si=xOC91fdoSHdJndgx
+VideoFromSpace. https://youtu.be/Kb0Pc22N6w4?si=4uSUetsSUKFTStme
+NASA Jet Propulsion Laboratory. https://youtu.be/qMbHE_VXI-8?si=TNePbTRpcN3oLEVJ
+Veritasium. https://youtu.be/GhsZUZmJvaM?si=IIY0uuDrT-LzY5bI
+Sighawke. https://youtu.be/OdKAW_0ENPU?si=18ZXXll3wSMj_Ex3
+NASA Jet Propulsion Laboratory. https://youtu.be/thk4Rha-fTk?si=_elC6Iqm1uaSjEFX
+NASA Jet Propulsion Laboratory. https://youtu.be/PFbzEM8PzHE?si=LmO71EVFqBAn6NEw
+NASA Jet Propulsion Laboratory. https://youtu.be/ia6S1jZmwWc?si=aAFC-BEmGwHIIqH7
+JPL Raw. https://youtu.be/uz4GaAE7OMQ?si=7084_GDkrGnSSVTy
+NASA Jet Propulsion Laboratory. https://youtu.be/U7DFnNimSfw?si=JgwO2SNU9HXf3GIa
+Apex Clips. https://youtu.be/NttUBB98zg4?si=j1OEQD1VBONTEEPI
+Veritasium. https://youtu.be/AaZ_RSt0KP8?si=h7NKzMtJ87HRZ-bB
+Cyber Chaos Crew. https://youtu.be/-KFH--_cdiI?si=S5rv8RjTtscu-S22
+NBC News. https://youtu.be/lFiTjZDOekg?si=6a43qnPdveHaz6YA
+
+Further image and video credits - https://docs.google.com/document/d/19fkGlnMj86GoISqBuEJbmW5oIpDI-JwDmlM7-iFITzU/edit?usp=sharing
+
+▀▀▀
+Special thanks to our Patreon supporters:
+
+Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Autodidactic Studios, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, HydrochloRick, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, TTST, Tj Steyn, Ubiquity Ventures, wolfee
+
+▀▀▀
+Directed by Henry van Dyck
+Written by Henry van Dyck
+Edited by Trenton Oliver
+On-site Interviews by Jonny Hyman
+Filming by Alex Gorosh
+Produced by Rob Beasley Spence, Tori Brittain, Jonny Hyman, Henry van Dyck, Gabe Strong, Zoe Heron, and Derek Muller
+Animated by Emma Wright and Mike Radjabov
+Additional Research by Gabe Strong and Darius Garewal
+Additional Editing by James Stuart
+Thumbnail contributions by Ben Powell, Ren Hurley, Peter Sheppard, Gregor Čavlović and Henry van Dyck
+
+Additional video/photos supplied by NASA JPL, Getty Images and Storyblocks
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=20vUNgRdB4o&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/20vUNgRdB4o/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/20vUNgRdB4o/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/20vUNgRdB4o/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/20vUNgRdB4o/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/20vUNgRdB4o/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/20vUNgRdB4o/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/20vUNgRdB4o/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>How this helicopter survived 1004 days on Mars, then disappeared...</media:title>
+			<yt:duration seconds='1747'/>
+	        <yt:uploaded>2025-08-07T14:47:01</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>20vUNgRdB4o</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='7537043'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:qJZ1Ez28C-A</id>
+		<published>2025-08-07T14:47:01</published>
+		<updated>2025-08-07T14:47:01</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Something Strange Happens When You Trust Quantum Mechanics</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/qJZ1Ez28C-A?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=qJZ1Ez28C-A&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/qJZ1Ez28C-A/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=qJZ1Ez28C-A'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/qJZ1Ez28C-A?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/qJZ1Ez28C-A/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/qJZ1Ez28C-A?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=qJZ1Ez28C-A' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=qJZ1Ez28C-A' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=qJZ1Ez28C-A' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>Does light take all possible paths at the same time? 🌏 Get exclusive NordVPN deal here ➵  https://NordVPN.com/veritasium It’s risk free with Nord’s 30 day money-back guarantee!✌
+
+A massive thank you to Dr. Andrew Mitchell for all his help and expertise. If you want to delve further into this topic then we highly recommend his lecture on Classical physics derived from quantum mechanics: https://www.youtube.com/watch?v=2iuLwWDYC4U&amp;t=1s
+
+We’re incredibly grateful to Prof. David Kaiser, Prof. Steven Strogatz, Prof. Geraint F. Lewis, Elba Alonso-Monsalve, Prof. Christopher S. Baird, Prof. Anthony Bloch, and Prof. Stephen Bartlett for their invaluable contributions to this video.
+
+A special thanks to Mahesh Shenoy from FloatHeadPhysics for his help with this video. Check out his excellent intuitive video on the UV Catastrophe here (Sep 2024): https://www.youtube.com/watch?v=ALEDjjAVZSY 
+
+Sign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter
+
+▀▀▀
+0:00 What path does light travel?
+2:40 Black Body Radiation
+6:47 How did Planck solve the ultraviolet catastrophe?
+9:42 The Quantum of Action
+13:25 De Broglie’s Hypothesis 
+15:16 The Double Slit Experiment
+20:00 How Feynman Did Quantum Mechanics
+25:01 Proof That Light Takes Every Path
+31:16 The Theory of Everything
+
+▀▀▀
+Sign up to our Patreon to watch the Q&amp;A for free: https://www.patreon.com/c/veritasium
+
+Try Snatoms! A molecular modelling kit I invented where the atoms snap together.
+https://ve42.co/SnatomsV    
+
+▀▀▀
+References:
+Armin Hermann  (Nov 1974). The Genesis of Quantum Theory (1899-1913).  - https://ve42.co/genquanttheor 
+Richard P. Feynman  (1985). QED The Strange Theory of Light and Matter.  - https://ve42.co/qed 
+A fantastic book on the history of the Principle of Least Action: Rojo, A. and Bloch, A. The 
+Principle of Least Action: History and Physics. - https://ve42.co/Bloch2018 
+Coopersmith, J.  (2017). The lazy universe: an introduction to the principle of least action. Oxford University Press. - https://ve42.co/LazyU 
+PBS Space Time. (Nov 2021) - https://www.youtube.com/watch?v=Q_CQDSlmboA
+Sabine Hossenfelder. (May 2022) - https://www.youtube.com/watch?v=A0da8TEeaeE
+Max Planck (1901). On the Law of Distribution of Energy in the Normal Spectrum. Annalen der Physik - https://ve42.co/lawdistenergy 
+Paul Ehrenfest (1911). Welche Züge der Lichtquantenhypothese spielen in der Theorie der Wärmestrahlung eine wesentliche Rolle?. Wiley Online Library  - https://ve42.co/quantthermrad 
+Nils-Erik Bomark and Reidun Renstrøm (Aug 2023). The Ultraviolet myth. Proceedings of Science  - https://ve42.co/uvmyth 
+Planck&apos;s law. In Wikipedia - https://ve42.co/planckslaw 
+PBS Space Time. (Jul 2017). - https://www.youtube.com/watch?v=vSFRN-ymfgE&amp;t=10s
+Einstein and The Photoelectric Effect. (Jan 2005) via APS News - https://ve42.co/einsteinphotoelec 
+Louis de Broglie (1924). On the Theory of Quanta.  - https://ve42.co/theoryquanta 
+Larry Sorensen (2012). Path Integrals 1. University of Washington - https://ve42.co/pathintegrals 
+Feynman’s Method of “A Particle Exploring All Possible Paths”. (Mar 2018) via Pure Dhamma - https://ve42.co/allposspaths 
+
+Additional References - https://ve42.co/AdditionalReferences-PoLA2
+
+Images &amp; Video:
+Nobistor Altona 1880 via NDR - https://ve42.co/streetlight 
+Edison incandescent lights by William J. Hammer via Wikimedia Commons - https://ve42.co/edinclights 
+The full expanded form of the Standard Model Lagrangian by Chen Ning Yang et al. via Wikipedia - https://ve42.co/stmodellang 
+Muon Ray. (2011). https://www.youtube.com/watch?v=-QUj2ZRUa7c
+Muon Ray. (2011). https://www.youtube.com/watch?v=1C7abO7LtV0
+Bohrs Atomic Model via EEEGUIDE.COM - https://ve42.co/bohrmodel 
+
+▀▀▀
+Special thanks to our Patreon supporters:
+Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Autodidactic Studios, Balkrishna Heroor, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, qiaohui wei, Richard Sundvall, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, wolfee
+
+▀▀▀
+Directed by Casper Mebius
+Written by Casper Mebius and Derek Muller
+Edited by Trenton Oliver and Peter Nelson
+Animated by Fabio Albertelli, Mike Radjabov, Ivy Tello, Andrew Neet and Emma Wright
+Illustrations by Jakub Misiek, Tommy A. Steven and Cainejan Esperanza
+Filmed by Derek Muller and Casper Mebius
+Produced by Casper Mebius, Derek Muller, Rob Beasley Spence, Gabe Strong, Geeta Thakur, Emilia Gyles, Zoe Heron, Emily Zhang and Tori Brittain
+
+Thumbnail contributions by Ignat Berbeci, Ben Powell, Jakub Misiek, Ren Hurley, and Peter Sheppard
+
+Additional video/photos supplied by Getty Images and Storyblocks
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=qJZ1Ez28C-A&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qJZ1Ez28C-A/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qJZ1Ez28C-A/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qJZ1Ez28C-A/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qJZ1Ez28C-A/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qJZ1Ez28C-A/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qJZ1Ez28C-A/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qJZ1Ez28C-A/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Something Strange Happens When You Trust Quantum Mechanics</media:title>
+			<yt:duration seconds='1980'/>
+	        <yt:uploaded>2025-08-07T14:47:01</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>qJZ1Ez28C-A</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='12371702'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:dFVrncgIvos</id>
+		<published>2025-08-07T14:47:01</published>
+		<updated>2025-08-07T14:47:01</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Google Interview Question Everyone Gets Wrong</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/dFVrncgIvos?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=dFVrncgIvos&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/dFVrncgIvos/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=dFVrncgIvos'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/dFVrncgIvos?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/dFVrncgIvos/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/dFVrncgIvos?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=dFVrncgIvos' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=dFVrncgIvos' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=dFVrncgIvos' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>Are you smart enough to solve this Google interview question? Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off an annual Incogni plan.
+
+A massive thank you to Dan Goldman, Jeff Aguilar, Daniel Soto and Georgia Tech’s Complex Rheology And Biomechanics Lab
+We’re incredibly grateful to Carl Zimmer, Gayle McDowell, and Geoffrey West
+
+Correction: Dan Goldman is a Professor of Physics not Biomechanics.
+
+Sign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter
+
+▀▀▀
+0:00 Hard Google Interview Question
+2:34 How do Geckos stick to walls?
+5:58 Do physicists know the answer?
+7:01 The Square-Cube Law
+9:10 Tiny Superheroes
+10:23 Simulating the problem
+13:36 Adding Air Resistance
+15:14 The End? 
+16:16 What would happen if you were shrunk?
+17:39 What interviewers actually look for
+
+▀▀▀
+Try Snatoms! A molecular modelling kit I invented where the atoms snap together.
+https://ve42.co/SnatomsV  
+
+▀▀▀
+References:
+William Poundstone (Jan 2012). Are You Smart Enough to Work at Google?.  - https://ve42.co/smartenough 
+Giovanni Alfonso Borelli. Translated by Paul Maquet (1989). On the Movement of Animals.  - https://ve42.co/borellianimals 
+In Head-Hunting, Big Data May Not Be Such a Big Deal. (Jun 2013) via New York Times - https://ve42.co/headhuntbigdata 
+Drag Forces. via Lumen Learning  - https://ve42.co/dragforces 
+R. McN. Alexander (Feb 1995). Leg design and jumping technique for humans, other vertebrates and insects. The Royal Society Publishing  - https://ve42.co/legdesignjump 
+Sharon B. Emerson (Sep 1978). Allometry and Jumping in Frogs: Helping the Twain to Meet. JSTOR - https://ve42.co/allometryfrogs 
+Jay J. Meyers, Anthony Herrel &amp; James Birch (Jan 2002). Scaling of Morphology, Bite Force and Feeding Kinematics in an Iguanian and a Scleroglossan Lizard. Anthony Herrel - https://ve42.co/scalinglizard 
+Kirby TJ, McBride JM, Haines TL, Dayne AM.  (Aug 2011). Relative Net Vertical Impulse Determines Jumping Performance. Journal of Applied Biomechanics  - https://ve42.co/jumpperformance 
+Rasmussen Mette H. et al  (Jul 2022). Evidence that gecko setae are coated with an ordered nanometre-thin lipid film. The Royal Society Publishing  - https://ve42.co/geckosetae
+Body Orientation During a Skydive. via Libre Texts Physics  - https://ve42.co/skydivephysics 
+
+▀▀▀
+Images &amp; Video:
+Here’s how many Google interviews it takes to hire a Googler. (Apr 2019) via CNBC Make It - https://ve42.co/googleinterviews 
+Google received 3.3 million job applications in 2019. (Jan 2020) via Axios - https://ve42.co/googleapplications 
+Here’s why you only have a 0.2% chance of getting hired at Google. (Oct 2014) via Quartz - https://ve42.co/hiredgoogle 
+Dear Reddit, my friend was asked this RIDICULOUS question in a job interview, what’s the best possible answer?. (2011) via Reddit - https://ve42.co/redditblender 
+Mark Rober. (May 2020) Backyard Squirrel Maze 1.0- Ninja Warrior Course https://www.youtube.com/watch?v=hFZFjoX2cGg
+Cambridge University. (Feb 2010) Cambridge Ideas - Sticky Feet https://www.youtube.com/watch?v=hd5upt3IrWM
+IV C. (Oct 2023)Incredible Shrinking Man (1957) Jack Arnold. The spider scene. El increíble hombre menguante. Araña https://www.youtube.com/watch?v=wJiJsbBBHpE&amp;t=7s
+Russ Amy. (Apr 2018) Honey I Shrunk the Kids 1989 1080p BluRay X264 AMIABLE mkv https://www.youtube.com/watch?v=byxGZ8cD7rk
+R Sisters Gaming. (Feb 2022) It Takes Two - Destroyed by the Blender https://www.youtube.com/watch?v=QqrPufq2jP8
+ClipsyBox. (May 2017) Hulk vs. Ant-Man - Coca-Cola: Coke Mini https://www.youtube.com/watch?v=sMkGwCw7iv8
+El Gato. (June 2021) Squirrel has 44&quot; vertical jump straight up to bird feeder! jumping https://www.youtube.com/watch?v=ethwLHw46JM
+A-purpose . (Apr 2024). Who can jump bigger part #2 via Youtube - https://www.youtube.com/shorts/mJhf7wYNkYA 
+
+▀▀▀
+Special thanks to our Patreon supporters:
+
+Adam Foreman, Albert Wenger, Alex Porter, Alexander Tamas, Anton Ragin, Autodidactic Studios, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, David Tseng, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, Juan Benet, Keith England, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, qiaohui wei, Richard Sundvall, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures, wolfee
+
+▀▀▀
+Directed by Henry van Dyck
+Written by Henry van Dyck
+Edited by Peter Nelson and Nick Lear
+Assistant Edited by James Stuart
+Animated by Fabio Albertelli, Andrew Neet, Jakub Misiek and Emma Wright
+Filmed by Henry van Dyck and Lukas Guderjahn
+Additional Research by Emilia Gyles and Geeta Thakur
+Produced by Derek Muller, Henry van Dyck, Zoe Heron, Rob Beasley Spence and Tori Brittain 
+Thumbnail contributions by Ben Powell, Ren Hurley and Henry van Dyck
+Additional video/photos supplied by Getty Images and Storyblocks
+Music from Epidemic Sound and Jonny Hyman</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=dFVrncgIvos&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dFVrncgIvos/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dFVrncgIvos/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dFVrncgIvos/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dFVrncgIvos/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dFVrncgIvos/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dFVrncgIvos/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dFVrncgIvos/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Google Interview Question Everyone Gets Wrong</media:title>
+			<yt:duration seconds='1212'/>
+	        <yt:uploaded>2025-08-07T14:47:01</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>dFVrncgIvos</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='7316590'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:P_fHJIYENdI</id>
+		<published>2025-08-07T14:47:01</published>
+		<updated>2025-08-07T14:47:01</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>AlphaFold - The Most Useful Thing AI Has Ever Done</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/P_fHJIYENdI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=P_fHJIYENdI&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/P_fHJIYENdI/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=P_fHJIYENdI'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/P_fHJIYENdI?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/P_fHJIYENdI/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/P_fHJIYENdI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=P_fHJIYENdI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=P_fHJIYENdI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=P_fHJIYENdI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>The biggest problems in the world might be solved by tiny molecules unlocked using AI. Take your big idea online today with https://ve42.co/hostinger - code VE at checkout.
+
+A huge thank you to John Jumper and Kathryn Tunyasuvunakool at Google Deepmind; and to David Baker and the Institute for Protein Design at the University of Washington for their invaluable expertise and explanations.
+
+We’re incredibly grateful to Juanita Bagawan and Lucie Kerley at Google Deepmind, and Ian C. Haydon at the UW Institute for Protein Design for their assistance with some of the animation and imagery used in this video.
+
+Special thanks to those at Google DeepMind Production Studios for their help interviewing John Jumper:
+Director - Bernardo Resende
+Director of Photography - Robert Messere
+Senior Audio Technician - Perry Rogantin
+Senior Production Coordinator - Sarah Ellen Morton
+Studio Manager - Nicholas Duke
+
+For more on this topic head over to our Patreon for the exclusive extended interview https://www.patreon.com/posts/patreon-with-cut-122274530?utm_medium=clipboard_copy&amp;utm_source=copyLink&amp;utm_campaign=postshare_creator&amp;utm_content=join_link
+
+▀▀▀
+0:00 How to determine protein structures
+3:50 Why are proteins so complicated?
+5:34 The CASP Competition and Deep Mind 
+9:08 How does Alphafold work?
+12:06 3 ways to get better AI
+14:24 What is a Transformer in AI? 
+17:15 The Structure Module
+18:35 Alphafold 2 wins the Nobel Prize
+20:36 Designing New Proteins - RF Diffusion
+22:58 The Future of AI
+
+▀▀▀
+Try Snatoms! A molecular modelling kit I invented where the atoms snap together.
+https://ve42.co/SnatomsV  
+
+Sign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter
+
+▀▀▀
+References and Credits:
+How AI Revolutionized Protein Science, but Didn’t End It. (Jun 2024) via Quanta Magazine  - https://ve42.co/airev 
+Jumper, J., Evans, R., Pritzel, A. et al.  (Jul 2021). Highly accurate protein structure prediction with AlphaFold. Nature - https://ve42.co/alphafoldtwo 
+Senior, A.W., Evans, R., Jumper, J. et al.  (Jan 2020). Improved protein structure prediction using potentials from deep learning. Nature - https://ve42.co/alphafold 
+R Zwanzig, A Szabo, B Bagchi  (Jan 1992). Levinthal&apos;s paradox. PMC, National Institute of Health - https://ve42.co/levparadox 
+Khatib, F., DiMaio, F., Foldit Contenders Group. et al.  (Sept 2011). Crystal structure of a monomeric retroviral protease solved by protein folding game players. Nature - https://ve42.co/proteinfoldingsolved 
+DeepMind co-founder: Gaming inspired AI breakthrough. (Dec 2020) via BBC - https://ve42.co/aibreakthrough 
+3Blue1Brown. (Apr 2024). Transformers (how LLMs work) explained visually | DL5 via Youtube - https://ve42.co/transformers 
+AlphaFold impact stories. via Deepmind Blog - https://ve42.co/foldimpact 
+Quanta Magazine. (Oct 2024). How AI Cracked the Protein Folding Code and Won a Nobel Prize via Youtube - https://ve42.co/proteinfolding 
+Looking Glass Universe. (Apr 2024). how AlphaFold *actually* works via Youtube - https://ve42.co/foldworks 
+Google DeepMind. (Nov 2020). AlphaFold: The making of a scientific breakthrough via Youtube - https://ve42.co/alphafoldvideo 
+Nobel Prize. (Dec 2024). 2024 Nobel Prize lectures in chemistry | David Baker, Demis Hassabis and John Jumper via Youtube - https://ve42.co/nobelchem 
+The AlphaFold2 Method Paper: A Fount of Good Ideas. (Jul 2021) via moalquraishi.wordpress - https://ve42.co/Alphafoldpaper 
+Why Don&apos;t We Have More Protein-Protein Drug Molecules? (Dec 2009) via Science - https://ve42.co/proteindrugmol 
+Data sonification. via Carla Scaletti  - https://ve42.co/datasonification
+
+Images &amp; Video:
+Available here - https://ve42.co/alphafoldvisuals 
+
+And if you want to learn more about how we have been making antivenom check out our previous video How Horses Save Humans From Snakebites - https://ve42.co/veantivenom 
+
+▀▀▀
+Special thanks to our Patreon supporters:
+
+Adam Foreman, Albert Wenger, Alexander Tamas, Anton Ragin, Autodidactic Studios, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, I. H., Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Spilmann Reed, Tj Steyn, TTST, Ubiquity Ventures, wolfee
+
+▀▀▀
+Directed by Sumeet Kulkarni
+Written by Sumeet Kulkarni, Derek Muller and Zoe Heron
+Edited by Jack Saxon
+Animated by Ivy Tello, Emma Wright, Andrew Neet and Fabio Albertelli 
+Illustrated by Jakub Misiek
+Filmed and demos done by Sumeet Kulkarni 
+Additional research by Geeta Thakur, Vincent Cheng and Emilia Gyles
+Produced by Sumeet Kulkarni, Derek Muller, Zoe Heron, Rob Beasley Spence and Tori Brittain
+Thumbnail contributions by Ren Hurley, Peter Sheppard and Ben Powell
+Additional video/photos supplied by Getty Images and Storyblocks
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=P_fHJIYENdI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P_fHJIYENdI/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P_fHJIYENdI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P_fHJIYENdI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P_fHJIYENdI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P_fHJIYENdI/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P_fHJIYENdI/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P_fHJIYENdI/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>AlphaFold - The Most Useful Thing AI Has Ever Done</media:title>
+			<yt:duration seconds='1491'/>
+	        <yt:uploaded>2025-08-07T14:47:01</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>P_fHJIYENdI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='9256250'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:vjDYfvPW4mA</id>
+		<published>2025-08-07T14:47:02</published>
+		<updated>2025-08-07T14:47:02</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>What Everyone Gets Wrong About Planes</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/vjDYfvPW4mA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=vjDYfvPW4mA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/vjDYfvPW4mA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=vjDYfvPW4mA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/vjDYfvPW4mA?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/vjDYfvPW4mA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/vjDYfvPW4mA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=vjDYfvPW4mA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=vjDYfvPW4mA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=vjDYfvPW4mA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>Myths and misconceptions about planes. Go to https://groundnews.com/Ver to see through media misconceptions and get all sides of every story. Subscribe to save 40% off unlimited access through our link.
+
+If you enjoyed this video and want to go deeper, you&apos;ll find extended interviews, deleted scenes, and some of our early thumbnail concepts over on Patreon https://www.patreon.com/posts/patreon-what-112039394
+
+A massive thank you to Petter Hörnfeldt for his expertise and time. Check out @MentourPilot.
+
+A huge thank you to Baz Collins, Nick Woods, Val Bukmanis, and everyone at the Queensland Air Museum for hosting us and making this shoot possible - https://ve42.co/QLDAir
+
+A special thanks to Roddy McNamee for helping out with the script - https://ve42.co/RMcN
+
+A big thank you to Emily Zhang, Petr Lebedev, and Casper Mebius for their help and guidance!
+
+00:00 Can plane doors be opened mid-flight?
+00:28 How high do planes fly?
+02:31 How do jet engines work?
+04:43 Airplanes before cabin pressurization
+05:34 Why don’t pressurized planes need door locks?
+07:07 Do people fart more in planes?
+07:57 The story of Aloha Airlines Flight 243
+09:21 The story of Asiana Airlines Flight AA8124
+09:57 Is “airplane mode” on phones real?
+13:53 Why does airplane food taste bad?
+15:07 Why do people drink tomato juice on planes?
+16:15 How safe is air travel?
+
+▀▀▀
+
+Special thanks to our Patreon supporters! Join the community to help us keep our videos free, forever: https://ve42.co/PatreonDE 
+
+Adam Foreman, Albert Wenger, Anton Ragin, Balkrishna Heroor, Bertrand Serlet, Bill Linder, Blake Byers, Bruce, Burt Humburg, Dave Kircher, David Johnston, Evgeny Skvortsov, Garrett Mueller, Gnare, I. H., Jack Cuprill, John H. Austin, Jr., Josh Hibschman, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, TTST, Tj Steyn, Ubiquity Ventures, gpoly, john kiehl, meg noah, wolfee
+
+If you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV 
+
+▀▀▀
+References:
+Pilot’s Handbook of Aeronautical Knowledge via the FAA - https://ve42.co/LiftandDragEqs 
+Compressor efficiency by Roddy McNamee - https://ve42.co/Compressor 
+Garrido, E. et. al. (2019). Breathless and dying on Mount Everest. The Lancet Respiratory Medicine - https://ve42.co/Everest3min 
+Cabin Pressurization via Wikipedia  - https://ve42.co/CabinPressure 
+B737 door specifications by Chris Brady - https://ve42.co/737door 
+Aloha Airlines 243 Accident Report by the NTSB - https://ve42.co/AlohaAirline 
+Boeing 737-297 Specifications via the FAA  - https://ve42.co/AlohaCycles 
+(PED) Aviation Rulemaking Committee via the FAA - https://ve42.co/AirplaneMode 
+Ritchie, C. (1996). Potential Liability from Electromagnetic Interference. Journal of Air Law and Commerce  - https://ve42.co/Ritchie1996 
+FAA restrictions via eCFR - https://ve42.co/FAArules 
+Is Phone Interference Phony? via Wired - https://ve42.co/FCCTesting 
+Sabatini N. (2005). Statement before the Subcommittee of Aviation. U.S. Department of Transportation  - https://ve42.co/FCCquote 
+EU rules on Airplane Mode via euronews.com - https://ve42.co/EUAPM 
+Mayer, F. et al. (2022). Indoor Air Quality in Commercial Air Transportation. Handbook of Indoor Air Quality  - https://ve42.co/PlaneHumid 
+Burdack-Freitag, et al. (2010). Odor and taste perception in a simulated aircraft cabin. Journal of Consumer Protection and Food Safety. - https://ve42.co/SmellTaste 
+
+Images &amp; Video:
+Passenger Opens Emergency Exit via 10 News First - https://ve42.co/Jetstar
+Airplane-Door OPENS Mid-flight! by Mentour Pilot - https://ve42.co/MentourAsia 
+A320 Door by Captain Time - https://ve42.co/A320Door
+B737 Door by Abdulrahman Ismail - https://ve42.co/B737Door
+The Miracle Landing Of Aloha Airlines Flight 243 by Wonder - https://ve42.co/Wonder243 
+Terrifying video shows Asiana flight door open in mid-air by National Post - https://ve42.co/PlaneDoorOpen 
+Faraday Cage by Radwell International - https://ve42.co/Faraday
+Anatomy of the Inner Ear model by Annie Campbell, Now Medical Studios - https://ve42.co/EarAnatomy 
+
+▀▀▀
+Directed by Gregor Čavlović and Derek Muller
+Written by Gregor Čavlović, Derek Muller, Petr Lebedev, Emily Zhang, and Casper Mebius
+Edited by Jack Saxon
+Animated by Mike Radjabov, Fabio Albertelli, Ivy Tello, David Szakaly, and Jack Saxon Illustrated by Jakub Misiek
+Filmed by Chase Brockett, Charles Clement, and Derek Muller
+Additional research by Gabriel Strong
+Produced by Derek Muller, Gregor Čavlović, Rob Beasley Spence, Tori Brittain, Owen Maher,  Emily Lazard, Luke Lewis, Petr Lebedev, Emily Zhang, and Casper Mebius
+
+Thumbnail contributions by Ren Hurley, Peter Sheppard, Mike Radjabov, and Igant Barbeci
+
+Additional video/photos supplied by Getty Images and Storyblocks
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=vjDYfvPW4mA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/vjDYfvPW4mA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/vjDYfvPW4mA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/vjDYfvPW4mA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/vjDYfvPW4mA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/vjDYfvPW4mA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/vjDYfvPW4mA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/vjDYfvPW4mA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>What Everyone Gets Wrong About Planes</media:title>
+			<yt:duration seconds='1128'/>
+	        <yt:uploaded>2025-08-07T14:47:02</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>vjDYfvPW4mA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='12579780'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:w5ebcowAJD8</id>
+		<published>2025-08-07T14:47:02</published>
+		<updated>2025-08-07T14:47:02</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>I built a QR code with my bare hands to see how it works</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/w5ebcowAJD8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=w5ebcowAJD8&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/w5ebcowAJD8/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=w5ebcowAJD8'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/w5ebcowAJD8?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/w5ebcowAJD8/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/w5ebcowAJD8?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=w5ebcowAJD8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=w5ebcowAJD8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=w5ebcowAJD8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>How do QR codes work? The checkerboard patterns taking over the world, demystified. Go to https://Saily.com/veritasium and use the code ‘veritasium’ to get an exclusive 15% off your first purchase.
+
+Special thanks to Mashiro Hara and Yuki Watanabe.
+
+00:00 I was wrong
+00:49 How Morse Code revolutionized communication
+03:57 How barcodes work
+10:34 How QR codes store information
+18:16 Why damaged QR codes still work
+29:54 Why are QR codes so common?
+31:21 How safe are QR codes?
+32:25 The future of QR codes
+
+If you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically. https://snatoms.com/
+
+▀▀▀
+
+References: https://ve42.co/QRCodeRefs
+
+
+Images &amp; Video:
+1940’s grocery store - H.I.C - https://ve42.co/1940sShop 
+Why Americans Are Obsessed With Peanut Butter via Youtube - https://ve42.co/PeanutButter1 
+Jif Peanut Butter 90s Commercial (1998) via Youtube - https://ve42.co/PeanutButter2 
+Vericode Symbol via Youtube - https://ve42.co/VericodeSymbol 
+Oreo introduces Sour Patch Kids cookies via YouTube - https://ve42.co/OreaSour 
+BSE - Changes in Behaviour via YouTube - https://ve42.co/BSE 
+QR Code with Drones | Firefly Drone Show via YouTube - https://ve42.co/DroneQRCode 
+Damaged barcode 1 by christiaangpr via Reddit - https://ve42.co/DamagedBarcode1 
+Damaged barcode 2, Midcom service group https://ve42.co/DamagedBarcode2 
+Oskana, G and Petkova, A. (2020 July 1). Testing a nano-barcodes marking technology for identification and protection of the mechanical products, Fig. 1 - https://ve42.co/MatrixCodes 
+NASA Celebrates 40 Years of the Voyager Mission via Nasa.gov -  https://ve42.co/Voyager40Yr 
+Apollo footage via Nasa.gov - https://ve42.co/ApolloFootage 
+Snake in a QR code by MattKC via mattkc.com - https://ve42.co/SnakeQR 
+Scratched CD by Ice3yes via Reddit - https://ve42.co/ScratchedCD 
+Alfred Vail Portrait via si.edu - https://ve42.co/AlfredVail 
+Bernard Silver Portrait vai invent.org - https://ve42.co/BernardSilver 
+Norman Joseph Woodland Portrait via usatoday.com https://ve42.co/NormanWoodland 
+Masahiro Hara portrait via denso.com https://ve42.co/MasahiroPhoto 
+Cooke and Wheatstone telegraph patents via Wikipedia:
+https://ve42.co/TelegraphPatent1 
+https://ve42.co/TelegraphPatent2 
+https://ve42.co/TelegraphPatent3 
+https://ve42.co/TelegraphPatent4 
+https://ve42.co/TelegraphPatent5
+https://ve42.co/TelegraphPatent6 
+5 needle telegraph via cachesleuth.com- https://ve42.co/NeedleTelegraph 
+
+▀▀▀
+Special thanks to our Patreon supporters:
+
+Adam Foreman, Albert Wenger, Anton Ragin, Balkrishna Heroor, Bertrand Serlet, Bill Linder, Blake Byers, Bruce, Dave Kircher, David Johnston, Evgeny Skvortsov, Garrett Mueller, Gnare, I. H., Jack Cuprill, John H. Austin, Jr., Juan Benet, KeyWestr, Kirill Shore, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, Michael Krugman, Orlando Bassotto, Paul Peijzel, Reed Spilmann, Richard Sundvall, Sam Lutfi, TTST, Tj Steyn, Ubiquity Ventures, gpoly, john kiehl, meg noah, wolfee
+
+▀▀▀
+Directed by Sumeet Kulkarni
+Written by Sumeet Kulkarni and Derek Muller
+Edited by Peter Nelson and Luke Molloy
+Animated by David Szakaly, Fabio Albertelli, James Finnemore, Ivy Tello
+Illustrations by Jakub Misiek, Emma Wright
+Filmed by Derek Muller and Raquel Nuno
+Additional Research by Gabriel Strong
+Produced by Sumeet Kulkarni, Derek Muller, Rob Beasley Spence, Emily Lazard, Tori Brittain, Emily Zhang
+
+Thumbnail contributions by Peter Sheppard, Ren Hurley, David Szakaly, Gregor Čavlović, Raquel Nuno
+Additional video/photos supplied by Getty Images and Story Blocks 
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=w5ebcowAJD8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/w5ebcowAJD8/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/w5ebcowAJD8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/w5ebcowAJD8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/w5ebcowAJD8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/w5ebcowAJD8/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/w5ebcowAJD8/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/w5ebcowAJD8/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>I built a QR code with my bare hands to see how it works</media:title>
+			<yt:duration seconds='2112'/>
+	        <yt:uploaded>2025-08-07T14:47:02</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>w5ebcowAJD8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='8517750'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:wVyu7NB7W6Y</id>
+		<published>2025-08-07T14:47:02</published>
+		<updated>2025-08-07T14:47:02</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Exposing The Flaw In Our Phone System</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/wVyu7NB7W6Y?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=wVyu7NB7W6Y&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/wVyu7NB7W6Y/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=wVyu7NB7W6Y'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA/uploads/wVyu7NB7W6Y?v=2'/>
+		<author>
+			<name>Veritasium</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCHnyfMqiRRG1u-2MsSQLbXA</uri>
+			<yt:userId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/wVyu7NB7W6Y/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/wVyu7NB7W6Y?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=wVyu7NB7W6Y' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=wVyu7NB7W6Y' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=wVyu7NB7W6Y' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Veritasium' yt:type='partner'>UCHnyfMqiRRG1u-2MsSQLbXA</media:credit>
+			<media:description type='plain'>Can you trust your phone? Head to https://brilliant.org/veritasium to start your free 30-day trial and get 20% off an annual premium subscription.
+
+A huge thank you to Linus Sebastian and the team at Linus Tech Tips - check them out at @LinusTechTips 
+
+A massive thank you to Alexandre De Oliveira and Karsten Nohl (aka @hackingmatters) for making this demo possible. Karsten has made a great follow-up video on the subject, which you can watch here: https://www.youtube.com/watch?v=miXRoy-5LLo
+
+A special thanks to Crofton Black at Lighthouse Reports, Cathal Mc Daid at Enea, and James Hobson at @hacksmith 
+
+00:00 I hacked Linus!
+00:59 How Steve Jobs and Steve Wozniak hacked the telephone network
+02:22 Early history of the telephone 
+07:08 The kidnapping of Sheikha Latifa
+08:41 How Signalling System No. 7 works
+11:03 Why SS7 is vulnerable to hacking
+12:15 How hackers gain access to phones
+16:17 How I was able to spy on Linus’ phone
+18:09 How hackers can intercept text messages 
+21:04 How your location can be tracked via SS7
+29:03 How to protect your phone from hacking
+
+▀▀▀
+Special thanks to our Patreon supporters! Join the community to help us keep our videos free, forever: https://ve42.co/PatreonDE 
+
+Adam Foreman, Albert Wenger, Anton Ragin, Balkrishna Heroor, Bertrand Serlet, Bill Linder, Blake Byers, Bruce, Burt Humburg, Dave Kircher, David Johnston, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, I. H., Jack Cuprill, John H. Austin, Jr., john kiehl, Juan Benet, KeyWestr, Kyi, Lee Redden, Marinus Kuivenhoven, Matthias Wrobel, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Tj Steyn, TTST, Ubiquity Ventures and wolfee
+
+If you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV 
+
+▀▀▀
+References:
+Black, C. (2020). Spy companies using Channel Islands to track phones around the world. The Bureau of Investigative Journalism - https://ve42.co/SpyTBIJ
+It is dangerously easy to hack the world’s phones via The Economist - https://ve42.co/EconHack
+Blake, H. (2023). The Fugitive Princesses of Dubai. The New Yorker - https://ve42.co/DubaiNY
+McDaid, C. (2021). How Surveillance Companies Track You Using Mobile Networks. media.ccc.de - https://ve42.co/McDaid2021
+Engel, T. (2014). SS7: Locate. Track. Manipulate. media.ccc.de - https://ve42.co/Engel2014
+Nohl, K. (2014). Mobile self-defense. media.ccc.de - https://ve42.co/Nohl2014
+How Cell Service Actually Works via WendoverProductions - https://ve42.co/CellWendover
+How Telephone Phreaking Worked via The 8-Bit Guy - https://ve42.co/8BitGuy
+Transmission Lines: Part 1 An Introduction via TheSiGuy - https://ve42.co/TheSiGuy
+The Step-By-Step Switch via AT&amp;T Tech Channel - https://ve42.co/SwitchATNT
+Hacking Your Phone via 60 Minutes - https://ve42.co/60minHack
+Rosenbaum, R. (1971). Secrets of the Little Blue Box. The Esquire Magazine - https://ve42.co/Rosenbaum1971
+Black, C. et. al. (2023). Ghost in the network. Lighthouse Reports - https://ve42.co/Black2023
+Kerr, D. (2019). The step-by-step telephone switching system. dougkerr.net - https://ve42.co/Kerr2019
+Ecall and 2G/3G Network Obsolescence via PFA Plateforme Automobile - https://ve42.co/PFAAuto2021
+ 
+
+Images &amp; Video:
+All references can be found here: https://ve42.co/PhoneSpyingImageVideo
+
+▀▀▀
+Directed by Henry van Dyck
+Written by Henry van Dyck
+Edited by Laura Mills
+Animated by Fabio Albertelli, Ivy Tello, David Szakaly, and Jakub Misiek
+Filmed by Derek Muller and Linus Media Group Team
+Additional research by Gabe Strong
+Produced by Derek Muller, Henry van Dyck, Rob Beasley Spence, Tori Brittain, Emily Lazard, Luke Lewis, Gregor Čavlović, and Emily Zhang
+Thumbnail contributions by Ren Hurley and Peter Sheppard 
+
+Additional video/photos supplied by Getty Images and Storyblocks 
+Music from Epidemic Sound</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=wVyu7NB7W6Y&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wVyu7NB7W6Y/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wVyu7NB7W6Y/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wVyu7NB7W6Y/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wVyu7NB7W6Y/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wVyu7NB7W6Y/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wVyu7NB7W6Y/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wVyu7NB7W6Y/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Exposing The Flaw In Our Phone System</media:title>
+			<yt:duration seconds='1914'/>
+	        <yt:uploaded>2025-08-07T14:47:02</yt:uploaded>
+			<yt:uploaderId>EEUCHnyfMqiRRG1u-2MsSQLbXA</yt:uploaderId>
+			<yt:videoid>wVyu7NB7W6Y</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='9577151'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>

@@ -1,0 +1,2188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:iicfmXFALM8</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Chill Drive - Aesthetic Music ~ Lofi hip hop mix</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/iicfmXFALM8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=iicfmXFALM8&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/iicfmXFALM8/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=iicfmXFALM8'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/iicfmXFALM8?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/iicfmXFALM8/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/iicfmXFALM8?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=iicfmXFALM8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=iicfmXFALM8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=iicfmXFALM8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎵 | Music provided by Chill Beats Records: https://spoti.fi/3CDd8Cq
+📻 | Stream it: https://listen.chillbeats.com/chillbeatsmusic
+🎶 | Lofi playlist on Spotify: https://spoti.fi/3uSn2LL
+Chill Drive - Aesthetic Music ~ Lofi hip hop mix
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Spotify: http://bit.ly/chilli-lofi
+→ Instagram: http://bit.ly/instagram-lofi
+
+
+🎼 | Music provided by Chill Beats Records
+→ Listen on Spotify: https://spoti.fi/3CDd8Cq
+→ Stream it: https://listen.chillbeats.com/chillbeatsmusic
+→ Instagram: https://www.instagram.com/chillbeats_music
+
+
+🎧 Tracklist:
+00:00 Kind Puppy, RejSende - Long Road
+https://open.spotify.com/track/6q0GEcsFZr3L0YLWUboq47
+
+02:19 Mister Decaf - Emperor&apos;s Coffee
+https://open.spotify.com/track/4vsCCdbZ9o80Z4xeMVfsAd
+
+04:44 Chill Beats Music, S N U G - Trip Back Home
+https://open.spotify.com/track/5w8OquO51QW6F9jNagPLnV
+
+07:07 Tibeauthetraveler, Snoozegod - Waking up Early
+https://open.spotify.com/track/5qcMquGdnFX3Sa1JQbuvoM
+
+08:38 Loafy Building, Lonely Alpaca, G Mills - Leaning on You
+https://open.spotify.com/track/1i32Epozl3QKoZcDPrel2L
+
+10:43 Tibeauthetraveler, Dyrean - On the Road
+https://open.spotify.com/track/5FxdZNY6oeXgCvcAQJURFA
+
+13:22 Loafy Building - Cloud Companion
+https://open.spotify.com/track/49zsJqKA7vxMuUHXvMGyM0
+
+15:35 l&apos;Outlander - The Other Side
+https://open.spotify.com/track/3NjRy6bSCTLR1ptg613heh
+
+18:00 a boy with a balloon - Ethereal
+https://open.spotify.com/track/0JD2KcWn6HkIuBuOQsiKmR
+
+20:15 Project AER, Colours in Context - Faded
+https://open.spotify.com/track/1SDKb1UXzq9Qb5PBA66sD6
+
+23:29 JazzyCal, Hoffy Beats - Fading Away
+https://open.spotify.com/track/5mvRmw7IeBFfpD5OxkmYKF
+
+26:45 Stuffed Tomato, Aphrow, HoKø - Waking up Tired.xx
+https://open.spotify.com/track/723FqpH5PPGKjY1yfGPJL0
+
+29:27 Yasumu, Celestial Alignment - Connected
+https://open.spotify.com/track/5p3PFytilnH27rR8O7iEMg
+
+31:51 Jav Cast - Thinking Backwards
+https://open.spotify.com/track/72w3bt3QR9eNDL2EAHYRpM
+
+34:32 Kainbeats - Sunset Journey
+https://open.spotify.com/track/1RRKY4IV3xyRjciyapAhJJ
+
+36:33 Otaam, Tonion - Lush Space
+https://open.spotify.com/track/1IzUBGgQytImUuXm2QPZDo
+
+39:03 namzzo, Alkylees - When Summer Comes
+https://open.spotify.com/track/5cjB4N9IwKsGmKgbINUwS3
+
+42:36 Iamcloud, Dimension 32 - Melatonin
+https://open.spotify.com/track/4PYok42xoTSsQQXy3esfIg
+
+44:34 Tibeauthetraveler, reysi - Underwater
+https://open.spotify.com/track/5nOjlhc5yKn6Lmtq2RipFU
+
+46:58 a boy with a balloon - Fading
+https://open.spotify.com/track/4brI1JaJnvl6TRHytmE1AN
+
+49:57 Chill Beats Music, Loafy Building, ticofaces - Hajamari
+https://open.spotify.com/track/2et2DjlPZTznAqLcbXTmUO
+
+52:03 Chill Beats Music, Kanisan, no one&apos;s perfect - Hyacinth
+https://open.spotify.com/track/4zS0pjMFDHJh8KzBemcnc5
+
+53:52 a boy with a balloon - Daydream
+https://open.spotify.com/track/2WEaCpm8ZA3kYAQgBQVG1c
+
+55:57 Kirikoukiri, C4C - Wellspring
+https://open.spotify.com/track/0dZvonW52MKnGzzrXHRzFE
+
+58:19 Kirikoukiri, C4C - Windfall
+https://open.spotify.com/track/7gUANmohgQLgAksVCaoEgR
+
+
+► Music by: 
+• Kind Puppy » https://spoti.fi/3g3Uvym
+• RejSende » https://spoti.fi/3i66fjN
+• Mister Decaf » https://spoti.fi/3f9Twfh
+• Chill Beats Music » https://spoti.fi/3tnC4JD
+• S N U G » https://spoti.fi/3e0ZuOu
+• Tibeauthetraveler » https://spoti.fi/3mFabtL
+• Snoozegod » https://spoti.fi/3sigjLi
+• Loafy Building » https://spoti.fi/3r6ilNW
+• Lonely Alpaca » https://spoti.fi/3AFikEi
+• l&apos;Outlander » https://spoti.fi/2ShitwS
+• a boy with a balloon » https://spoti.fi/3iNXfBz
+• Project AER » https://spoti.fi/3g3lfQb
+• Colours in Context » https://spoti.fi/3e8knbh
+• JazzyCal » https://spoti.fi/3hZWLXe
+• Hoffy Beats » https://spoti.fi/3g3n1kj
+• Stuffed Tomato » https://spoti.fi/3sdjNNs
+• Aphrow » https://spoti.fi/3t9vnKQ
+• Yasumu » https://spoti.fi/2QkuGjd
+• Celestial Alignment » https://spoti.fi/3m3utPh
+• Jav Cast » https://spoti.fi/3r5S6r8
+• Kainbeats » https://spoti.fi/329xF0N
+• Otaam » https://spoti.fi/2OGGUm3
+• Tonion » https://spoti.fi/3AZiDLa
+• namzzo » https://spoti.fi/37KbvoM
+• Alkylees » https://spoti.fi/3sk8vJd
+• Iamcloud » https://spoti.fi/3xDeCde
+• Dimension 32 » https://spoti.fi/3hCEZL2
+• Kirikoukiri » https://spoti.fi/3EszdEa
+• C4C » https://spoti.fi/3mDpovr
+
+
+📄 Submit your music:
+→ contact@shinemusicllc.com
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2021 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=iicfmXFALM8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/iicfmXFALM8/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/iicfmXFALM8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/iicfmXFALM8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/iicfmXFALM8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/iicfmXFALM8/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/iicfmXFALM8/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/iicfmXFALM8/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Chill Drive - Aesthetic Music ~ Lofi hip hop mix</media:title>
+			<yt:duration seconds='10431'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>iicfmXFALM8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='14578740'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:EIm4HvDgQCM</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Music</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/EIm4HvDgQCM?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=EIm4HvDgQCM&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/EIm4HvDgQCM/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=EIm4HvDgQCM'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/EIm4HvDgQCM?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/EIm4HvDgQCM/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/EIm4HvDgQCM?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=EIm4HvDgQCM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=EIm4HvDgQCM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=EIm4HvDgQCM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Music
+→  stress relief, relaxing music, deep sleeping music
+→  beats to relax/study to
+
+☊ [ Spotify Playlist ]
+→ https://spoti.fi/3uSn2LL
+
+・MY CHANNEL・
+● Youtube:
+→ https://bit.ly/3cwB0vN
+● SoundCloud :
+→ http://bit.ly/soundcloud-lofi
+● Spotify :
+→ http://bit.ly/chilli-lofi
+● Instagram :
+→ http://bit.ly/instagram-lofi
+
+
+🎧 Tracklist:
+00:00 mell-ø, Trxxshed - Solitude 
+https://open.spotify.com/track/1fb7qRyEBodYyyJKK1SfFN
+
+01:26 Ippi, R.O.B - Midnight Bodega .xx
+https://open.spotify.com/track/1e4ParhDqhzzc9J0s22XYS
+
+03:11 Lusoneo - Wind 
+https://open.spotify.com/track/2aKRPumUmBtXUfXqGJRdgF
+
+05:55 Fallen Shores, Hoogway - Wind Chimes 
+https://open.spotify.com/track/05ZpjeVHvmofA1CGvHQvt1
+
+08:25 awhyle - southside (⇢ The Music Elk)
+https://open.spotify.com/track/6a49zMoPfqr2FeyRInr6cW
+
+11:02 Cammie, Bert - Daydreaming 
+https://open.spotify.com/track/2XCJMe05nOuFlaBHSHKHeA
+
+13:09 Lately Lui - Lonely City 
+https://open.spotify.com/track/3dB2nTkXKWP9hCCqS8xMjS
+
+15:44 Darsena, Hoffy Beats - Nap (⇢ Aviary Bridge Records)
+https://open.spotify.com/track/4ZH1ss95lOiKEbOBDMWZax
+
+19:03 Purrple Cat - Calm Waters 
+https://open.spotify.com/track/1KUV8wltyekoGOpQzZYldh
+
+21:10 Purrple Cat - Days End 
+https://open.spotify.com/track/7egD9ZC4Z9sUiN9IrTflbk
+
+23:53 charlie toØ human - Walk in the Park 
+https://open.spotify.com/track/7bMue2pi7ujy1WZgaoubCs
+
+
+► Music by: 
+• mell-ø » https://spoti.fi/2RruoYC
+• Trxxshed » https://spoti.fi/3g3lVoA
+• Ippi » https://spoti.fi/2Qb4yr7
+• R.O.B » https://spoti.fi/3wEaDfR
+• Fallen Shores » https://spoti.fi/3uEF0ld
+• Hoogway » https://spoti.fi/2OETMce
+• awhyle » https://spoti.fi/3pqvRLH
+• Cammie » https://spoti.fi/3uVSo4H
+• Bert » https://spoti.fi/3sdfB0a
+• Darsena » https://spoti.fi/3dTcZ2p
+• Hoffy Beats » https://spoti.fi/3g3n1kj
+• Purrple Cat » https://spoti.fi/3sgJr4c
+• charlie toØ human » https://spoti.fi/3hQkVVX
+
+
+📄 Submit your music &amp; Art designs &amp; Contact us:
+→ contact@shinemusicllc.com
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2021 chilli music
+
+- Re-uploading my work on another channel is strictly forbidden, you have no permission to use my videos as they are now or audio mixes anywhere else since this is my work. Thank you!
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=EIm4HvDgQCM&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EIm4HvDgQCM/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EIm4HvDgQCM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EIm4HvDgQCM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EIm4HvDgQCM/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EIm4HvDgQCM/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EIm4HvDgQCM/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EIm4HvDgQCM/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Music</media:title>
+			<yt:duration seconds='7709'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>EIm4HvDgQCM</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='8849240'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:GfIvfO9o6lo</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Music</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/GfIvfO9o6lo?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=GfIvfO9o6lo&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/GfIvfO9o6lo/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=GfIvfO9o6lo'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/GfIvfO9o6lo?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/GfIvfO9o6lo/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/GfIvfO9o6lo?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=GfIvfO9o6lo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=GfIvfO9o6lo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=GfIvfO9o6lo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎵 Follow the official playlist on Spotify: https://spoti.fi/3uSn2LL
+Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Music
+ → stress relief, relaxing music, deep sleeping music 
+→ beats to relax/study to
+
+I hope you enjoy this ambience as much as I enjoyed creating it.
+Check out how I make my videos:
+→ https://youtu.be/1UFPGngZcWQ
+
+
+・MY CHANNEL・
+● Youtube:
+→ https://bit.ly/3cwB0vN
+● SoundCloud :
+→ http://bit.ly/soundcloud-lofi
+● Spotify :
+→ http://bit.ly/chilli-lofi
+● Instagram :
+→ http://bit.ly/instagram-lofi
+
+
+🎧 Tracklist:
+ 00:00 charlie toØ human - Walk in the Park 
+https://open.spotify.com/track/7bMue2pi7ujy1WZgaoubCs
+
+
+► Music by:
+• charlie toØ human » https://spoti.fi/3hQkVVX
+
+
+► For background video : https://dissolve.com/stock-photo/Retro-futuristic-80s-style-drive-neon-city-Cyberpunk-sunset-royalty-free-image/101-D2406-28-001
+
+📄 Submit your music &amp; Art designs &amp; Contact us:
+→ contact@shinemusicllc.com
+
+❗ For copyright matters please contact us at: contact@shinemusicllc.com
+❗❗ All music is permission by artists &amp; records label, please don&apos;t use without permission.
+
+- Artwork and Animations by © 2021 chilli music
+
+- Re-uploading my work on another channel is strictly forbidden, you have no permission to use my videos as they are now or audio mixes anywhere else since this is my work. Thank you!
+
+#lofi​​
+#chill​​
+#lofihiphop</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=GfIvfO9o6lo&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/GfIvfO9o6lo/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/GfIvfO9o6lo/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/GfIvfO9o6lo/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/GfIvfO9o6lo/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/GfIvfO9o6lo/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/GfIvfO9o6lo/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/GfIvfO9o6lo/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Music</media:title>
+			<yt:duration seconds='9'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>GfIvfO9o6lo</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='7997893'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:25BkVBgFD9Y</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Your Mind</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/25BkVBgFD9Y?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=25BkVBgFD9Y&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/25BkVBgFD9Y/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=25BkVBgFD9Y'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/25BkVBgFD9Y?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/25BkVBgFD9Y/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/25BkVBgFD9Y?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=25BkVBgFD9Y' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=25BkVBgFD9Y' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=25BkVBgFD9Y' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎵 | Music provided by Chill Beats Records: https://spoti.fi/3CDd8Cq
+📻 | Stream it: https://listen.chillbeats.com/chillbeatsmusic
+🎶 | Lofi playlist on Spotify: https://spoti.fi/3uSn2LL
+Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Your Mind
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Spotify: http://bit.ly/chilli-lofi
+→ Instagram: http://bit.ly/instagram-lofi
+
+
+🎼 | Music provided by Chill Beats Records
+→ Listen on Spotify: https://spoti.fi/3CDd8Cq
+→ Stream it: https://listen.chillbeats.com/chillbeatsmusic
+→ Instagram: https://www.instagram.com/chillbeats_music
+
+
+🎧 Tracklist:
+00:00 coldbrew - Lakeside Picnic
+https://open.spotify.com/track/5cBUqgTBb583W37RzerFiN
+
+01:37 Loafy Building, Lonely Alpaca, G Mills - Leaning on You
+https://open.spotify.com/track/1i32Epozl3QKoZcDPrel2L
+
+03:42 Chill Beats Music, S N U G - Trip Back Home
+https://open.spotify.com/track/5w8OquO51QW6F9jNagPLnV
+
+06:06 Jav Cast - Thinking Backwards
+https://open.spotify.com/track/72w3bt3QR9eNDL2EAHYRpM
+
+08:46 JazzyCal, Purrple Cat - Phoenix.xx
+https://open.spotify.com/track/1Pd7sQY3ipPenSCQsHxwCR
+
+11:27 Cosmonkey - Evening Ocean
+https://open.spotify.com/track/5ccHYIVXL5Wu7KmbbpLpcz
+
+14:25 Kainbeats - Sunset Journey
+https://open.spotify.com/track/1RRKY4IV3xyRjciyapAhJJ
+
+16:26 Otaam, Tonion - Lush Space
+https://open.spotify.com/track/1IzUBGgQytImUuXm2QPZDo
+
+18:56 Novvel, Bequem - Humble Eyes
+https://open.spotify.com/track/6Nc9CHUhBPJa2g43Af7sNj
+
+21:37 Yasumu, Celestial Alignment - Connected
+https://open.spotify.com/track/5p3PFytilnH27rR8O7iEMg
+
+24:01 Bcalm, Banks, Juliàn - Nature Valley
+https://open.spotify.com/track/2fffCdNRZGYIOx47wqweyC
+
+26:42 Bcalm, Tibeauthetraveler - Midnight Swim
+https://open.spotify.com/track/23GdqRfIyA2mIlrPwgbLW4
+
+29:14 Chill Beats Music, Socrab, Loafy Building - Oshu
+https://open.spotify.com/track/7Icc1XfhnVT45G6TaLhbxK
+
+31:57 C4C, Hazy Year - I Remember
+https://open.spotify.com/track/3yIp28FYZQpzqvyZDsSMZQ
+
+35:09 JazzyCal, Hoffy Beats - Fading Away
+https://open.spotify.com/track/5mvRmw7IeBFfpD5OxkmYKF
+
+38:25 namzzo, Alkylees - When Summer Comes
+https://open.spotify.com/track/5cjB4N9IwKsGmKgbINUwS3
+
+41:58 Tibeauthetraveler, Snoozegod - Waking up Early
+https://open.spotify.com/track/5qcMquGdnFX3Sa1JQbuvoM
+
+43:29 Chill Beats Music, Loafy Building, ticofaces - Hajamari
+https://open.spotify.com/track/2et2DjlPZTznAqLcbXTmUO
+
+45:35 Project AER - Road Is Mine
+https://open.spotify.com/track/47wb6Z9Z30bWg8sBBjJwoF
+
+47:47 Project AER, Colours in Context - Faded
+https://open.spotify.com/track/1SDKb1UXzq9Qb5PBA66sD6
+
+51:02 Plusma, a boy with a balloon - Fiore
+https://open.spotify.com/track/4RfjquNfcN0DeCQ802h76N
+
+53:22 G R I Z - Lonely in a Crowd
+https://open.spotify.com/track/50qyaN7yH7jUK3TupCuqLg
+
+56:14 Chill Beats Music, mell-ø, no one&apos;s perfect - Home
+https://open.spotify.com/track/27K6JN0GupWxqYMSdgpW7T
+
+58:11 Hoffy Beats, Farnell Newton - Connected
+https://open.spotify.com/track/5rOH1D9LWtbiFADJRYBJkb
+
+
+► Music by: 
+• coldbrew » https://spoti.fi/2QkyeSz
+• Loafy Building » https://spoti.fi/3r6ilNW
+• Lonely Alpaca » https://spoti.fi/3AFikEi
+• Chill Beats Music » https://spoti.fi/3tnC4JD
+• S N U G » https://spoti.fi/3e0ZuOu
+• Jav Cast » https://spoti.fi/3r5S6r8
+• JazzyCal » https://spoti.fi/3hZWLXe
+• Purrple Cat » https://spoti.fi/3sgJr4c
+• Cosmonkey » https://spoti.fi/3almOWb
+• Kainbeats » https://spoti.fi/329xF0N
+• Otaam » https://spoti.fi/2OGGUm3
+• Tonion » https://spoti.fi/3AZiDLa
+• Novvel » https://spoti.fi/3xG38Wn
+• Bequem » https://spoti.fi/3r8dQCu
+• Yasumu » https://spoti.fi/2QkuGjd
+• Celestial Alignment » https://spoti.fi/3m3utPh
+• Bcalm » https://spoti.fi/3z1979c
+• Banks » https://spoti.fi/3fLkQRR
+• C4C » https://spoti.fi/3mDpovr
+• Hazy Year » https://spoti.fi/3s9Ol2S
+• namzzo » https://spoti.fi/37KbvoM
+• Alkylees » https://spoti.fi/3sk8vJd
+• Tibeauthetraveler » https://spoti.fi/3mFabtL
+• Snoozegod » https://spoti.fi/3sigjLi
+• Project AER » https://spoti.fi/3g3lfQb
+• Plusma » https://spoti.fi/3iOpujD
+• a boy with a balloon » https://spoti.fi/3iNXfBz
+• G R I Z » https://spoti.fi/2S6OXd6
+• Hoffy Beats » https://spoti.fi/3g3n1kj
+• Farnell Newton » https://spoti.fi/3xGvfoi
+
+
+📄 Submit your music:
+→ contact@shinemusicllc.com
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2021 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=25BkVBgFD9Y&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/25BkVBgFD9Y/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/25BkVBgFD9Y/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/25BkVBgFD9Y/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/25BkVBgFD9Y/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/25BkVBgFD9Y/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/25BkVBgFD9Y/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/25BkVBgFD9Y/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Your Mind</media:title>
+			<yt:duration seconds='10598'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>25BkVBgFD9Y</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='5510390'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Uv9URjIBtUQ</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Chill Vibes - Lofi hip hop mix ~ Stress Relief, Chill Music</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Uv9URjIBtUQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Uv9URjIBtUQ&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/Uv9URjIBtUQ/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Uv9URjIBtUQ'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/Uv9URjIBtUQ?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/Uv9URjIBtUQ/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/Uv9URjIBtUQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Uv9URjIBtUQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=Uv9URjIBtUQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=Uv9URjIBtUQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎵 | Music provided by Chill Beats Records: https://spoti.fi/3CDd8Cq
+📻 | Stream it: https://listen.chillbeats.com/chillbeatsmusic
+🎶 | Lofi playlist on Spotify: https://spoti.fi/3uSn2LL
+Chill Vibes - Lofi hip hop mix ~ Stress Relief, Chill Music
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Spotify: http://bit.ly/chilli-lofi
+→ Instagram: http://bit.ly/instagram-lofi
+
+
+🎼 | Music provided by Chill Beats Records
+→ Listen on Spotify: https://spoti.fi/3CDd8Cq
+→ Stream it: https://listen.chillbeats.com/chillbeatsmusic
+→ Instagram: https://www.instagram.com/chillbeats_music
+
+
+🎧 Tracklist:
+00:00 Pixie Dust, Lenny B - Vivid Nights
+https://open.spotify.com/track/00Jjy8hKfmitOmguGYZqwF
+
+02:10 Spinmont - Waiting
+https://open.spotify.com/track/4cu2jxuuBXoFOqZYF9Day9
+
+04:40 Bcalm, Banks, Juliàn - Nature Valley
+https://open.spotify.com/track/2fffCdNRZGYIOx47wqweyC
+
+07:21 Cosmonkey - When We Were Young
+https://open.spotify.com/track/42JtFaxd2k9kNrlTNfP6xH
+
+09:26 Chill Beats Music, Loafy Building, ticofaces - Hajamari
+https://open.spotify.com/track/2et2DjlPZTznAqLcbXTmUO
+
+11:32 Otaam, Tonion - Lush Space
+https://open.spotify.com/track/1IzUBGgQytImUuXm2QPZDo
+
+14:02 RdBeats, Iskobeats, Yestalgia - Sea Dragon
+https://open.spotify.com/track/0O9hSgfsAAqjTbXVN13Qee
+
+17:03 Chill Beats Music, Socrab, Loafy Building - Oshu
+https://open.spotify.com/track/7Icc1XfhnVT45G6TaLhbxK
+
+19:46 JazzyCal, Hoffy Beats - Fading Away
+https://open.spotify.com/track/5mvRmw7IeBFfpD5OxkmYKF
+
+23:02 namzzo, Alkylees - When Summer Comes
+https://open.spotify.com/track/5cjB4N9IwKsGmKgbINUwS3
+
+26:35 N.Musicbeatz - Escape
+https://open.spotify.com/track/1rqvO0uQXoGfC1E3hEWyuF
+
+29:02 JazzyCal, Bcalm, Banks - Horizon
+https://open.spotify.com/track/6N6yP0CEcvGclvJtMjo2ti
+
+31:51 CrazyJaZz, Joe Kirby - The Gray Dawn
+https://open.spotify.com/track/1GNTizIaSu0zAbLqCUM42P
+
+34:26 Mujo, Hakone - Healing
+https://open.spotify.com/track/2dyHngDPQnchZhLTOsXAVN
+
+36:32 Hoogway - Evening Roses
+https://open.spotify.com/track/28eiu0mejK5I1nbSolbhBy
+
+38:43 Lemeria - Rainy Town
+https://open.spotify.com/track/0nB26QNwoWeYKGxshLVt2x
+
+41:26 Chill Beats Music, Kanisan, no one&apos;s perfect - Hyacinth
+https://open.spotify.com/track/4zS0pjMFDHJh8KzBemcnc5
+
+43:16 Ottom - Squeeze
+https://open.spotify.com/track/4jhKIYCF8Fh9ek3nrMJe0K
+
+46:04 Juliàn, Hoogway - Free Diving
+https://open.spotify.com/track/3qXaRs6ecJz7LjNJIUkRyw
+
+48:43 Cosmonkey - Evening Ocean
+https://open.spotify.com/track/5ccHYIVXL5Wu7KmbbpLpcz
+
+51:41 JazzyCal, Purrple Cat - Phoenix.xx
+https://open.spotify.com/track/1Pd7sQY3ipPenSCQsHxwCR
+
+54:22 Project AER, Colours in Context - Faded
+https://open.spotify.com/track/1SDKb1UXzq9Qb5PBA66sD6
+
+57:36 Sweet Medicine, Lawrence Walther - Northern Souls
+https://open.spotify.com/track/3bNJ5rFXuwletH2eh5ITgi
+
+01:00:11 Tibeauthetraveler, Snoozegod - Waking up Early
+https://open.spotify.com/track/5qcMquGdnFX3Sa1JQbuvoM
+
+
+► Music by: 
+• Pixie Dust » https://spoti.fi/3mcs8AY
+• Lenny B » https://spoti.fi/3i9m6zm
+• Spinmont » https://spoti.fi/3mGdhO1
+• Bcalm » https://spoti.fi/3z1979c
+• Banks » https://spoti.fi/3fLkQRR
+• Cosmonkey » https://spoti.fi/3almOWb
+• Chill Beats Music » https://spoti.fi/3tnC4JD
+• Loafy Building » https://spoti.fi/3r6ilNW
+• Otaam » https://spoti.fi/2OGGUm3
+• Tonion » https://spoti.fi/3AZiDLa
+• RdBeats » https://spoti.fi/3wGbaNz
+• Iskobeats » https://spoti.fi/3AIKGgT
+• JazzyCal » https://spoti.fi/3hZWLXe
+• Hoffy Beats » https://spoti.fi/3g3n1kj
+• namzzo » https://spoti.fi/37KbvoM
+• Alkylees » https://spoti.fi/3sk8vJd
+• N.Musicbeatz » https://spoti.fi/3COtwjV
+• CrazyJaZz » https://spoti.fi/3hAS1Zt
+• Joe Kirby » https://spoti.fi/3pYLryK
+• Mujo » https://spoti.fi/3mEwAHz
+• Hakone » https://spoti.fi/3zMotxZ
+• Hoogway » https://spoti.fi/2OETMce
+• Lemeria » https://spoti.fi/3eh4Xl4
+• Ottom » https://spoti.fi/3d9GDRV
+• Juliàn » https://spoti.fi/3B2uxUI
+• Project AER » https://spoti.fi/3g3lfQb
+• Colours in Context » https://spoti.fi/3e8knbh
+• Sweet Medicine » https://spoti.fi/3mCzv3u
+• Lawrence Walther » https://spoti.fi/3xQUd4o
+• Tibeauthetraveler » https://spoti.fi/3mFabtL
+• Snoozegod » https://spoti.fi/3sigjLi
+
+
+📄 Submit your music:
+→ contact@shinemusicllc.com
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2022 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Uv9URjIBtUQ&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Uv9URjIBtUQ/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Uv9URjIBtUQ/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Uv9URjIBtUQ/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Uv9URjIBtUQ/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Uv9URjIBtUQ/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Uv9URjIBtUQ/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Uv9URjIBtUQ/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Chill Vibes - Lofi hip hop mix ~ Stress Relief, Chill Music</media:title>
+			<yt:duration seconds='10651'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>Uv9URjIBtUQ</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='3180230'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:v_OXMy8x2eo</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Smoke Chill - Lofi hip hop mix ~ Stress Relief, Relaxing Music</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/v_OXMy8x2eo?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=v_OXMy8x2eo&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/v_OXMy8x2eo/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=v_OXMy8x2eo'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/v_OXMy8x2eo?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/v_OXMy8x2eo/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/v_OXMy8x2eo?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=v_OXMy8x2eo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=v_OXMy8x2eo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=v_OXMy8x2eo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎵 | College Music: https://spoti.fi/3u9Bnpm
+🎶 | Lofi playlist on Spotify: https://spoti.fi/3uSn2LL
+
+📺 RELATED VIDEOS
+- Beats to drive : https://www.youtube.com/watch?v=l_7e2ZamUpI  
+- Beats to study : https://www.youtube.com/watch?v=19Ho1hqlUGo
+- Beats to sleep : https://www.youtube.com/watch?v=uLZIPaF__L0
+- Beats to relax/ chill to : https://www.youtube.com/watch?v=FGWkQv_MThI
+
+Smoke Chill - Lofi hip hop mix ~ Stress Relief, Relaxing Music
+Smoke Chill - Lofi hip hop mix ~ Stress Relief, Relaxing Music
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Spotify: http://bit.ly/chilli-lofi
+→ Instagram: http://bit.ly/instagram-lofi
+
+
+🎼 | College Music
+→ Instagram: https://www.instagram.com/collegemusic
+→ Youtube: https://www.youtube.com/c/CollegeMusic
+
+
+🎧 Tracklist:
+00:00 Ghostnaut, Jinz Moss, Raw Collective - Break Away
+https://open.spotify.com/track/5x3OT3tqpEMOXS7ZWgmXfw
+
+02:48 Hentaidesu - Afternoon
+https://open.spotify.com/track/6FYENg3JBGaVTKfUTm7uLk
+
+04:49 Pointy Features - Limitless
+https://open.spotify.com/track/4MrWTN0SUK2FhGgtP42wOQ
+
+07:56 Adriana Proenza, Masked Man - Trapped on a Cell
+https://open.spotify.com/track/3q9toF2xp2syHMN2VVl46N
+
+10:42 Towerz, C4C, steezy prime - Thoughts of You
+https://open.spotify.com/track/5fV4x9ttMgu1BLmGtAJMtJ
+
+13:47 Sexy Pigeon - But, You&apos;re Gone
+https://open.spotify.com/track/3S55ahCjGK73SOwaHtVT6D
+
+15:51 Sexy Pigeon - Won&apos;t You Please
+https://open.spotify.com/track/1ZrU65O436FDhf6kyRQVHL
+
+18:03 j brij. - Tides
+https://open.spotify.com/track/6oClWaM7QCwuTBv2Hb8BNg
+
+20:43 Refeeld - Thinking About You
+https://open.spotify.com/track/4MpPKLb19t7qwaAPiksIKK
+
+22:43 j brij. - Brand New
+https://open.spotify.com/track/36147vG8y2Jxmk91S0Sbi6
+
+25:19 Creative Self - Crickets in My Backyard
+https://open.spotify.com/track/10dXOeX4qKuoP2YuMmOY4L
+
+27:39 Towerz, C4C - Miles Away
+https://open.spotify.com/track/1VIdw4fNrF6zOR6LCG6JN5
+
+30:34 Towerz, C4C - Time Flies
+https://open.spotify.com/track/3v4X0ZBYtxYh5kKZ7xFSP2
+
+33:07 j brij. - One Day
+https://open.spotify.com/track/6snwBOfBwhqQnVwEGkOZ51
+
+35:49 Hevi, Refeeld - Sleepwalkers
+https://open.spotify.com/track/5verStIohaYQ8AtHakQ4T5
+
+38:06 Ethan Rebel - Fever Dream
+https://open.spotify.com/track/0XZOPOZo52c5wxb94njsEg
+
+40:24 AYEON - On My Mind
+https://open.spotify.com/track/0eVP92az703ABJ5RxwGLeL
+
+42:45 niquo - Limbo
+https://open.spotify.com/track/78KYgs7uvs82UZOrPbPu5X
+
+45:41 Creative Self - A Forgotten Place
+https://open.spotify.com/track/3VjPpf04K57r7TkK5f06O4
+
+47:39 Creative Self - Last Train Home
+https://open.spotify.com/track/1KdyPWLglLCWKPbB9MTIBC
+
+49:49 Creative Self - Don&apos;t Look Back
+https://open.spotify.com/track/05rQanmRfJiwl6FCCkHQpD
+
+52:13 Lofty - It&apos;ll Be Okay
+https://open.spotify.com/track/2pstsRA6k1NIOLtrI8oU3Y
+
+54:06 Misha, Monma, Aiguille - Float
+https://open.spotify.com/track/0Qr5eChpaSU4ozVze6cRef
+
+56:19 fourwalls, farewell - Fragile Heart
+https://open.spotify.com/track/6YHxe0WCq1fqKqbQgy1lrC
+
+58:32 Pointy Features, Ningen - Waves
+https://open.spotify.com/track/1uvvNrLGL1u9GZHzojmtJI
+
+
+📄 Submit your music:
+→ contact@shinemusicllc.com
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2021 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=v_OXMy8x2eo&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/v_OXMy8x2eo/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/v_OXMy8x2eo/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/v_OXMy8x2eo/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/v_OXMy8x2eo/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/v_OXMy8x2eo/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/v_OXMy8x2eo/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/v_OXMy8x2eo/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Smoke Chill - Lofi hip hop mix ~ Stress Relief, Relaxing Music</media:title>
+			<yt:duration seconds='10638'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>v_OXMy8x2eo</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='2843495'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:lMcNKqgScM4</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Cozy Night - Lofi hip hop mix ~ Stress Relief, Relaxing Music</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/lMcNKqgScM4?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=lMcNKqgScM4&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/lMcNKqgScM4/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=lMcNKqgScM4'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/lMcNKqgScM4?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/lMcNKqgScM4/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/lMcNKqgScM4?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=lMcNKqgScM4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=lMcNKqgScM4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=lMcNKqgScM4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎵 | College Music: https://spoti.fi/3u9Bnpm
+
+📺 RELATED VIDEOS
+- Beats to drive : https://www.youtube.com/watch?v=l_7e2ZamUpI  
+- Beats to study : https://www.youtube.com/watch?v=19Ho1hqlUGo
+- Beats to sleep : https://www.youtube.com/watch?v=uLZIPaF__L0
+- Beats to relax/ chill to : https://www.youtube.com/watch?v=FGWkQv_MThI
+
+Cozy Night - Lofi hip hop mix ~ Stress Relief, Relaxing Music
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Spotify: http://bit.ly/chilli-lofi
+→ Instagram: http://bit.ly/instagram-lofi
+
+
+🎼 | College Music
+→ Instagram: https://www.instagram.com/collegemusic
+→ Youtube: https://www.youtube.com/c/CollegeMusic
+
+
+🎧 Tracklist:
+00:00 Creative Self - Crickets in My Backyard
+https://open.spotify.com/track/10dXOeX4qKuoP2YuMmOY4L
+
+02:19 Sweet Medicine - I Love the Night
+https://open.spotify.com/track/3Kn7bvfR8HXsKeybauvAA6
+
+04:44 Creative Self - A Forgotten Place
+https://open.spotify.com/track/3VjPpf04K57r7TkK5f06O4
+
+06:41 Creative Self - Don&apos;t Look Back
+https://open.spotify.com/track/05rQanmRfJiwl6FCCkHQpD
+
+09:05 Mondo Loops, Quist, Jhove - Over the Mountains
+https://open.spotify.com/track/0GT3G9Ivjw0fDk2srrXxHU
+
+11:05 Hevi, Refeeld - Sleepwalkers
+https://open.spotify.com/track/5verStIohaYQ8AtHakQ4T5
+
+13:22 Mondo Loops, Quist - Breaking Clouds
+https://open.spotify.com/track/2r0cR2Hb067WJUJDsSjemV
+
+16:07 Towerz, C4C - Miles Away
+https://open.spotify.com/track/1VIdw4fNrF6zOR6LCG6JN5
+
+19:02 niquo, Nowun - chi
+https://open.spotify.com/track/3gTxTUjfsrBRSwAqMVZ6F6
+
+21:58 Khutko - Lilac
+https://open.spotify.com/track/4gUo4dVnUpqtebVepLYWrz
+
+24:18 Lofty - It&apos;ll Be Okay
+https://open.spotify.com/track/2pstsRA6k1NIOLtrI8oU3Y
+
+26:11 Nowun - While You Sleep
+https://open.spotify.com/track/3hnPyLhteEZBkolUhWCzJN
+
+27:33 niquo, Nowun - august blue
+https://open.spotify.com/track/7gxWbZFzpLooR8LWOLJBEr
+
+30:17 niquo, Nowun - sleep well
+https://open.spotify.com/track/3IpvEcXyiXE3NCQBtMSgFU
+
+32:37 Refeeld - Warm Heart
+https://open.spotify.com/track/7uhEKSGoBXDSN5PduBOnka
+
+36:04 Creative Self - Untitled
+https://open.spotify.com/track/2bsFdowJ9U1znBh215b0aq
+
+37:11 Kudasaibeats - Calico
+https://open.spotify.com/track/4apgQLoRjamhxwlRnFyRYn
+
+40:10 fourwalls, nightlight - Telephoto
+https://open.spotify.com/track/7oGzYFRjFUKahoj2uK8vVU
+
+43:15 Refeeld - Walk Together
+https://open.spotify.com/track/0ZlaxJQM2EDoYSwPyL8DwB
+
+45:34 Mondo Loops, Quist - Winding Roads
+https://open.spotify.com/track/0bbXXb2AdsKngSvNE11xpe
+
+48:30 AYEON - On My Mind
+https://open.spotify.com/track/0eVP92az703ABJ5RxwGLeL
+
+50:50 Kanisan - I Became a Ghost
+https://open.spotify.com/track/1lqSwKxyboStngzEqKP1GV
+
+52:57 Refeeld - Thinking About You
+https://open.spotify.com/track/4MpPKLb19t7qwaAPiksIKK
+
+54:58 oh caroline - days left still
+https://open.spotify.com/track/54g3bGufYjRTzSK2PJQhDo
+
+56:52 Nowun - To the Moon
+https://open.spotify.com/track/46mBHmld36PnSnlDA3nN2d
+
+59:01 Creative Self - Last Train Home
+https://open.spotify.com/track/1KdyPWLglLCWKPbB9MTIBC
+
+
+📄 Submit your music:
+→ contact@shinemusicllc.com
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2021 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=lMcNKqgScM4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lMcNKqgScM4/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lMcNKqgScM4/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lMcNKqgScM4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lMcNKqgScM4/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lMcNKqgScM4/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lMcNKqgScM4/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lMcNKqgScM4/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Cozy Night - Lofi hip hop mix ~ Stress Relief, Relaxing Music</media:title>
+			<yt:duration seconds='11027'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>lMcNKqgScM4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='2371596'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:l_7e2ZamUpI</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Chillhop Drive 90&apos;s - Lofi hip hop ~ Deep Focus, Relaxing Music | Chill Music</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/l_7e2ZamUpI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=l_7e2ZamUpI&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/l_7e2ZamUpI/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=l_7e2ZamUpI'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/l_7e2ZamUpI?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/l_7e2ZamUpI/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/l_7e2ZamUpI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=l_7e2ZamUpI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=l_7e2ZamUpI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=l_7e2ZamUpI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎵 | chilli music: https://open.spotify.com/playlist/5SDPei4m0IuABIYRsDJcBC?si=785a696916c04f3f
+Chillhop Drive 90&apos;s - Lofi hip hop ~ Deep Focus, Relaxing Music | Chill Music
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Playlist: https://youtube.com/playlist?list=PLfvAqoENo7emjW-lRzC7mWgl8aZjZi1aL
+→ Suggested Videos: https://youtu.be/25BkVBgFD9Y
+
+
+📄 Submit your music:
+→ contact@dreamyrecords.co | contact@shinemusicllc.com
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2021 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=l_7e2ZamUpI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l_7e2ZamUpI/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l_7e2ZamUpI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l_7e2ZamUpI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l_7e2ZamUpI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l_7e2ZamUpI/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l_7e2ZamUpI/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l_7e2ZamUpI/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Chillhop Drive 90&apos;s - Lofi hip hop ~ Deep Focus, Relaxing Music | Chill Music</media:title>
+			<yt:duration seconds='86659'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>l_7e2ZamUpI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='2148853'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:zQ6Qt1pTnLM</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Chill Drive - Lofi hip hop mix - Stress Relief, Relaxing Music</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/zQ6Qt1pTnLM?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=zQ6Qt1pTnLM&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/zQ6Qt1pTnLM/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=zQ6Qt1pTnLM'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/zQ6Qt1pTnLM?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/zQ6Qt1pTnLM/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/zQ6Qt1pTnLM?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=zQ6Qt1pTnLM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=zQ6Qt1pTnLM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=zQ6Qt1pTnLM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎵 | Music provided by Chill Beats Records: https://spoti.fi/3CDd8Cq
+📻 | Stream it: https://listen.chillbeats.com/chillbeatsmusic
+🎶 | Lofi playlist on Spotify: https://spoti.fi/3uSn2LL
+Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Music
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Spotify: http://bit.ly/chilli-lofi
+→ Instagram: http://bit.ly/instagram-lofi
+
+
+🎼 | Music provided by Chill Beats Records
+→ Listen on Spotify: https://spoti.fi/3CDd8Cq
+→ Stream it: https://listen.chillbeats.com/chillbeatsmusic
+→ Instagram: https://www.instagram.com/chillbeats_music
+
+
+🎧 Tracklist:
+00:00 a boy with a balloon - When You Listen in a Seashell 
+https://open.spotify.com/track/4ECE6KJzbfesEvQHgZCSaO
+
+03:14 Worldtraveller, Rudy Raw - Moving Planets
+https://open.spotify.com/track/1x66xleo4L6ApOK1iwiTZK
+
+05:36 Jav Cast - Thinking Backwards
+https://open.spotify.com/track/72w3bt3QR9eNDL2EAHYRpM
+
+08:17 Loafy Building, Lonely Alpaca, G Mills - Leaning on You
+https://open.spotify.com/track/1i32Epozl3QKoZcDPrel2L
+
+10:23 Aoko, Tibeauthetraveler - Peace of Mind
+https://open.spotify.com/track/2W0sBR4Ampd48wh4UXT8jZ
+
+12:58 Chill Beats Music, S N U G - Trip Back Home
+https://open.spotify.com/track/5w8OquO51QW6F9jNagPLnV
+
+15:21 Loafy Building, Ayzic - Heart-Shaped Pebbles
+https://open.spotify.com/track/4cQ9MHsgQQ41cgIpQcjlCn
+
+17:50 JazzyCal, Bcalm, Banks - Horizon
+https://open.spotify.com/track/6N6yP0CEcvGclvJtMjo2ti
+
+20:40 Hoogway - Evening Roses
+https://open.spotify.com/track/28eiu0mejK5I1nbSolbhBy
+
+22:51 Aprevied, Hoogway - Snow Castles
+https://open.spotify.com/track/4jS23VGeZLpcOcjnabKclW
+
+25:05 Kainbeats - Sunset Journey
+https://open.spotify.com/track/1RRKY4IV3xyRjciyapAhJJ
+
+27:06 Cosmonkey - Evening Ocean
+https://open.spotify.com/track/5ccHYIVXL5Wu7KmbbpLpcz
+
+30:03 Cosmonkey - Fire
+https://open.spotify.com/track/3LM4Ki7xsvRDWXzue9vHSO
+
+32:58 Yasumu, Celestial Alignment - Connected
+https://open.spotify.com/track/5p3PFytilnH27rR8O7iEMg
+
+35:21 Chill Beats Music, mell-ø, no one&apos;s perfect - Home
+https://open.spotify.com/track/27K6JN0GupWxqYMSdgpW7T
+
+37:19 Banks, Tibeauthetraveler - Spring Comes
+https://open.spotify.com/track/2jnu0adkAkoDSlOH7vJjzp
+
+39:52 C4C, Hazy Year - I Remember
+https://open.spotify.com/track/3yIp28FYZQpzqvyZDsSMZQ
+
+43:03 Hoffy Beats, Farnell Newton - Connected (⇢ Chill Beats Records)
+https://open.spotify.com/track/5rOH1D9LWtbiFADJRYBJkb
+
+45:31 JazzyCal, Purrple Cat - Phoenix
+https://open.spotify.com/track/1Pd7sQY3ipPenSCQsHxwCR
+
+48:12 G R I Z - Lonely in a Crowd
+https://open.spotify.com/track/50qyaN7yH7jUK3TupCuqLg
+
+51:04 Novvel, auream, Chill Beats Music - Death by Chocolate
+https://open.spotify.com/track/0cBJfERiHrYWVW4qqFFAGp
+
+54:01 namzzo, Alkylees - When Summer Comes
+https://open.spotify.com/track/5cjB4N9IwKsGmKgbINUwS3
+
+57:35 Plusma, a boy with a balloon - Fiore
+https://open.spotify.com/track/4RfjquNfcN0DeCQ802h76N
+
+59:55 Project AER - Road Is Mine
+https://open.spotify.com/track/47wb6Z9Z30bWg8sBBjJwoF
+
+
+► Music by: 
+• a boy with a balloon » https://spoti.fi/3iNXfBz
+• Worldtraveller » https://spoti.fi/2U00uwl
+• Rudy Raw » https://spoti.fi/3k2kk30
+• Jav Cast » https://spoti.fi/3r5S6r8
+• Loafy Building » https://spoti.fi/3r6ilNW
+• Lonely Alpaca » https://spoti.fi/3AFikEi
+• Aoko » https://spoti.fi/3f2vVxF
+• Tibeauthetraveler » https://spoti.fi/3mFabtL
+• Chill Beats Music » https://spoti.fi/3tnC4JD
+• S N U G » https://spoti.fi/3e0ZuOu
+• JazzyCal » https://spoti.fi/3hZWLXe
+• Bcalm » https://spoti.fi/3z1979c
+• Hoogway » https://spoti.fi/2OETMce
+• Aprevied » https://spoti.fi/3r4lHkC
+• Kainbeats » https://spoti.fi/329xF0N
+• Cosmonkey » https://spoti.fi/3almOWb
+• Yasumu » https://spoti.fi/2QkuGjd
+• Celestial Alignment » https://spoti.fi/3m3utPh
+• Banks » https://spoti.fi/3fLkQRR
+• C4C » https://spoti.fi/3mDpovr
+• Hazy Year » https://spoti.fi/3s9Ol2S
+• Hoffy Beats » https://spoti.fi/3g3n1kj
+• Farnell Newton » https://spoti.fi/3xGvfoi
+• G R I Z » https://spoti.fi/2S6OXd6
+• Novvel » https://spoti.fi/3xG38Wn
+• auream » https://spoti.fi/2UKAmFw
+• namzzo » https://spoti.fi/37KbvoM
+• Alkylees » https://spoti.fi/3sk8vJd
+• Plusma » https://spoti.fi/3iOpujD
+• Project AER » https://spoti.fi/3g3lfQb
+
+
+📄 Submit your music:
+→ contact@shinemusicllc.com
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2021 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=zQ6Qt1pTnLM&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zQ6Qt1pTnLM/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zQ6Qt1pTnLM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zQ6Qt1pTnLM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zQ6Qt1pTnLM/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zQ6Qt1pTnLM/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zQ6Qt1pTnLM/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zQ6Qt1pTnLM/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Chill Drive - Lofi hip hop mix - Stress Relief, Relaxing Music</media:title>
+			<yt:duration seconds='10728'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>zQ6Qt1pTnLM</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1901560'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:nhZyPQzx7JI</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Stop Overthinking - Lofi hip hop mix ~ Stress Relief, Relaxing Music</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/nhZyPQzx7JI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=nhZyPQzx7JI&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/nhZyPQzx7JI/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=nhZyPQzx7JI'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/nhZyPQzx7JI?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/nhZyPQzx7JI/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/nhZyPQzx7JI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=nhZyPQzx7JI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=nhZyPQzx7JI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=nhZyPQzx7JI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎵 | Lofi Cafe Records: https://www.loficaferecords.com/
+🎶 | Lofi playlist on Spotify: https://spoti.fi/3uSn2LL
+Stop Overthinking - Lofi hip hop mix ~ Stress Relief, Relaxing Music
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Spotify: http://bit.ly/chilli-lofi
+→ Instagram: http://bit.ly/instagram-lofi
+
+
+🎼 | Lofi Cafe Records
+→ Spotify: https://spoti.fi/3nDGUAW
+→ Instargram: https://aviarybridgerecords.com
+
+
+🎧 Tracklist:
+00:00 wood. - Illuminate
+https://open.spotify.com/track/7xjDaeVztt2GVISeC7WWPb
+
+02:25 reysi, Parth - Used To Be
+https://open.spotify.com/track/6Rc9N9Wg64WgcxGfYg4WyR
+
+04:44 reysi - Home
+https://open.spotify.com/track/4ylEjWIwZxzICjgErMb5Wj
+
+06:59 reysi - Moonlight
+https://open.spotify.com/track/7ikBPvd6oVZnGNyWJPJ3zM
+
+09:26 reysi - Eternal
+https://open.spotify.com/track/2JHNxmyGWA6FMymqVlTBDe
+
+11:41 reysi - Everyday
+https://open.spotify.com/track/6mmZTwo4S0Faqm9sY6VkSI
+
+14:01 wood. - Embrace
+https://open.spotify.com/track/3mnhlLOswWkDX4myxwq4Ru
+
+16:22 wood. - Adrift
+https://open.spotify.com/track/2ZvKANDuKwpzyxiZ7iXNGS
+
+18:20 wood. - Moonlight
+https://open.spotify.com/track/4LnjaphcHIjYWT1zGAcdco
+
+20:17 wood. - Lonely Forest
+https://open.spotify.com/track/2iJXtZdlsI9DHTZaiQkP0t
+
+22:23 wood. - The Ascent
+https://open.spotify.com/track/7J0zFrD33SB5K5hhkxSz0u
+
+24:29 wood. - Submerged
+https://open.spotify.com/track/5oWUlLSK6sqzqe6XJCaBdO
+
+27:04 wood., ramy - Peppermint Tea
+https://open.spotify.com/track/3CECLYsusy3gIIXFKOeimu
+
+29:29 Ryan Walker, reysi - remembering
+https://open.spotify.com/track/0cSumyzzhstDVQ4MubgvAR
+
+31:55 skyswimming - Analog Warmth
+https://open.spotify.com/track/4LOJ30ojsTweIdf5UYkrPb
+
+34:25 wood. - Dusk Falls
+https://open.spotify.com/track/4mqCKfTJiPQj5nuL1SjrfH
+
+36:29 wood. - Rebloom
+https://open.spotify.com/track/2I4ZrkdCDx9X65cikQa8I9
+
+39:00 wood. - Orbital
+https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK
+
+41:15 Lemeria - Overnight
+https://open.spotify.com/track/2A8i0sPRWf6JfwTAStcyBB
+
+43:18 lost.mindd, Brxvs - Hometown.xx
+https://open.spotify.com/track/6917HDHzKi7KbJ3qXGb6nV
+
+45:11 Blocktane, Nessen, skyswimming - One Day We&apos;ll Get There
+https://open.spotify.com/track/1IU5n6TxayPHbMZ7Ni0Hq5
+
+48:08 Blocktane, Nessen, cxlt., l&apos;eupe - As The Stars Light Up
+https://open.spotify.com/track/7p5K6RDI7zoncTg3baTjIm
+
+51:06 Blocktane, Nessen, Soiboi, kairos - Sailing Through Space
+https://open.spotify.com/track/5uvxRluEfT0FtQ1FZMyWeQ
+
+54:07 Blocktane, Nessen, Amess - We Can Sail Across The Sky
+https://open.spotify.com/track/10dPHACI6upDSUe51ok8SG
+
+56:38 Blocktane, Nessen, Banks - Our Home In The Clouds
+https://open.spotify.com/track/5LlhuCU2oSD7OS4ALdqWZg
+
+
+► Music by: 
+• wood. » https://spoti.fi/2VIG4Zm
+• reysi » https://spoti.fi/3Bru79h
+• Parth » https://spoti.fi/3KMjylS
+• Ryan Walker » https://spoti.fi/3mLansX
+• skyswimming » https://spoti.fi/3bAPeMn
+• Lemeria » https://spoti.fi/3eh4Xl4
+• lost.mindd » https://spoti.fi/3kPHNVO
+• Brxvs » https://spoti.fi/3yEuxcH
+• Blocktane » https://spoti.fi/38U4Uf7
+• Nessen » https://spoti.fi/3OXgBCe
+
+
+📄 Submit your music:
+→ contact@shinemusicllc.com
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2021 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=nhZyPQzx7JI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nhZyPQzx7JI/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nhZyPQzx7JI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nhZyPQzx7JI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nhZyPQzx7JI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nhZyPQzx7JI/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nhZyPQzx7JI/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nhZyPQzx7JI/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Stop Overthinking - Lofi hip hop mix ~ Stress Relief, Relaxing Music</media:title>
+			<yt:duration seconds='10460'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>nhZyPQzx7JI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1814404'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:PTHmZkjROU8</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Music</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/PTHmZkjROU8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=PTHmZkjROU8&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/PTHmZkjROU8/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=PTHmZkjROU8'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/PTHmZkjROU8?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/PTHmZkjROU8/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/PTHmZkjROU8?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=PTHmZkjROU8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=PTHmZkjROU8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=PTHmZkjROU8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎵 | Music provided by Chill Beats Records: https://spoti.fi/3CDd8Cq
+📻 | Stream it: https://listen.chillbeats.com/chillbeatsmusic
+🎶 | Lofi playlist on Spotify: https://spoti.fi/3uSn2LL
+Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Music
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Spotify: http://bit.ly/chilli-lofi
+→ Instagram: http://bit.ly/instagram-lofi
+
+
+🎼 | Music provided by Chill Beats Records
+→ Listen on Spotify: https://spoti.fi/3CDd8Cq
+→ Stream it: https://listen.chillbeats.com/chillbeatsmusic
+→ Instagram: https://www.instagram.com/chillbeats_music
+
+
+🎧 Tracklist:
+00:00 Kainbeats - Sunset Journey
+https://open.spotify.com/track/1RRKY4IV3xyRjciyapAhJJ
+
+02:00 Chill Beats Music, S N U G - Trip Back Home
+https://open.spotify.com/track/5w8OquO51QW6F9jNagPLnV
+
+04:24 Worldtraveller, Rudy Raw - Moving Planets
+https://open.spotify.com/track/1x66xleo4L6ApOK1iwiTZK
+
+06:46 JazzyCal, Purrple Cat - Phoenix
+https://open.spotify.com/track/1Pd7sQY3ipPenSCQsHxwCR
+
+09:27 Slowheal - Time Away
+https://open.spotify.com/track/3t2q4INXGxK8Sx05OouAVI
+
+12:23 Loafy Building, Lonely Alpaca, G Mills - Leaning on You
+https://open.spotify.com/track/1i32Epozl3QKoZcDPrel2L
+
+14:29 Plusma, a boy with a balloon - Fiore
+https://open.spotify.com/track/4RfjquNfcN0DeCQ802h76N
+
+16:50 Yasumu, Celestial Alignment - Connected
+https://open.spotify.com/track/5p3PFytilnH27rR8O7iEMg
+
+19:13 C4C, Hazy Year - I Remember
+https://open.spotify.com/track/3yIp28FYZQpzqvyZDsSMZQ
+
+22:25 Chill Beats Music, Socrab, Loafy Building - Oshu
+https://open.spotify.com/track/7Icc1XfhnVT45G6TaLhbxK
+
+25:07 H.1 - Beyond My Sight
+https://open.spotify.com/track/75YCpWl28Xc7PT7GP9cUZ3
+
+27:48 Hoogway - Evening Roses
+https://open.spotify.com/track/28eiu0mejK5I1nbSolbhBy
+
+29:59 Inf, SCayos, Oaty. - Blissful Memories
+https://open.spotify.com/track/2RXUtdn5YaebGBKmvOvFb1
+
+32:01 namzzo, Alkylees - When Summer Comes
+https://open.spotify.com/track/5cjB4N9IwKsGmKgbINUwS3
+
+35:34 Project AER, Colours in Context - Faded
+https://open.spotify.com/track/1SDKb1UXzq9Qb5PBA66sD6
+
+38:48 Zmeyev - Forgive Me
+https://open.spotify.com/track/2p0eWTc65C9mu05zfEYlJq
+
+40:55 softy - Morning Dew
+https://open.spotify.com/track/0QsvdIltgzC5sx4gVhLmEQ
+
+43:30 Yestalgia, Hoogway - Breezer
+https://open.spotify.com/track/5OnoVRdgRDq2cadAVMPhuf
+
+45:45 Bcalm, Tibeauthetraveler - Midnight Swim
+https://open.spotify.com/track/23GdqRfIyA2mIlrPwgbLW4
+
+48:18 JazzyCal, Bcalm, Banks - Horizon
+https://open.spotify.com/track/6N6yP0CEcvGclvJtMjo2ti
+
+51:07 JazzyCal, Hoffy Beats - Fading Away
+https://open.spotify.com/track/5mvRmw7IeBFfpD5OxkmYKF
+
+54:23 a boy with a balloon - When You Listen in a Seashell
+https://open.spotify.com/track/4ECE6KJzbfesEvQHgZCSaO
+
+57:38 Project AER - Road Is Mine
+https://open.spotify.com/track/47wb6Z9Z30bWg8sBBjJwoF
+
+59:50 Tibeauthetraveler, Snoozegod - Waking up Early
+https://open.spotify.com/track/5qcMquGdnFX3Sa1JQbuvoM
+
+
+► Music by: 
+• Kainbeats » https://spoti.fi/329xF0N
+• Chill Beats Music » https://spoti.fi/3tnC4JD
+• S N U G » https://spoti.fi/3e0ZuOu
+• Worldtraveller » https://spoti.fi/2U00uwl
+• Rudy Raw » https://spoti.fi/3k2kk30
+• JazzyCal » https://spoti.fi/3hZWLXe
+• Purrple Cat » https://spoti.fi/3sgJr4c
+• Slowheal » https://spoti.fi/3g7Za2d
+• Loafy Building » https://spoti.fi/3r6ilNW
+• Lonely Alpaca » https://spoti.fi/3AFikEi
+• Plusma » https://spoti.fi/3iOpujD
+• a boy with a balloon » https://spoti.fi/3iNXfBz
+• Yasumu » https://spoti.fi/2QkuGjd
+• Celestial Alignment » https://spoti.fi/3m3utPh
+• C4C » https://spoti.fi/3mDpovr
+• Hazy Year » https://spoti.fi/3s9Ol2S
+• H.1 » https://spoti.fi/2RvqvlC
+• Hoogway » https://spoti.fi/2OETMce
+• Inf » https://spoti.fi/2VPjT40
+• SCayos » https://spoti.fi/3wzHPnZ
+• namzzo » https://spoti.fi/37KbvoM
+• Alkylees » https://spoti.fi/3sk8vJd
+• Project AER » https://spoti.fi/3g3lfQb
+• Colours in Context » https://spoti.fi/3e8knbh
+• Zmeyev » https://spoti.fi/2QeSUvx
+• softy » https://spoti.fi/3a6gl18
+• Yestalgia » https://spoti.fi/2RhXCsH
+• Bcalm » https://spoti.fi/3z1979c
+• Tibeauthetraveler » https://spoti.fi/3mFabtL
+• a boy with a balloon » https://spoti.fi/3iNXfBz
+• Tibeauthetraveler » https://spoti.fi/3mFabtL
+• Snoozegod » https://spoti.fi/3sigjLi
+
+
+📄 Submit your music:
+→ contact@shinemusicllc.com
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2021 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=PTHmZkjROU8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PTHmZkjROU8/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PTHmZkjROU8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PTHmZkjROU8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PTHmZkjROU8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PTHmZkjROU8/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PTHmZkjROU8/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PTHmZkjROU8/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Chill Drive - Lofi hip hop mix ~ Stress Relief, Relaxing Music</media:title>
+			<yt:duration seconds='10588'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>PTHmZkjROU8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1720421'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:7MJBeAyU1As</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Chill Drive - Lofi hip hop mix ~ Stress Relief, Chill Music</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/7MJBeAyU1As?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=7MJBeAyU1As&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/7MJBeAyU1As/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=7MJBeAyU1As'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/7MJBeAyU1As?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/7MJBeAyU1As/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/7MJBeAyU1As?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=7MJBeAyU1As' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=7MJBeAyU1As' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=7MJBeAyU1As' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎵 | Music provided by Chill Beats Records: https://spoti.fi/3CDd8Cq
+📻 | Stream it: https://listen.chillbeats.com/chillbeatsmusic
+🎶 | Lofi playlist on Spotify: https://spoti.fi/3uSn2LL
+Chill Drive - Lofi hip hop mix ~ Stress Relief, Chill Music
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Spotify: http://bit.ly/chilli-lofi
+→ Instagram: http://bit.ly/instagram-lofi
+
+
+🎼 | Music provided by Chill Beats Records
+→ Listen on Spotify: https://spoti.fi/3CDd8Cq
+→ Stream it: https://listen.chillbeats.com/chillbeatsmusic
+→ Instagram: https://www.instagram.com/chillbeats_music
+
+
+🎧 Tracklist:
+00:00 Bcalm, Hendy - Tomorrow
+https://open.spotify.com/track/5rUvIM54fGw03adGQslMaI
+
+01:49 Plusma, a boy with a balloon - Fiore
+https://open.spotify.com/track/4RfjquNfcN0DeCQ802h76N
+
+04:09 Worldtraveller, Rudy Raw - Moving Planets
+https://open.spotify.com/track/1x66xleo4L6ApOK1iwiTZK
+
+06:32 Slowheal - Time Away
+https://open.spotify.com/track/3t2q4INXGxK8Sx05OouAVI
+
+09:28 JazzyCal, Purrple Cat - Phoenix
+https://open.spotify.com/track/1Pd7sQY3ipPenSCQsHxwCR
+
+12:09 Tibeauthetraveler, Snoozegod - Waking up Early
+https://open.spotify.com/track/5qcMquGdnFX3Sa1JQbuvoM
+
+13:40 Chill Beats Music, Byjoelmichael, Addict. - Floating
+https://open.spotify.com/track/6UGsg6dUYOTDxG8pbTnbc3
+
+16:06 Kainbeats - Sunset Journey
+https://open.spotify.com/track/1RRKY4IV3xyRjciyapAhJJ
+
+18:06 Loafy Building, Lonely Alpaca, G Mills - Leaning on You
+https://open.spotify.com/track/1i32Epozl3QKoZcDPrel2L
+
+20:12 Otaam, Tonion - Lush Space
+https://open.spotify.com/track/1IzUBGgQytImUuXm2QPZDo
+
+22:42 namzzo, Alkylees - When Summer Comes
+https://open.spotify.com/track/5cjB4N9IwKsGmKgbINUwS3
+
+26:16 Project AER, Colours in Context - Faded
+https://open.spotify.com/track/1SDKb1UXzq9Qb5PBA66sD6
+
+29:30 Chill Beats Music, Kaspa. - Sailing
+https://open.spotify.com/track/4jWob5s3wrIYtq683Feay0
+
+32:04 Chill Beats Music, S N U G - Trip Back Home
+https://open.spotify.com/track/5w8OquO51QW6F9jNagPLnV
+
+34:27 Yasumu, Celestial Alignment - Connected
+https://open.spotify.com/track/5p3PFytilnH27rR8O7iEMg
+
+36:50 Maadrhino - Reflection
+https://open.spotify.com/track/6VmAvxLI4NzlNQdYYzFUrx
+
+39:00 ENRA - Moving Clouds
+https://open.spotify.com/track/03kE0jNVxvCnANATi6ZKZ1
+
+40:49 Ensidya - Coming Home
+https://open.spotify.com/track/0EzJxVt8kQ40lb5Lbx84LN
+
+43:04 Novvel, Bequem - Humble Eyes
+https://open.spotify.com/track/6Nc9CHUhBPJa2g43Af7sNj
+
+45:46 Tibeauthetraveler, Dyrean - On the Road
+https://open.spotify.com/track/5FxdZNY6oeXgCvcAQJURFA
+
+48:24 Project AER - Road Is Mine
+https://open.spotify.com/track/47wb6Z9Z30bWg8sBBjJwoF
+
+50:37 Jav Cast - Thinking Backwards
+https://open.spotify.com/track/72w3bt3QR9eNDL2EAHYRpM
+
+53:18 H.1 - Beyond My Sight
+https://open.spotify.com/track/75YCpWl28Xc7PT7GP9cUZ3
+
+55:59 sftspkn - Reflection
+https://open.spotify.com/track/2THVR3eBB9eZ65SnlJZ0n1
+
+58:17 JazzyCal, Hoffy Beats - Fading Away
+https://open.spotify.com/track/5mvRmw7IeBFfpD5OxkmYKF
+
+
+► Music by: 
+• Bcalm » https://spoti.fi/3z1979c
+• Hendy » https://spoti.fi/2U8AEGd
+• Plusma » https://spoti.fi/3iOpujD
+• a boy with a balloon » https://spoti.fi/3iNXfBz
+• Worldtraveller » https://spoti.fi/2U00uwl
+• Rudy Raw » https://spoti.fi/3k2kk30
+• Slowheal » https://spoti.fi/3g7Za2d
+• JazzyCal » https://spoti.fi/3hZWLXe
+• Purrple Cat » https://spoti.fi/3sgJr4c
+• Tibeauthetraveler » https://spoti.fi/3mFabtL
+• Snoozegod » https://spoti.fi/3sigjLi
+• Chill Beats Music » https://spoti.fi/3tnC4JD
+• Byjoelmichael » https://spoti.fi/3bBykx2
+• Kainbeats » https://spoti.fi/329xF0N
+• Loafy Building » https://spoti.fi/3r6ilNW
+• Lonely Alpaca » https://spoti.fi/3AFikEi
+• Otaam » https://spoti.fi/2OGGUm3
+• Tonion » https://spoti.fi/3AZiDLa
+• namzzo » https://spoti.fi/37KbvoM
+• Alkylees » https://spoti.fi/3sk8vJd
+• Project AER » https://spoti.fi/3g3lfQb
+• Colours in Context » https://spoti.fi/3e8knbh
+• Yasumu » https://spoti.fi/2QkuGjd
+• Celestial Alignment » https://spoti.fi/3m3utPh
+• Maadrhino » https://spoti.fi/2UIXTXA
+• ENRA » https://spoti.fi/3g2DDbL
+• Ensidya » https://spoti.fi/3jVAAmi
+• Novvel » https://spoti.fi/3xG38Wn
+• Bequem » https://spoti.fi/3r8dQCu
+• Jav Cast » https://spoti.fi/3r5S6r8
+• H.1 » https://spoti.fi/2RvqvlC
+• sftspkn » https://spoti.fi/3v3yOnx
+
+
+📄 Submit your music:
+→ contact@shinemusicllc.com
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2021 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=7MJBeAyU1As&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7MJBeAyU1As/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7MJBeAyU1As/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7MJBeAyU1As/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7MJBeAyU1As/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7MJBeAyU1As/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7MJBeAyU1As/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7MJBeAyU1As/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Chill Drive - Lofi hip hop mix ~ Stress Relief, Chill Music</media:title>
+			<yt:duration seconds='10600'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>7MJBeAyU1As</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1627934'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:B6ZwWq-IBC0</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>90&apos;s Rain 🌧️ Lo-Fi Hip Hop ~ Chill Drive Beats for Focus, Study and Sleep</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/B6ZwWq-IBC0?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=B6ZwWq-IBC0&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/B6ZwWq-IBC0/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=B6ZwWq-IBC0'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/B6ZwWq-IBC0?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/B6ZwWq-IBC0/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/B6ZwWq-IBC0?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=B6ZwWq-IBC0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=B6ZwWq-IBC0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=B6ZwWq-IBC0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎼 | chilli music: https://open.spotify.com/playlist/5SDPei4m0IuABIYRsDJcBC?si=mF5j6iclRi-7P9LH0v2Vaw
+90&apos;s Rain 🌧️ Lo-Fi Hip Hop ~ Chill Drive Beats for Focus, Study and Sleep
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Playlist: https://youtube.com/playlist?list=PLfvAqoENo7emjW-lRzC7mWgl8aZjZi1aL
+→ Suggested Videos: https://youtu.be/25BkVBgFD9Y
+
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2025 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=B6ZwWq-IBC0&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/B6ZwWq-IBC0/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/B6ZwWq-IBC0/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/B6ZwWq-IBC0/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/B6ZwWq-IBC0/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/B6ZwWq-IBC0/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/B6ZwWq-IBC0/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/B6ZwWq-IBC0/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>90&apos;s Rain 🌧️ Lo-Fi Hip Hop ~ Chill Drive Beats for Focus, Study and Sleep</media:title>
+			<yt:duration seconds='11048'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>B6ZwWq-IBC0</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1070'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:77MR2sInBWA</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Driving Downtown 🚗 Lofi hip hop ~ Playlist for Chill Night Drives</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/77MR2sInBWA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=77MR2sInBWA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/77MR2sInBWA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=77MR2sInBWA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/77MR2sInBWA?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/77MR2sInBWA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/77MR2sInBWA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=77MR2sInBWA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=77MR2sInBWA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=77MR2sInBWA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎼 | chilli music: https://open.spotify.com/playlist/5SDPei4m0IuABIYRsDJcBC?si=mF5j6iclRi-7P9LH0v2Vaw
+Driving Downtown 🚗 Lofi hip hop ~ Playlist for Chill Night Drives
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Playlist: https://youtube.com/playlist?list=PLfvAqoENo7emjW-lRzC7mWgl8aZjZi1aL
+→ Suggested Videos: https://youtu.be/25BkVBgFD9Y
+
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2025 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=77MR2sInBWA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/77MR2sInBWA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/77MR2sInBWA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/77MR2sInBWA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/77MR2sInBWA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/77MR2sInBWA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/77MR2sInBWA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/77MR2sInBWA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Driving Downtown 🚗 Lofi hip hop ~ Playlist for Chill Night Drives</media:title>
+			<yt:duration seconds='11663'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>77MR2sInBWA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1760'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:431Pza0aggA</id>
+		<published>2025-08-07T14:42:22</published>
+		<updated>2025-08-07T14:42:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Relaxing Night Drive 🌃 Soft Lofi Beats ~ Playlist To Calming You Down</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/431Pza0aggA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=431Pza0aggA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/431Pza0aggA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=431Pza0aggA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg/uploads/431Pza0aggA?v=2'/>
+		<author>
+			<name>chilli music</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCS4iXNXsvlOHm7TuXLltreg</uri>
+			<yt:userId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/431Pza0aggA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/431Pza0aggA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=431Pza0aggA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=431Pza0aggA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=431Pza0aggA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='chilli music' yt:type='partner'>UCS4iXNXsvlOHm7TuXLltreg</media:credit>
+			<media:description type='plain'>🎼 | chilli music: https://open.spotify.com/playlist/5SDPei4m0IuABIYRsDJcBC?si=mF5j6iclRi-7P9LH0v2Vaw
+Relaxing Night Drive 🌃 Soft Lofi Beats ~ Playlist To Calming You Down
+→ stress relief, relaxing music, deep sleeping music
+→ beats to relax/study to
+
+
+🎼 | MY CHANNEL
+→ Youtube: https://bit.ly/3cwB0vN
+→ Playlist: https://youtube.com/playlist?list=PLfvAqoENo7emjW-lRzC7mWgl8aZjZi1aL
+→ Suggested Videos: https://youtu.be/25BkVBgFD9Y
+
+
+- All music is permission by artists &amp; records label, please don&apos;t use without permission.
+- Artwork and Animations by © 2021 chilli music
+
+#lofi​​
+#chill​​
+#lofihiphop​​</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=431Pza0aggA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/431Pza0aggA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/431Pza0aggA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/431Pza0aggA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/431Pza0aggA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/431Pza0aggA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/431Pza0aggA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/431Pza0aggA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Relaxing Night Drive 🌃 Soft Lofi Beats ~ Playlist To Calming You Down</media:title>
+			<yt:duration seconds='11703'/>
+	        <yt:uploaded>2025-08-07T14:42:22</yt:uploaded>
+			<yt:uploaderId>EEUCS4iXNXsvlOHm7TuXLltreg</yt:uploaderId>
+			<yt:videoid>431Pza0aggA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1562'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>

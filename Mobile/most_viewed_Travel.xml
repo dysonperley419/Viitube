@@ -1,0 +1,1038 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:xoNupvpwlDc</id>
+		<published>2025-08-07T14:47:52</published>
+		<updated>2025-08-07T14:47:52</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Expedia &amp; Panama present The Next Turn: Islands, Ocean &amp; Adventure</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/xoNupvpwlDc?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=xoNupvpwlDc&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/xoNupvpwlDc/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=xoNupvpwlDc'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/xoNupvpwlDc?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/xoNupvpwlDc/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/xoNupvpwlDc?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=xoNupvpwlDc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=xoNupvpwlDc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=xoNupvpwlDc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Get ready to dive into Panama’s island life.
+
+In this episode of The Next Turn, curious traveler Phil explores two of Panama’s most stunning regions, snorkeling in the crystal-clear waters of Bocas del Toro and fishing off the coast of the Pearl Islands. It&apos;s a journey filled with sunshine, sea life, and unforgettable moments.
+
+Discover more: https://bit.ly/4mXMnQL
+
+Brought to you by Expedia and Promtur Panama
+#TheNextTurn #PanamaTravel #ExpediaPartner #BocasDelToro #PearlIslands #IslandAdventure #SnorkelingPanama #VisitPanama</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=xoNupvpwlDc&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xoNupvpwlDc/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xoNupvpwlDc/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xoNupvpwlDc/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xoNupvpwlDc/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xoNupvpwlDc/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xoNupvpwlDc/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xoNupvpwlDc/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Expedia &amp; Panama present The Next Turn: Islands, Ocean &amp; Adventure</media:title>
+			<yt:duration seconds='958'/>
+	        <yt:uploaded>2025-08-07T14:47:52</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>xoNupvpwlDc</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='4231'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:HEuwZQXxQjI</id>
+		<published>2025-08-07T14:47:52</published>
+		<updated>2025-08-07T14:47:52</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Expedia &amp; Panama present The Next Turn : Culture, Customs &amp; Cuisine</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/HEuwZQXxQjI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=HEuwZQXxQjI&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/HEuwZQXxQjI/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=HEuwZQXxQjI'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/HEuwZQXxQjI?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/HEuwZQXxQjI/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/HEuwZQXxQjI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=HEuwZQXxQjI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=HEuwZQXxQjI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=HEuwZQXxQjI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Life’s most unforgettable moments often come from the unexpected. The Next Turn invites open-minded travelers to venture into the unknown, embrace adventure, and uncover the magic that&apos;s waiting just around the corner.
+
+In this episode, free-spirited Marianela travels from the Panama&apos;s bustling capital, Panama City, to the banks of the Chagres River to meet the indigenous Emberá people. Along the way she finds herself taking a helicopter ride, learning to surf and even crashing a local wedding.
+
+Discover more at https://thenextturn.expedia.com 
+
+Brought to you by Expedia &amp; Promtur Panama</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=HEuwZQXxQjI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HEuwZQXxQjI/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HEuwZQXxQjI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HEuwZQXxQjI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HEuwZQXxQjI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HEuwZQXxQjI/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HEuwZQXxQjI/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HEuwZQXxQjI/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Expedia &amp; Panama present The Next Turn : Culture, Customs &amp; Cuisine</media:title>
+			<yt:duration seconds='957'/>
+	        <yt:uploaded>2025-08-07T14:47:52</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>HEuwZQXxQjI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='6066'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:D_UU8_axQIg</id>
+		<published>2025-08-07T14:47:52</published>
+		<updated>2025-08-07T14:47:52</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Expedia &amp; Panama present The Next Turn : A Feast For The Senses</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/D_UU8_axQIg?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=D_UU8_axQIg&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/D_UU8_axQIg/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=D_UU8_axQIg'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/D_UU8_axQIg?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/D_UU8_axQIg/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/D_UU8_axQIg?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=D_UU8_axQIg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=D_UU8_axQIg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=D_UU8_axQIg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Life’s most unforgettable moments often come from the unexpected. The Next Turn invites open-minded travelers to venture into the unknown, embrace adventure, and uncover the magic that&apos;s waiting just around the corner.
+
+In this episode, blind adventurer Amar Latif travels to Panama to take on experiences that will challenge all his senses. From climbing the country&apos;s highest peak, and tasting its famous coffee, to getting behind the wheel of a dune buggy - Amar push his limits to the max.
+
+Discover more at https://thenextturn.expedia.com 
+
+Brought to you by Expedia &amp; Promtur Panama</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=D_UU8_axQIg&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/D_UU8_axQIg/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/D_UU8_axQIg/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/D_UU8_axQIg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/D_UU8_axQIg/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/D_UU8_axQIg/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/D_UU8_axQIg/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/D_UU8_axQIg/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Expedia &amp; Panama present The Next Turn : A Feast For The Senses</media:title>
+			<yt:duration seconds='999'/>
+	        <yt:uploaded>2025-08-07T14:47:52</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>D_UU8_axQIg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='6812'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:fvB9llpB10s</id>
+		<published>2025-08-07T14:47:53</published>
+		<updated>2025-08-07T14:47:53</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Expedia &amp; Azerbaijan present Beyond The Frame : An Azerbaijani Adventure</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/fvB9llpB10s?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=fvB9llpB10s&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/fvB9llpB10s/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=fvB9llpB10s'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/fvB9llpB10s?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/fvB9llpB10s/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/fvB9llpB10s?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=fvB9llpB10s' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=fvB9llpB10s' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=fvB9llpB10s' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Beyond The Frame travels the globe in search of inspiration along the road less traveled - uncovering vibrant wonders, cultural treasures and unforgettable experiences.
+
+In this episode, join filmmaker and production designer Jade Healy as she leaves the comfort of her Los Angeles home to seek fresh creative energy in Azerbaijan - from the winding back streets of Baku&apos;s Old City, to the wide-open, colourful expanse of the Candy Cane mountains. 
+
+Discover more at https://beyondtheframe.expedia.co.uk/ 
+
+Brought to you by Expedia &amp; Azerbaijan
+
+00:00 - The Arrival
+00:41 – Baku: A Blend of Worlds   
+01:52 – A Sweet Ride
+02:55 – Hikinh To New Horizons
+04:10 – The Language of Tea
+04:27 – Breaking Bread</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=fvB9llpB10s&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fvB9llpB10s/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fvB9llpB10s/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fvB9llpB10s/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fvB9llpB10s/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fvB9llpB10s/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fvB9llpB10s/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fvB9llpB10s/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Expedia &amp; Azerbaijan present Beyond The Frame : An Azerbaijani Adventure</media:title>
+			<yt:duration seconds='389'/>
+	        <yt:uploaded>2025-08-07T14:47:53</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>fvB9llpB10s</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='21169'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:e2v9lw984sA</id>
+		<published>2025-08-07T14:47:53</published>
+		<updated>2025-08-07T14:47:53</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Expedia &amp; Jordan present Super Supper Clubs : The South with Ali Ghzawi</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/e2v9lw984sA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=e2v9lw984sA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/e2v9lw984sA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=e2v9lw984sA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/e2v9lw984sA?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/e2v9lw984sA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/e2v9lw984sA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=e2v9lw984sA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=e2v9lw984sA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=e2v9lw984sA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Super Supper Clubs follows local chefs as they honor their homeland with extraordinary, one-off dining experiences - from sourcing ingredients in stunning landscapes to crafting unforgettable meals in iconic settings.
+
+In this episode, Chef Ali Ghzawi takes us on a journey through Jordan’s southern sights of Petra, Aqaba, and Wadi Rum, exploring the best local produce, culminating in a spectacular and innovative sunset dinner at the lowest point on Earth, The Dead Sea.
+
+Discover more at https://supersupperclubs.expedia.com/
+
+Brought to you by Expedia and the Jordan Tourism Board
+
+0:11 – A story to tell 
+1:18 – Aqaba 
+4:25 – Wadi Rum 
+7:47 – Petra 
+8:36 – The Dead Sea 
+9:18 – Dinner is served</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=e2v9lw984sA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/e2v9lw984sA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/e2v9lw984sA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/e2v9lw984sA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/e2v9lw984sA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/e2v9lw984sA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/e2v9lw984sA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/e2v9lw984sA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Expedia &amp; Jordan present Super Supper Clubs : The South with Ali Ghzawi</media:title>
+			<yt:duration seconds='801'/>
+	        <yt:uploaded>2025-08-07T14:47:53</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>e2v9lw984sA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='5719'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:YKS1CQv0KdM</id>
+		<published>2025-08-07T14:47:53</published>
+		<updated>2025-08-07T14:47:53</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Expedia &amp; Jordan present Super Supper Clubs : The North with Sara Aqel</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/YKS1CQv0KdM?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=YKS1CQv0KdM&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/YKS1CQv0KdM/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=YKS1CQv0KdM'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/YKS1CQv0KdM?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/YKS1CQv0KdM/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/YKS1CQv0KdM?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=YKS1CQv0KdM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=YKS1CQv0KdM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=YKS1CQv0KdM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Super Supper Clubs follows local chefs as they honor their homeland with extraordinary, one-off dining experiences - from sourcing ingredients in stunning landscapes to crafting unforgettable meals in iconic settings.
+
+In this episode, Chef Sara Aqel explores Jordan’s northern produce, landscapes, and historical sights before hosting an idyllic dinner as the sun goes down at Amman’s stunning Citadel.
+
+Discover more at https://supersupperclubs.expedia.com/
+
+Brought to you by Expedia and the Jordan Tourism Board
+
+00:00 – Amman 
+4:34 – Umm Qais 
+5:54 – Jerash 
+7:20 – Iraq Al Amir 
+8:03 – Ma’in Hot Springs 
+8:51 – Dinner is served</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=YKS1CQv0KdM&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YKS1CQv0KdM/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YKS1CQv0KdM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YKS1CQv0KdM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YKS1CQv0KdM/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YKS1CQv0KdM/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YKS1CQv0KdM/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YKS1CQv0KdM/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Expedia &amp; Jordan present Super Supper Clubs : The North with Sara Aqel</media:title>
+			<yt:duration seconds='731'/>
+	        <yt:uploaded>2025-08-07T14:47:53</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>YKS1CQv0KdM</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='8497'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:wmT6Ps78ePI</id>
+		<published>2025-08-07T14:47:53</published>
+		<updated>2025-08-07T14:47:53</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Expedia &amp; Great Britain present Got The Shot : England - The Period Drama</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/wmT6Ps78ePI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=wmT6Ps78ePI&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/wmT6Ps78ePI/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=wmT6Ps78ePI'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/wmT6Ps78ePI?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/wmT6Ps78ePI/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/wmT6Ps78ePI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=wmT6Ps78ePI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=wmT6Ps78ePI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=wmT6Ps78ePI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Famous for its iconic film and TV locations, Great Britain has long been the real star of the show. 
+
+Got The Shot joins comedians and trainee location scouts Stevie Martin and Lara Ricote on a genre-hopping road trip across England, Scotland, and Wales as they search for lesser-known but equally cinematic destinations to satisfy the needs of a somewhat demanding Hollywood producer.
+
+In this episode, Stevie &amp; Lara travel to England’s North East and go back in time as they hunt for perfect period drama backdrops. From sprawling mansions fit for a Queen, to vintage buses on cobbled streets and dramatic seaside vistas - have they Got The Shot?
+
+Discover more at https://exploregreatbritain.expedia.com/ 
+
+Brought to you by Expedia &amp; Great Britain
+
+1:00 - Beamish Hall 
+4:15 – Beamish Living Museum 
+5:18 – Grainger Market 
+6:50 – Ice Dip at Long Sands Beach 
+8:28 – The best of Northeast England</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=wmT6Ps78ePI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wmT6Ps78ePI/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wmT6Ps78ePI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wmT6Ps78ePI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wmT6Ps78ePI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wmT6Ps78ePI/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wmT6Ps78ePI/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wmT6Ps78ePI/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Expedia &amp; Great Britain present Got The Shot : England - The Period Drama</media:title>
+			<yt:duration seconds='581'/>
+	        <yt:uploaded>2025-08-07T14:47:53</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>wmT6Ps78ePI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='2638'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:4qyo1WNfumE</id>
+		<published>2025-08-07T14:47:53</published>
+		<updated>2025-08-07T14:47:53</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Expedia &amp; Great Britain present Got The Shot : Wales - The Fantasy Epic</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/4qyo1WNfumE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=4qyo1WNfumE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/4qyo1WNfumE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=4qyo1WNfumE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/4qyo1WNfumE?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/4qyo1WNfumE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/4qyo1WNfumE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=4qyo1WNfumE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=4qyo1WNfumE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=4qyo1WNfumE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Famous for its iconic film and TV locations, Great Britain has long been the real star of the show. 
+
+Got The Shot joins comedians and trainee location scouts Stevie Martin and Lara Ricote on a genre-hopping road trip across England, Scotland, and Wales as they search for lesser-known but equally cinematic destinations to satisfy the needs of a somewhat demanding Hollywood producer.
+
+In this episode, Stevie and Lara are in Wales, where they’re hunting for the perfect film locations for a fantasy epic. From medieval battlegrounds, to underground dragon’s lairs and a contemporary-spin on a royal banquet—have they Got The Shot?
+
+Discover more at https://exploregreatbritain.expedia.com/ 
+
+Brought to you by Expedia &amp; Great Britain
+
+00:58 - National Botanic Gardens of Wales
+3:15  – The National Showcaves
+4:45 - Cardiff&apos;s Castle Arcade
+5:24 - Cardiff Castle
+7:31 - New culinary Cardiff
+8:30 - The best of Wales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=4qyo1WNfumE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qyo1WNfumE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qyo1WNfumE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qyo1WNfumE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qyo1WNfumE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qyo1WNfumE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qyo1WNfumE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qyo1WNfumE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Expedia &amp; Great Britain present Got The Shot : Wales - The Fantasy Epic</media:title>
+			<yt:duration seconds='576'/>
+	        <yt:uploaded>2025-08-07T14:47:53</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>4qyo1WNfumE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='6416'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:BOH7F-JtLJE</id>
+		<published>2025-08-07T14:47:53</published>
+		<updated>2025-08-07T14:47:53</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Expedia &amp; Great Britain present Got The Shot : Scotland - The Spy Thriller</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/BOH7F-JtLJE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=BOH7F-JtLJE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/BOH7F-JtLJE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=BOH7F-JtLJE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/BOH7F-JtLJE?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/BOH7F-JtLJE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/BOH7F-JtLJE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=BOH7F-JtLJE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=BOH7F-JtLJE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=BOH7F-JtLJE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Famous for its iconic film and TV locations, Great Britain has long been the real star of the show. 
+
+Got The Shot joins comedians and trainee location scouts Stevie Martin and Lara Ricote on a genre-hopping road trip across England, Scotland, and Wales as they search for lesser-known but equally cinematic destinations to satisfy the needs of a somewhat demanding Hollywood producer.
+
+In this episode, Stevie &amp; Lara are on a mission to find Scotland&apos;s most spy-worthy film locations. From loch-side Highland hideaways, to surprising Glasgow eateries and a speedboat ride down the River Clyde - have they Got The Shot?
+
+Discover more at https://exploregreatbritain.expedia.com/ 
+
+Brought to you by Expedia &amp; Great Britain
+
+1:00 - Loch Fyne &amp; the Highlands
+2:41 - Glasgow from the Clyde
+3:54 - Glaswegian Vintage Shopping
+4:51 - New Glaswegian Cuisine
+6:53  - Glasgow by night
+7:25 – the best of Scotland</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=BOH7F-JtLJE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BOH7F-JtLJE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BOH7F-JtLJE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BOH7F-JtLJE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BOH7F-JtLJE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BOH7F-JtLJE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BOH7F-JtLJE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BOH7F-JtLJE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Expedia &amp; Great Britain present Got The Shot : Scotland - The Spy Thriller</media:title>
+			<yt:duration seconds='520'/>
+	        <yt:uploaded>2025-08-07T14:47:53</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>BOH7F-JtLJE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='4002'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:b_lrv-lnpbs</id>
+		<published>2025-08-07T14:47:54</published>
+		<updated>2025-08-07T14:47:54</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Expedia &amp; Abu Dhabi present The Next Turn : Abu Dhabi - City of Surprises</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/b_lrv-lnpbs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=b_lrv-lnpbs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/b_lrv-lnpbs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=b_lrv-lnpbs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/b_lrv-lnpbs?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/b_lrv-lnpbs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/b_lrv-lnpbs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=b_lrv-lnpbs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=b_lrv-lnpbs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=b_lrv-lnpbs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Life’s most unforgettable moments often come from the unexpected. The Next Turn invites open-minded travelers to venture into the unknown, embrace adventure, and uncover the magic that&apos;s waiting just around the corner.
+
+In this episode, Ellie &amp; Romero explore the capital of the United Arab Emirates - Abu Dhabi. Famed for it&apos;s opulence and luxury, they soon discover there&apos;s far more to this desert city than meets the eye. 
+
+Discover more at https://thenextturn.expedia.com 
+
+Brought to you by Expedia &amp; Experience Abu Dhabi</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=b_lrv-lnpbs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/b_lrv-lnpbs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/b_lrv-lnpbs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/b_lrv-lnpbs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/b_lrv-lnpbs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/b_lrv-lnpbs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/b_lrv-lnpbs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/b_lrv-lnpbs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Expedia &amp; Abu Dhabi present The Next Turn : Abu Dhabi - City of Surprises</media:title>
+			<yt:duration seconds='954'/>
+	        <yt:uploaded>2025-08-07T14:47:54</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>b_lrv-lnpbs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='90743'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:cUkSMo45kME</id>
+		<published>2025-08-07T14:47:54</published>
+		<updated>2025-08-07T14:47:54</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Local Lens: guía de Panamá para amantes de la gastronomía, Centroamérica</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/cUkSMo45kME?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=cUkSMo45kME&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/cUkSMo45kME/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=cUkSMo45kME'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/cUkSMo45kME?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/cUkSMo45kME/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/cUkSMo45kME?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=cUkSMo45kME' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=cUkSMo45kME' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=cUkSMo45kME' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Acompaña al famoso chef José Olmedo Carles Rojas y a su esposa, la cineasta Chevy Tyler, en su recorrido por el país, desde la Ciudad de Panamá hasta la costa del Caribe. 
+
+Lee aquí la entrevista: https://www.expedia.com/see/magazine/local-lens-food-lovers-guide-panama-es?
+
+¿Sabías que en Panamá puedes ir del Pacífico al Atlántico en solo dos horas? José y Chevy iniciaron su aventura en el Casco Antiguo de la Ciudad de Panamá, un lugar con diversidad cultural, bailes folklóricos, bares rooftop, restaurantes buenos y música todo el tiempo. 
+
+Recorre con José y Chevy el Mercado de Mariscos, un lugar lleno de vida donde puedes comprar pescados y mariscos, probar un ceviche fresco y ver el espectáculo. 
+
+En Sisu Coffee Studio, que está a cargo de la familia Lamastus (pionera del café Geisha), la pareja probó lo que, en palabras de José, es un &quot;café buenísimo&quot;. Después, José y Chevy rentaron unas bicicletas para recorrer la Calzada de Amador durante el atardecer. Acompáñalos hasta el Canal de Panamá y el Biomuseo, con un diseño colorido que es obra del arquitecto Frank Gehry.  
+
+El segundo día comienza con un paseo al amanecer en canoa a un lugar muy especial: la comunidad indígena emberá de Parará Purú. En lo más profundo de la selva tropical del Parque Nacional de Chagres, la gente local recibe a José y Chevy con los brazos abiertos, enseñándoles a cocinar, bailar, vivir y jugar al estilo emberá.  
+
+Tras la lección de sustentabilidad otorgada por esta comunidad, la pareja se adentra en la naturaleza con una excursión a la cascada Quebrada Bonita. Y al ver una cascada, como dice José, hay que zambullirse. 
+
+La siguiente parada es la ciudad amurallada de Portobelo, cuna de la cultura afroantillana del país, la danza del Congo de Colón y un punto de partida ideal para explorar las islas de la región. José y Chevy nos llevan a Isla Mamey por el Túnel del Amor, la ruta panameña en forma de corazón, hasta llegar a una playa de arena blanca para relajarse y disfrutar del Caribe. 
+
+Solo hay una forma de cerrar con broche de oro esta aventura: comer en el restaurante Adriana, que está junto al mar en La Guaira. La pareja disfruta de bebidas frescas, salsa picante y comida hecha con ingredientes locales. Allí, José se reencuentra con la chef Alina, a quien visitaba con frecuencia después de surfear todo el día. Vaya que este es el verdadero sabor de Panamá.
+
+00:00 - Intro
+00:33 - Mercado de Mariscos
+2:05 - Sisu Coffee Studio
+3:04 - Amador Causeway
+3:44 - Chagres River
+4:06 - Emberá Parara Parú
+5:12 - Quebrada Bonita
+6:02 - Love Tunnel
+6:12 - Isla Mamey
+6:55 - Restaurante Adriana
+7:59 - Outro</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=cUkSMo45kME&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/cUkSMo45kME/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/cUkSMo45kME/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/cUkSMo45kME/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/cUkSMo45kME/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/cUkSMo45kME/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/cUkSMo45kME/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/cUkSMo45kME/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Local Lens: guía de Panamá para amantes de la gastronomía, Centroamérica</media:title>
+			<yt:duration seconds='510'/>
+	        <yt:uploaded>2025-08-07T14:47:54</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>cUkSMo45kME</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='3428'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:rxrDEFEiqrQ</id>
+		<published>2025-08-07T14:47:54</published>
+		<updated>2025-08-07T14:47:54</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Local Lens: A food lover’s guide to Panama, Central America</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/rxrDEFEiqrQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=rxrDEFEiqrQ&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/rxrDEFEiqrQ/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=rxrDEFEiqrQ'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/rxrDEFEiqrQ?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/rxrDEFEiqrQ/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/rxrDEFEiqrQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=rxrDEFEiqrQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=rxrDEFEiqrQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=rxrDEFEiqrQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Join superstar chef José Olmedo Carles Rojas and his filmmaker wife Chevy Tyler as they eat their way through the country, from Panama City to the Caribbean coast.
+
+Read our interview here: https://www.expedia.com/magazine/local-lens-food-lovers-guide-panama
+
+Did you know that in Panama, you can hop from the Pacific to the Atlantic in just two hours? José and Chevy kick off their adventure in Panama City and its old town, Casco Antiguo: a melting pot of nationalities, folkloric dance, rooftop bars, tempting restaurants and always—always—music.
+
+Wake up early with José and Chevy as they hit the nearby Mercado de Mariscos, the capital’s vibrant and sociable fish market, where visitors can buy seafood, gobble a fresh ceviche, or sit back and watch the spectacle.
+
+After a tasting of—as José puts it—“badass coffee” at Sisu Coffee Studio, a space run by Geisha pioneers the Lamastus family, José and Chevy hire bikes on the Amador Causeway at sunset. Follow them past the iconic Panama Canal and Frank Gehry’s colorful Biomuseo, a museum dedicated to Panama’s biodiversity.
+
+Day two begins with a dawn ride in a dugout canoe to a very special place: the Indigenous village community of Emberá Parara Purú. Living deep in the rainforest of the Chagres National Park, the community welcomes José and Chevy with open arms, showing them how to cook, dance, live and play the Emberá way.
+
+With the village’s message of sustainability in mind, the couple immerse themselves in nature with a hike to the beautiful Quebrada Bonita waterfall. And as José points out, “When you meet a waterfall, there’s only one thing to do: jump in!”
+
+The next stop is the fort town of Portobelo, home to the country’s Afro-Antillean culture and the Congo dance of Colón, and a great base to explore the laid-back islands of the region. José and Chevy take us to Isla Mamey the local way via the heart-shaped Love Tunnel, then onto the white-sand beaches, where the pace slows down and the Caribbean vibe kicks in.
+
+There’s only one place this odyssey could end: Restaurante Adriana, right on the water at La Guaira beach. Cold drinks, hot sauce, ingredients as local as they come—and a reunion with chef Alina, who José used to visit regularly after a tiring day of surfing. This really is Panama on a plate.
+
+00:00 - Intro
+00:33 - Mercado de Mariscos
+2:05 - Sisu Coffee Studio
+3:04 - Amador Causeway
+3:44 - Chagres River
+4:06 - Emberá Parara Parú
+5:12 - Quebrada Bonita
+6:02 - Love Tunnel
+6:12 - Isla Mamey
+6:55 - Restaurante Adriana
+7:59 - Outro</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=rxrDEFEiqrQ&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rxrDEFEiqrQ/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rxrDEFEiqrQ/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rxrDEFEiqrQ/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rxrDEFEiqrQ/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rxrDEFEiqrQ/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rxrDEFEiqrQ/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rxrDEFEiqrQ/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Local Lens: A food lover’s guide to Panama, Central America</media:title>
+			<yt:duration seconds='510'/>
+	        <yt:uploaded>2025-08-07T14:47:54</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>rxrDEFEiqrQ</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='2458501'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:2Q2vTNdWj3E</id>
+		<published>2025-08-07T14:47:54</published>
+		<updated>2025-08-07T14:47:54</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Local Lens: A brothers’ guide to Scotland with Colin and Ewan McGregor</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/2Q2vTNdWj3E?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=2Q2vTNdWj3E&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/2Q2vTNdWj3E/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=2Q2vTNdWj3E'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/2Q2vTNdWj3E?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/2Q2vTNdWj3E/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/2Q2vTNdWj3E?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=2Q2vTNdWj3E' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=2Q2vTNdWj3E' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=2Q2vTNdWj3E' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Hollywood actor, UNICEF ambassador and director, Ewan McGregor and his former pilot brother, Colin reconnect in Scotland against the backdrop of the Cairngorms’ lush mountains, shimmering lochs, and the majestic trees of the Hermitage forest.
+
+First stop along the epic road trip is the Newtonmore Grill Truckstop. Locally known as “the best kept secret in the Highlands,” the no-fuss, no-frills café is a scenic spot to fill up on haggis lasagne, with a strong cup of tea. An excellent meal before an exciting, winding adventure.
+
+For a gentle hike, the brothers explore The Hermitage, a forest woodland in Perthshire, with staggeringly tall trees, a medieval history, and Ossian’s Hall folly overlooking the Black Linn waterfall.
+
+As all explorers know, you should always pack a snack. In preparation for a bigger hike in the Cairngorms mountain range, Colin and Ewan stop off at the Aran Bakery in Dunkeld, a bright and airy foodie magnet on the charming Atholl Street, opposite The Scottish Deli, a great place to eat before hiking in the Highlands. They fill their bags with a perfect adventurer’s lunch: a sausage roll and two sandwiches, one venison, one smoked trout.
+
+Now that the packed lunch is sorted, the second hike can begin. As Ewan says, “Scotland has the most beautiful scenery. There’s something about the air, color, and remoteness of it all.” Nowhere can this be more felt than the Cairngorms. Snowy in winter, purple with heather in summer, the dramatic peaks of the U.K.’s largest National Park draw outdoorsy types and are often named in “best places to visit” lists.
+
+The brothers then make a detour to Taymouth Marina, the lochside “wild wellness” retreat, with family friendly water sports, Loch Ness Monster pedalo boats for kids, a giant trampoline, and the resort’s biggest draw: its HotBox Spa. The brothers brave the “wellness plunge” (a slide into the freezing loch), warming up afterwards in Scotland’s largest hot tub.
+
+As the evening draws in, it’s time to rest and toast marshmallows at The Dell of Abernathy. Set deep in the forest, this collection of six stone cottages has been decked out with impeccable taste— an ideal place to stay in the Highlands for large or small groups. Experiences include supper clubs and meditation rituals, swimming in the black peat-soaked loch, and gathering by the firepit.
+
+To round off the day, the brothers head to a local favorite—a live music night at the The Ewe Bar within the Fortingall Hotel, a listed building with 11 rooms, traditional Scottish interiors and a 2,000-year-old yew tree, which, according to local legend, is the oldest tree in the U.K. But will they see the northern lights?
+
+Read our interview: https://www.expedia.com/magazine/local-lens-ewan-mcgregor-guide-scotland/
+Local Lens playlist: https://www.youtube.com/playlist?list=PLdgCSoJzrmKGU2FdnSzh6dpEJPijcxkl9 
+
+Shop the episode
+
+The Cairngorms National Park tours: https://www.expedia.com/Cairngorms-National-Park-Scotland.d6088691.Vacation-Attraction 
+Taymouth Marina: https://www.expedia.com/Aberfeldy-Hotels-Taymouth-Marina-Ben-More.h22803408.Hotel-Information
+The Dell of Abernethy: https://www.expedia.com/Nethy-Bridge-Hotels-The-Dell-Of-Abernethy.h102072459.Hotel-Information
+Fortingall Hotel: https://www.expedia.co.uk/Aberfeldy-Hotels-Fortingall-Hotel.h888708.Hotel-Information</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=2Q2vTNdWj3E&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Q2vTNdWj3E/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Q2vTNdWj3E/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Q2vTNdWj3E/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Q2vTNdWj3E/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Q2vTNdWj3E/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Q2vTNdWj3E/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Q2vTNdWj3E/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Local Lens: A brothers’ guide to Scotland with Colin and Ewan McGregor</media:title>
+			<yt:duration seconds='635'/>
+	        <yt:uploaded>2025-08-07T14:47:54</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>2Q2vTNdWj3E</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='10419602'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:FEPbOuDg5Bw</id>
+		<published>2025-08-07T14:47:54</published>
+		<updated>2025-08-07T14:47:54</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Local Lens: David Chang’s guide to Koreatown, Los Angeles</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/FEPbOuDg5Bw?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=FEPbOuDg5Bw&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/FEPbOuDg5Bw/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=FEPbOuDg5Bw'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/FEPbOuDg5Bw?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/FEPbOuDg5Bw/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/FEPbOuDg5Bw?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=FEPbOuDg5Bw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=FEPbOuDg5Bw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=FEPbOuDg5Bw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Chef David Chang shows us his Koreatown: Restaurants for the best dumplings, soup, short ribs and dessert 
+
+Read our interview: https://expedia.com/magazine/local-lens-david-chang-guide-koreatown/
+
+According to David Chang, there are five reasons people visit Koreatown: the spas, karaoke, parties, music concerts, and of course—the delicious Korean food. 
+
+From his own Momofuku chain to Netflix’s Ugly Delicious, Chang has built a restaurant and TV empire on being an equal opportunities food obsessive. If tastes good, it is good.  
+
+Naturally, we begin our Koreatown tour by sampling the food. We start at Ham Hung, a restaurant known specifically for Pyongyang naengmyeon, a chewy buckwheat noodle soup. We then head next door to Myung In Dumplings for the freshly steamed, baseball-sized buns; and finish up at MuMu Bakery for an enormous cream cheese-topped iced coffee and taiyaki—a custard-filled pastry dessert.   
+
+To work up an appetite for dinner, Chang plays golf at the four-floor, netting-encased driving range, Aroma Golf.  
+
+Then, time for spicy galbi-jjim, braised short ribs, at Sun Nong Dan with local friends, musician Rekstizzy and artist Dumbfoundead.  
+
+We round off the day with a drink at the kitsch bar H.M.S. Bounty, which embodies some of K-Town’s old-school Hollywood glamour.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=FEPbOuDg5Bw&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FEPbOuDg5Bw/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FEPbOuDg5Bw/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FEPbOuDg5Bw/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FEPbOuDg5Bw/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FEPbOuDg5Bw/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FEPbOuDg5Bw/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FEPbOuDg5Bw/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Local Lens: David Chang’s guide to Koreatown, Los Angeles</media:title>
+			<yt:duration seconds='329'/>
+	        <yt:uploaded>2025-08-07T14:47:54</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>FEPbOuDg5Bw</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='149229'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:KGSR5vsynJY</id>
+		<published>2025-08-07T14:47:54</published>
+		<updated>2025-08-07T14:47:54</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Local Lens: A brothers’ guide to Scotland with Colin and Ewan McGregor</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/KGSR5vsynJY?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=KGSR5vsynJY&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/KGSR5vsynJY/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=KGSR5vsynJY'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ/uploads/KGSR5vsynJY?v=2'/>
+		<author>
+			<name>Expedia</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCGaOvAFinZ7BCN_FDmw74fQ</uri>
+			<yt:userId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/KGSR5vsynJY/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/KGSR5vsynJY?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=KGSR5vsynJY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=KGSR5vsynJY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=KGSR5vsynJY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Expedia' yt:type='partner'>UCGaOvAFinZ7BCN_FDmw74fQ</media:credit>
+			<media:description type='plain'>Ewan reconnects with his brother, Colin, on their home soil—the Scottish Highlands
+#ScottishHighlands #EwanMcGregor #LocalLens</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=KGSR5vsynJY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KGSR5vsynJY/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KGSR5vsynJY/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KGSR5vsynJY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KGSR5vsynJY/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KGSR5vsynJY/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KGSR5vsynJY/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KGSR5vsynJY/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Local Lens: A brothers’ guide to Scotland with Colin and Ewan McGregor</media:title>
+			<yt:duration seconds='60'/>
+	        <yt:uploaded>2025-08-07T14:47:54</yt:uploaded>
+			<yt:uploaderId>EEUCGaOvAFinZ7BCN_FDmw74fQ</yt:uploaderId>
+			<yt:videoid>KGSR5vsynJY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='4728'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>

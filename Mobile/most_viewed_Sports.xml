@@ -1,0 +1,1393 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:OQ-nqoNE4Fo</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Truth Behind Jimmy Floyd Hasselbaink’s Leeds Exit and Chelsea Transfer 🔍 | Transfer 360</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/OQ-nqoNE4Fo?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=OQ-nqoNE4Fo&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/OQ-nqoNE4Fo/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=OQ-nqoNE4Fo'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/OQ-nqoNE4Fo?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/OQ-nqoNE4Fo/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/OQ-nqoNE4Fo?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=OQ-nqoNE4Fo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=OQ-nqoNE4Fo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=OQ-nqoNE4Fo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+In the latest episode of Transfer 360, Sky Sports trace every move in the striker’s journey, from his early days in the Netherlands to his big-money switch to Chelsea, and the transfers that defined his rise to football stardom. Discover how he went from obscurity to Premier League star, the record-breaking fees that shocked the game, and why clubs were willing to pay big for his goal-scoring talent.
+
+#chelsea  #football  #transfer360 #transfernews 
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=OQ-nqoNE4Fo&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OQ-nqoNE4Fo/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OQ-nqoNE4Fo/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OQ-nqoNE4Fo/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OQ-nqoNE4Fo/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OQ-nqoNE4Fo/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OQ-nqoNE4Fo/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OQ-nqoNE4Fo/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Truth Behind Jimmy Floyd Hasselbaink’s Leeds Exit and Chelsea Transfer 🔍 | Transfer 360</media:title>
+			<yt:duration seconds='1528'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>OQ-nqoNE4Fo</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='22028'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Jq2kNCQ6iuQ</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>3 SMART Signings To GUARANTEE Liverpool The Title! | 🏆 Sky Mobile Transfer Show</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Jq2kNCQ6iuQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Jq2kNCQ6iuQ&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/Jq2kNCQ6iuQ/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Jq2kNCQ6iuQ'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/Jq2kNCQ6iuQ?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/Jq2kNCQ6iuQ/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/Jq2kNCQ6iuQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Jq2kNCQ6iuQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=Jq2kNCQ6iuQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=Jq2kNCQ6iuQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Hello and welcome back to the Sky Mobile Transfer show where today Dougie Critchley is joined by Laurence McKenna and Nubaid Haroon to make sense of what has been a remarkable transfer window to date for Liverpool.
+
+How will new signings like Florian Wirtz, Hugo Ekitike, Jeremie Frimpong and Milos Kerkez work iN Arne Slot&apos;s system? Do our pundits believe Liverpool will be able to sign Newcastle&apos;s Alexander Isak? Which other signings should Liverpool target? Could Marc Guehi or Brighton&apos;s Jan Paul Van Hecke be the answer to their defensive issues? Could Wolves&apos; Andre offer a positive alternative to Ryan Gravenberch in midfield?
+
+We wrap up the show as usual with our Sky Mobile Switch Of The Week with shouts for Jorrel Hato, Son Heung-Min and Granit Xhaka.
+
+Enjoy the video? Remember to like it, leave a comment and subscribe for more great Premier League content!
+
+00:00 - Has Florian Wirtz signing gone under the radar?
+05:27 - What impact will Florian Wirtz have on Liverpool’s system?
+05:44 - Will Hugo Ekitike be concerned by Liverpool’s Isak pursuit? 05:44
+06:40 - How will Liverpool lineup next season?
+11:14 - Is Milos Kerkez a guaranteed success for Liverpool?
+13:41 - Could Roberton or Tsmikas leave Liverpool?
+14:42 - The impact of Jeremie Frimpong…
+17:14 - Will Liverpool sign Alexander Isak?
+25:12 - Could Liverpool sign a centre-back this summer?
+30:05 - Will Liverpool look to sign a midfielder?
+35:02 - Switch of the Week!
+
+#premierleague  #liverpool  #transfernews  
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Jq2kNCQ6iuQ&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Jq2kNCQ6iuQ/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Jq2kNCQ6iuQ/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Jq2kNCQ6iuQ/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Jq2kNCQ6iuQ/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Jq2kNCQ6iuQ/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Jq2kNCQ6iuQ/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Jq2kNCQ6iuQ/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>3 SMART Signings To GUARANTEE Liverpool The Title! | 🏆 Sky Mobile Transfer Show</media:title>
+			<yt:duration seconds='2311'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>Jq2kNCQ6iuQ</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='115322'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:xcL0qqfZKQE</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>&quot;It&apos;s time to repay the fans&apos; trust&quot; | Bruno Fernandes on the cultural shift taking place at Man Utd</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/xcL0qqfZKQE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=xcL0qqfZKQE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/xcL0qqfZKQE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=xcL0qqfZKQE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/xcL0qqfZKQE?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/xcL0qqfZKQE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/xcL0qqfZKQE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=xcL0qqfZKQE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=xcL0qqfZKQE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=xcL0qqfZKQE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Bruno Fernandes speaks after Manchester United won the 2025 Summer Series following a draw with Everton, touching on the work the club is doing in the transfer window as well as the cultural shift taking place at Old Trafford.
+
+#manchesterunited #plsummerseries #brunofernandes 
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=xcL0qqfZKQE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xcL0qqfZKQE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xcL0qqfZKQE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xcL0qqfZKQE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xcL0qqfZKQE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xcL0qqfZKQE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xcL0qqfZKQE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xcL0qqfZKQE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>&quot;It&apos;s time to repay the fans&apos; trust&quot; | Bruno Fernandes on the cultural shift taking place at Man Utd</media:title>
+			<yt:duration seconds='202'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>xcL0qqfZKQE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='94259'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:umAQCWDR0C4</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>&quot;Man Utd are going to be hard to beat!&quot; | André Onana looks ahead to next season</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/umAQCWDR0C4?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=umAQCWDR0C4&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/umAQCWDR0C4/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=umAQCWDR0C4'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/umAQCWDR0C4?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/umAQCWDR0C4/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/umAQCWDR0C4?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=umAQCWDR0C4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=umAQCWDR0C4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=umAQCWDR0C4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Manchester United goalkeeper André Onana looks ahead to the 2025/26 season from the Premier League Summer Series, after a disappointed season in 24/25.
+
+#manchesterunited #plsummerseries #andréonana 
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=umAQCWDR0C4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/umAQCWDR0C4/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/umAQCWDR0C4/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/umAQCWDR0C4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/umAQCWDR0C4/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/umAQCWDR0C4/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/umAQCWDR0C4/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/umAQCWDR0C4/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>&quot;Man Utd are going to be hard to beat!&quot; | André Onana looks ahead to next season</media:title>
+			<yt:duration seconds='125'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>umAQCWDR0C4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='117246'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:lwUzzlkl_WQ</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>&quot;The team is playing better!&quot; | Ruben Amorim discusses Man United&apos;s progress before the season</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/lwUzzlkl_WQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=lwUzzlkl_WQ&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/lwUzzlkl_WQ/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=lwUzzlkl_WQ'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/lwUzzlkl_WQ?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/lwUzzlkl_WQ/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/lwUzzlkl_WQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=lwUzzlkl_WQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=lwUzzlkl_WQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=lwUzzlkl_WQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Ruben Amorim discusses Manchester United&apos;s progress made in pre-season ahead of his first full season in charge at Old Trafford.
+
+#manchesterunited #plsummerseries #rubenamorim 
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=lwUzzlkl_WQ&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lwUzzlkl_WQ/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lwUzzlkl_WQ/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lwUzzlkl_WQ/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lwUzzlkl_WQ/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lwUzzlkl_WQ/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lwUzzlkl_WQ/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lwUzzlkl_WQ/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>&quot;The team is playing better!&quot; | Ruben Amorim discusses Man United&apos;s progress before the season</media:title>
+			<yt:duration seconds='176'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>lwUzzlkl_WQ</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='182924'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:l6vrrNUmBbU</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>&quot;This is a NEW DAWN for Man United!&quot; | Tim Howard &amp; Graeme Le Saux discuss Ruben Amorim&apos;s Red Devils</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/l6vrrNUmBbU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=l6vrrNUmBbU&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/l6vrrNUmBbU/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=l6vrrNUmBbU'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/l6vrrNUmBbU?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/l6vrrNUmBbU/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/l6vrrNUmBbU?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=l6vrrNUmBbU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=l6vrrNUmBbU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=l6vrrNUmBbU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Tim Howard and Graeme Le Saux discuss Ruben Amorim&apos;s hopes for the 2025/26 campaign with Manchester United, from the PL Summer Series in Atlanta.
+
+#manchesterunited #plsummerseries #rubenamorim 
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=l6vrrNUmBbU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l6vrrNUmBbU/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l6vrrNUmBbU/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l6vrrNUmBbU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l6vrrNUmBbU/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l6vrrNUmBbU/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l6vrrNUmBbU/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l6vrrNUmBbU/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>&quot;This is a NEW DAWN for Man United!&quot; | Tim Howard &amp; Graeme Le Saux discuss Ruben Amorim&apos;s Red Devils</media:title>
+			<yt:duration seconds='181'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>l6vrrNUmBbU</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='111950'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:5i1rr8_EzMY</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>&quot;We&apos;re still looking for players&quot; 👀 | Eddie Howe provides update on Alexander Isak&apos;s future 🚨</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/5i1rr8_EzMY?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=5i1rr8_EzMY&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/5i1rr8_EzMY/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=5i1rr8_EzMY'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/5i1rr8_EzMY?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/5i1rr8_EzMY/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/5i1rr8_EzMY?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=5i1rr8_EzMY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=5i1rr8_EzMY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=5i1rr8_EzMY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Newcastle United head coach Eddie Howe responds to questions around Alexander Isak&apos;s future at St James&apos; Park.
+
+#alexanderisak #eddiehowe #newcastleunited 
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=5i1rr8_EzMY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/5i1rr8_EzMY/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/5i1rr8_EzMY/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/5i1rr8_EzMY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/5i1rr8_EzMY/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/5i1rr8_EzMY/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/5i1rr8_EzMY/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/5i1rr8_EzMY/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>&quot;We&apos;re still looking for players&quot; 👀 | Eddie Howe provides update on Alexander Isak&apos;s future 🚨</media:title>
+			<yt:duration seconds='123'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>5i1rr8_EzMY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='39130'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:UzsKuUKpcLA</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>BREAKING: Newcastle reject £100m+ bid for Alexander Isak 🚨</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/UzsKuUKpcLA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=UzsKuUKpcLA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/UzsKuUKpcLA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=UzsKuUKpcLA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/UzsKuUKpcLA?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/UzsKuUKpcLA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/UzsKuUKpcLA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=UzsKuUKpcLA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=UzsKuUKpcLA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=UzsKuUKpcLA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Newcastle United have rejected an official bid from Liverpool for Alexander Isak. The offer is believed to be over £100m, but hasn&apos;t reached Newcastle&apos;s valuation of the player. Newcastle do not want to sell and value Isak at £150m.
+
+#newcastle  #liverpool  #alexanderisak 
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=UzsKuUKpcLA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UzsKuUKpcLA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UzsKuUKpcLA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UzsKuUKpcLA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UzsKuUKpcLA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UzsKuUKpcLA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UzsKuUKpcLA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UzsKuUKpcLA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>BREAKING: Newcastle reject £100m+ bid for Alexander Isak 🚨</media:title>
+			<yt:duration seconds='512'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>UzsKuUKpcLA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='139322'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:OMmbyl6gjZM</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>One Signing To Win Your Club The Title! 🏆 | The Lowdown</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/OMmbyl6gjZM?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=OMmbyl6gjZM&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/OMmbyl6gjZM/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=OMmbyl6gjZM'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/OMmbyl6gjZM?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/OMmbyl6gjZM/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/OMmbyl6gjZM?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=OMmbyl6gjZM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=OMmbyl6gjZM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=OMmbyl6gjZM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Hello and welcome back to the Lowdown where today Dougie Critchley and Michael McCubbin are joined by Joe Thomlinson to analyse ONE signing to win your side the Premier League title!
+
+Should Liverpool prioritise the signing of Alexander Isak, or would strengthening at centre back with Marc Guehi or central midfield with Lucien Agoumé serve them better in the long term?
+
+What about Arsenal? Is Eberechi Eze the right way forward or should they instead attempt a SHOCK move for AC Milan&apos;s Rafael Leao? Chelsea need a goalkeeper but is Gianluigi Donnarumma, one of the stars of PSG&apos;s successful Champions League pursuit the best option or should they instead look to bring in FC Porto&apos;s Diogo Costa?
+
+And finally Man City. They need a right back, but is Spurs&apos; Pedro Porro feasible or should they instead go left field and bring in Bayern Munich&apos;s Konrad Laimer?
+
+Enjoyed the video? Remember to like it, leave a comment and subscribe to the channel for more great content!
+
+TIMECODES
+
+00:00 Alexander Isak To Liverpool
+07:02 Lucien Agoume To Liverpool
+14:10 Rafael Leao To Arsenal
+17:44 Eberechi Eze To Arsenal
+20:38 Is Leao Too Expensive?
+24:43 Diogo Costa To Chelsea
+29:23 Gianluigi Donnarumma To Chelsea
+35:21 Konrad Laimer To Man City
+39:50 Pedro Porro To Man City
+44:27 Who Will WIN The Premier League?
+
+#football  #premierleague  #footballpodcast  
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=OMmbyl6gjZM&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OMmbyl6gjZM/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OMmbyl6gjZM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OMmbyl6gjZM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OMmbyl6gjZM/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OMmbyl6gjZM/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OMmbyl6gjZM/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/OMmbyl6gjZM/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>One Signing To Win Your Club The Title! 🏆 | The Lowdown</media:title>
+			<yt:duration seconds='2990'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>OMmbyl6gjZM</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='80687'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:eF9-0znm5sk</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Gary Neville gives his honest opinion on Man Utd signings Mbeumo and Cunha</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/eF9-0znm5sk?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=eF9-0znm5sk&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/eF9-0znm5sk/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=eF9-0znm5sk'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/eF9-0znm5sk?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/eF9-0znm5sk/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/eF9-0znm5sk?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=eF9-0znm5sk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=eF9-0znm5sk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=eF9-0znm5sk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Gary Neville gives his opinion opinion on new Manchester United signings Bryan Mbeumo and Matheus Cunha.
+
+#manchesterunited  #premierleague  #cunha #mbeumo 
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=eF9-0znm5sk&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eF9-0znm5sk/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eF9-0znm5sk/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eF9-0znm5sk/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eF9-0znm5sk/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eF9-0znm5sk/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eF9-0znm5sk/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eF9-0znm5sk/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Gary Neville gives his honest opinion on Man Utd signings Mbeumo and Cunha</media:title>
+			<yt:duration seconds='106'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>eF9-0znm5sk</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='370550'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Q9VtGraeiGg</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>&quot;No stragglers in Man Utd squad anymore&quot; Luke Shaw says Man Utd are aiming to WIN the Premier League</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Q9VtGraeiGg?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Q9VtGraeiGg&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/Q9VtGraeiGg/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Q9VtGraeiGg'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/Q9VtGraeiGg?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/Q9VtGraeiGg/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/Q9VtGraeiGg?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Q9VtGraeiGg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=Q9VtGraeiGg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=Q9VtGraeiGg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Luke Shaw discusses Manchester United&apos;s aims this season, Ruben Amorim, his latest injury and playing in the Summer Series.
+
+#premierleague #manchesterunited #manutd 
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Q9VtGraeiGg&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q9VtGraeiGg/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q9VtGraeiGg/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q9VtGraeiGg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q9VtGraeiGg/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q9VtGraeiGg/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q9VtGraeiGg/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q9VtGraeiGg/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>&quot;No stragglers in Man Utd squad anymore&quot; Luke Shaw says Man Utd are aiming to WIN the Premier League</media:title>
+			<yt:duration seconds='124'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>Q9VtGraeiGg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='59696'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:UhGQhTRIx_o</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Can Arsenal’s Signings WIN Them The Premier League?! 🏆 | Sky Mobile Transfer Show</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/UhGQhTRIx_o?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=UhGQhTRIx_o&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/UhGQhTRIx_o/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=UhGQhTRIx_o'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/UhGQhTRIx_o?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/UhGQhTRIx_o/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/UhGQhTRIx_o?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=UhGQhTRIx_o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=UhGQhTRIx_o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=UhGQhTRIx_o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Welcome back to the Sky Mobile Transfer Show where this week Dougie Critchley is joined by James Allcott and Clive Palmer to discuss all things Arsenal, specifically whether their 6 summer signings to date make them Premier League favourites.
+
+Hear our thoughts on whether Mikel Arteta made the right decision choosing Viktor Gyokeres over Benjamin Sesko? Is Martin Zubimendi the bargain of the summer? Will Noni Madueke defy the doubters after swapping Chelsea for the Emirates? Is Christian Norgaard in fact an upgrade in midfield? And does Cristhian Mosquera have the attributes to succeed at Arsenal?
+
+We also put those signings up against Liverpool&apos;s. Do the additions of Florian Wirtz, Jeremie Frimpong, Milos Kerkez and Hugo Ekitike just make Arne Slot&apos;s Champions simply too strong? Is there any downside to signing Newcastle&apos;s Alexander Isak?
+
+As for the other contenders, is Enzo Maresca&apos;s Chelsea team ready for an assault on the title after bringing in the likes of Joao Pedro, Liam Delap, Jamie Gittens, with Xavi Simons and Jorrel Hato potentially to come? Could Rayan Cherki step up and replace the outgoing Kevin De Bruyne&apos;s output at Man City? 
+
+Enjoy the episode? Remember to like it, leave a comment and subscribe to the channel for more great content!
+
+TIMECODES
+
+00:00 - Viktor Gyökeres
+05:58 - Martín Zubimendi
+07:43 - Christian Nørgaard
+09:43 - Noni Madueke
+11:39 - Gabriel Martinelli
+12:28 - Eberechi Eze
+15:34 - Cristhian Mosquera and Squad depth
+17:19 - Will Liverpool be as good as they look?
+24:15 - Can Liverpool keep everyone happy?
+27:11 - Will Manchester City contend?
+30:05 - Are Chelsea in the mix?
+31:57 - Who will win the league?
+33:52 - Switch of the Week
+
+#football  #premierleague  #arsenal 
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=UhGQhTRIx_o&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UhGQhTRIx_o/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UhGQhTRIx_o/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UhGQhTRIx_o/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UhGQhTRIx_o/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UhGQhTRIx_o/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UhGQhTRIx_o/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UhGQhTRIx_o/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Can Arsenal’s Signings WIN Them The Premier League?! 🏆 | Sky Mobile Transfer Show</media:title>
+			<yt:duration seconds='2330'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>UhGQhTRIx_o</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='216549'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:PbFrffzfCus</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>“Newcastle can win the Premier League” | Bruno Guimaraes confident Newcastle can fight for title</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/PbFrffzfCus?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=PbFrffzfCus&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/PbFrffzfCus/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=PbFrffzfCus'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/PbFrffzfCus?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/PbFrffzfCus/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/PbFrffzfCus?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=PbFrffzfCus' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=PbFrffzfCus' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=PbFrffzfCus' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Bruno Guimarães shares his thoughts on Newcastle United’s future and says he’s confident the team can compete for the Premier League title next season.
+
+00:00 – Bruno on the remaining games of the season
+01:00 – Breaking down Bruno’s goal vs Chelsea
+01:40 – Bruno on Newcastle’s hopes for Champions League qualification
+01:50 – Bruno on Newcastle’s belief against top teams
+02:50 – Bruno’s iconic corner flag goal celebration
+03:15 – Bruno on beating Arsenal three times
+04:30 – What it would mean to Bruno to lead Newcastle into the Champions League
+07:22 – Can Newcastle win the Premier League? 
+08:50 – Bruno on potential summer signings for Newcastle
+09:45 – Bruno on Sandro Tonali’s season at Newcastle
+10:35 – Bruno on wanting Jacob Murphy in the England squad
+11:15 – What Bruno does in his free time outside football
+11:50 – Bruno on Carlo Ancelotti becoming Brazil manager
+12:30 – Bruno on the possibility of facing Sunderland in the Premier League
+
+#newcastle  #premierleague #brunoguimaraes  
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=PbFrffzfCus&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PbFrffzfCus/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PbFrffzfCus/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PbFrffzfCus/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PbFrffzfCus/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PbFrffzfCus/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PbFrffzfCus/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PbFrffzfCus/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>“Newcastle can win the Premier League” | Bruno Guimaraes confident Newcastle can fight for title</media:title>
+			<yt:duration seconds='797'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>PbFrffzfCus</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='59958'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:1ZAikWtH0FY</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Jurrien Timber talks Myles Lewis-Skelly &amp; Arsenal’s UCL victory | &apos;He’s a Special Player!&apos; 🤩</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/1ZAikWtH0FY?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=1ZAikWtH0FY&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/1ZAikWtH0FY/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=1ZAikWtH0FY'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/1ZAikWtH0FY?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/1ZAikWtH0FY/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/1ZAikWtH0FY?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=1ZAikWtH0FY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=1ZAikWtH0FY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=1ZAikWtH0FY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+Jurrien Timber reflects on Arsenal&apos;s Champions League quarter-final victory over Real Madrid, highlighting the challenge of facing Vinicius Junior. He also praises Myles Lewis-Skelly’s standout performances this season, commending the young talent’s impact on the team.
+
+#arsenal #premierleague #football #myleslewisskelly #jurrientimber #pl #realmadrid 
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=1ZAikWtH0FY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1ZAikWtH0FY/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1ZAikWtH0FY/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1ZAikWtH0FY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1ZAikWtH0FY/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1ZAikWtH0FY/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1ZAikWtH0FY/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1ZAikWtH0FY/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Jurrien Timber talks Myles Lewis-Skelly &amp; Arsenal’s UCL victory | &apos;He’s a Special Player!&apos; 🤩</media:title>
+			<yt:duration seconds='610'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>1ZAikWtH0FY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='195162'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:DEOfdzMPtCs</id>
+		<published>2025-08-07T14:13:26</published>
+		<updated>2025-08-07T14:13:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>GUESS THE FOOTBALLER | Arsenal, Spurs, Newcastle &amp; more! | Best Goals &amp; Funniest Moments</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/DEOfdzMPtCs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=DEOfdzMPtCs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/DEOfdzMPtCs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=DEOfdzMPtCs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg/uploads/DEOfdzMPtCs?v=2'/>
+		<author>
+			<name>Sky Sports Premier League</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCNAf1k0yIjyGu3k9BwAg3lg</uri>
+			<yt:userId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/DEOfdzMPtCs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/DEOfdzMPtCs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=DEOfdzMPtCs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=DEOfdzMPtCs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=DEOfdzMPtCs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky Sports Premier League' yt:type='partner'>UCNAf1k0yIjyGu3k9BwAg3lg</media:credit>
+			<media:description type='plain'>► Subscribe to Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL
+► Watch Sky Sports: https://bit.ly/BuySkySports
+
+The greatest goals and funniest moments from PICK THE PRO in the 2024/25 season.
+Featuring Arsenal&apos;s William Saliba &amp; David Raya, Tottenham&apos;s Archie Gray &amp; Ben Davies, Man City&apos;s Rico Lewis &amp; James McAtee, Newcastle&apos;s Anthony Gordon &amp; Dan Burn, Bournemouth manager Andoni Iraola &amp; goalkeeper Kepa Arrizabalaga, Leicester&apos;s Conor Coady &amp; Patson Daka and Southampton&apos;s Aaron Ramsdale &amp; Adam Lallana.
+
+
+► Premier League highlights: https://bit.ly/PLHighlights2425
+► MNF, FNF, SNF &amp; Super Sunday analysis: https://bit.ly/SkyMatchAnalysis
+► Gary Neville Podcast: https://bit.ly/GaryNevillePodcast
+► Saturday Social: https://bit.ly/SkySaturdaySocial
+
+► Buy this season’s shirts: https://bit.ly/SkySportsShop
+   
+More from Sky Sports on YouTube:
+
+► Sky Sports: http://bit.ly/SkySportsSub
+► Sky Sports Boxing: http://bit.ly/SSBoxingSub
+► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket
+► Sky Sports Darts: https://bit.ly/SubSkySportsDarts
+► Sky Sports Football: http://bit.ly/SSFootballSub
+► Sky Sports F1: http://bit.ly/SubscribeSkyF1
+► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf
+► Sky Sports News: http://bit.ly/SkySportsNewsSub
+► Sky Sports Retro: http://bit.ly/SkySportsRetroSub
+
+► Facebook: https://www.facebook.com/SkySportsFootball
+► Instagram: https://www.instagram.com/skysportsfootball
+► TikTok: https://www.tiktok.com/@skysportsfootball
+► X: https://x.com/SkySportsPL
+► Website: https://www.skysports.com
+
+► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=DEOfdzMPtCs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DEOfdzMPtCs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DEOfdzMPtCs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DEOfdzMPtCs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DEOfdzMPtCs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DEOfdzMPtCs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DEOfdzMPtCs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DEOfdzMPtCs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>GUESS THE FOOTBALLER | Arsenal, Spurs, Newcastle &amp; more! | Best Goals &amp; Funniest Moments</media:title>
+			<yt:duration seconds='495'/>
+	        <yt:uploaded>2025-08-07T14:13:26</yt:uploaded>
+			<yt:uploaderId>EEUCNAf1k0yIjyGu3k9BwAg3lg</yt:uploaderId>
+			<yt:videoid>DEOfdzMPtCs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='65939'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>

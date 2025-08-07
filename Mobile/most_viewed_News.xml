@@ -1,0 +1,1127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:dhifkD9jtr8</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Wildfire burns in southern France forcing tourists and residents to flee</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/dhifkD9jtr8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=dhifkD9jtr8&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/dhifkD9jtr8/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=dhifkD9jtr8'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/dhifkD9jtr8?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/dhifkD9jtr8/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/dhifkD9jtr8?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=dhifkD9jtr8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=dhifkD9jtr8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=dhifkD9jtr8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>One person has died as France&apos;s biggest wildfire this summer sweeps through a southern region, forcing tourists and residents to flee.
+
+Officials called the scenes &quot;hellish&quot; after the blaze broke out in Ribaute in the region of Aude, close to the border with Spain.
+
+The victim died in their home in the village of Saint-Laurent-de-la-Cabrerisse, about 20 miles north of the city of Perpignan, officials said.
+
+Thirteen people have been injured, including 11 firefighters, since the wildfire started on Tuesday, authorities added.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews 
+Like us on Facebook: https://www.facebook.com/skynews 
+Follow us on Instagram: https://www.instagram.com/skynews 
+Follow us on TikTok: https://www.tiktok.com/@skynews 
+
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB 
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ 
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=dhifkD9jtr8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dhifkD9jtr8/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dhifkD9jtr8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dhifkD9jtr8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dhifkD9jtr8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dhifkD9jtr8/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dhifkD9jtr8/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/dhifkD9jtr8/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Wildfire burns in southern France forcing tourists and residents to flee</media:title>
+			<yt:duration seconds='0'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>dhifkD9jtr8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1208'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:YDvsBbKfLPA</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Watch Sky News</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/YDvsBbKfLPA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=YDvsBbKfLPA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/YDvsBbKfLPA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=YDvsBbKfLPA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/YDvsBbKfLPA?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/YDvsBbKfLPA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/YDvsBbKfLPA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=YDvsBbKfLPA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=YDvsBbKfLPA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=YDvsBbKfLPA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️
+
+🔴 Ukraine war latest: Trump could meet with Putin as early as next week, White House official says - https://trib.al/2PqJt7w
+
+🔴 Woman told she may have to lose leg to stay alive after liquid Brazilian butt lift
+
+🔴 Fact-checking Farage: Are foreigners more likely than Britons to commit sexual offences? - https://trib.al/VS4yeyD
+ 
+#SkyNews #Gaza #Trump #UKNews #StormFloris #Weather #Kremlin #Netanyahu 
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews 
+Like us on Facebook: https://www.facebook.com/skynews 
+Follow us on Instagram: https://www.instagram.com/skynews 
+Follow us on TikTok: https://www.tiktok.com/@skynews 
+
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB 
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ 
+
+Sky News videos are now available in Spanish here/Los video de Sky News están disponibles en español aquí: https://www.youtube.com/channel/UCzG5BnqHO8oNlrPDW9CYJog 
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=YDvsBbKfLPA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YDvsBbKfLPA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YDvsBbKfLPA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YDvsBbKfLPA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YDvsBbKfLPA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YDvsBbKfLPA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/YDvsBbKfLPA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Watch Sky News</media:title>
+			<yt:duration seconds='0'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>YDvsBbKfLPA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='63321852'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:TeSkGoez0OE</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Tories claim credit for changes to crackdown on illegal working</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/TeSkGoez0OE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=TeSkGoez0OE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/TeSkGoez0OE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=TeSkGoez0OE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/TeSkGoez0OE?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/TeSkGoez0OE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/TeSkGoez0OE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=TeSkGoez0OE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=TeSkGoez0OE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=TeSkGoez0OE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>Shadow home secretary Chris Philp has claimed credit for measures announced by food courier companies to crackdown on illegal working.
+
+Last month, the government signed a deal with the bosses of Deliveroo, Uber Eats and Just Eat to share the locations of hotels housing asylum seekers, in a bid to tackle illegal working. 
+
+The three companies have also now pledged to increase the use of facial recognition verification technology, as well. 
+
+Read more: https://news.sky.com/story/politics-latest-starmer-labour-badenoch-reshuffle-farage-12593360
+
+#migrant #immigration #politics
+ 
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews
+Like us on Facebook: https://www.facebook.com/skynews
+Follow us on Instagram: https://www.instagram.com/skynews
+Follow us on TikTok: https://www.tiktok.com/@skynews
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android
+https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=TeSkGoez0OE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/TeSkGoez0OE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/TeSkGoez0OE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/TeSkGoez0OE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/TeSkGoez0OE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/TeSkGoez0OE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/TeSkGoez0OE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/TeSkGoez0OE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Tories claim credit for changes to crackdown on illegal working</media:title>
+			<yt:duration seconds='507'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>TeSkGoez0OE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='363'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:ixHNAxAKgMg</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Trump could meet Putin as early as next week to discuss Ukraine ceasefire - White House official</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/ixHNAxAKgMg?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=ixHNAxAKgMg&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/ixHNAxAKgMg/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=ixHNAxAKgMg'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/ixHNAxAKgMg?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/ixHNAxAKgMg/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/ixHNAxAKgMg?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=ixHNAxAKgMg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=ixHNAxAKgMg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=ixHNAxAKgMg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>Donald Trump could meet Vladimir Putin in person as early as next week to discuss a ceasefire in Ukraine, a White House official has said.
+
+They said the meeting would be conditional on the Russian president meeting his Ukrainian counterpart Volodymyr Zelenskyy, Sky News&apos;s US partner network NBC News reported.
+
+Read more: https://news.sky.com/story/trump-could-meet-putin-as-early-as-next-week-to-discuss-ukraine-ceasefire-white-house-official-13407912
+
+#trump #putin #usa #russia
+ 
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews
+Like us on Facebook: https://www.facebook.com/skynews
+Follow us on Instagram: https://www.instagram.com/skynews
+Follow us on TikTok: https://www.tiktok.com/@skynews
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android
+https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=ixHNAxAKgMg&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ixHNAxAKgMg/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ixHNAxAKgMg/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ixHNAxAKgMg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ixHNAxAKgMg/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ixHNAxAKgMg/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ixHNAxAKgMg/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ixHNAxAKgMg/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Trump could meet Putin as early as next week to discuss Ukraine ceasefire - White House official</media:title>
+			<yt:duration seconds='119'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>ixHNAxAKgMg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='7202'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:9JXIkXMWlGE</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Zoo staff face death threats for feeding baboon remains to lions</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/9JXIkXMWlGE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=9JXIkXMWlGE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/9JXIkXMWlGE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=9JXIkXMWlGE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/9JXIkXMWlGE?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/9JXIkXMWlGE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/9JXIkXMWlGE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=9JXIkXMWlGE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=9JXIkXMWlGE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=9JXIkXMWlGE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>Staff at a zoo in Germany which culled 12 baboons and fed some of their carcasses to the lions say they have received death threats.
+
+Tiergarten Nuremberg euthanised the healthy Guinea baboons at the end of July due to overcrowding in their enclosure.
+
+Some remains were used for research while the rest were fed to the zoo&apos;s carnivores.
+
+Read more: https://news.sky.com/story/zoo-staff-face-death-threats-for-feeding-baboon-remains-to-lions-13407865
+
+#zoo #animals #germany
+ 
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews
+Like us on Facebook: https://www.facebook.com/skynews
+Follow us on Instagram: https://www.instagram.com/skynews
+Follow us on TikTok: https://www.tiktok.com/@skynews
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android
+https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=9JXIkXMWlGE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/9JXIkXMWlGE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/9JXIkXMWlGE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/9JXIkXMWlGE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/9JXIkXMWlGE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/9JXIkXMWlGE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/9JXIkXMWlGE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/9JXIkXMWlGE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Zoo staff face death threats for feeding baboon remains to lions</media:title>
+			<yt:duration seconds='181'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>9JXIkXMWlGE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1038'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Sa_ve8b5SxU</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Woman told she may have to lose leg to stay alive after liquid Brazilian butt lift</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Sa_ve8b5SxU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Sa_ve8b5SxU&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/Sa_ve8b5SxU/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Sa_ve8b5SxU'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/Sa_ve8b5SxU?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/Sa_ve8b5SxU/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/Sa_ve8b5SxU?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Sa_ve8b5SxU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=Sa_ve8b5SxU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=Sa_ve8b5SxU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>Warning: This story contains pictures some may find distressing
+
+A woman whose daughter nearly died after a liquid BBL (Brazilian butt lift) procedure says she is &quot;disappointed and upset&quot; that plans to regulate the aesthetics industry could take years to become law.
+
+Janet Taylor&apos;s daughter, Louise, was told by doctors that they may have to amputate her leg to save her life.
+
+She was rushed to hospital for emergency surgery following the 2023 procedure, carried out by a non-medical practitioner.
+
+Read more: https://news.sky.com/story/woman-told-she-may-have-to-lose-leg-to-stay-alive-after-liquid-brazilian-butt-lift-13407906
+
+#cosmetics #health #uknews
+ 
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews
+Like us on Facebook: https://www.facebook.com/skynews
+Follow us on Instagram: https://www.instagram.com/skynews
+Follow us on TikTok: https://www.tiktok.com/@skynews
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android
+https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Sa_ve8b5SxU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Sa_ve8b5SxU/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Sa_ve8b5SxU/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Sa_ve8b5SxU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Sa_ve8b5SxU/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Sa_ve8b5SxU/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Sa_ve8b5SxU/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Sa_ve8b5SxU/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Woman told she may have to lose leg to stay alive after liquid Brazilian butt lift</media:title>
+			<yt:duration seconds='208'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>Sa_ve8b5SxU</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='2895'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:uzeZUuZb43M</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Lawyers sceptical of proposed reforms to tackle court backlog - data reveals</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/uzeZUuZb43M?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=uzeZUuZb43M&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/uzeZUuZb43M/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=uzeZUuZb43M'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/uzeZUuZb43M?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/uzeZUuZb43M/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/uzeZUuZb43M?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=uzeZUuZb43M' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=uzeZUuZb43M' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=uzeZUuZb43M' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>Exclusive data from Sky News and the Law Society reveals strong scepticism among lawyers about proposals to tackle rising court delays.
+
+With backlogs reaching record levels, Sir Brian Leveson has put forward reforms to fix a crumbling system, but many in the legal sector remain unconvinced.
+
+Ashna Hurynag reports.
+
+#courtreform #uknews #skynews 
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews 
+Like us on Facebook: https://www.facebook.com/skynews 
+Follow us on Instagram: https://www.instagram.com/skynews 
+Follow us on TikTok: https://www.tiktok.com/@skynews 
+
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB 
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ 
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=uzeZUuZb43M&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uzeZUuZb43M/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uzeZUuZb43M/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uzeZUuZb43M/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uzeZUuZb43M/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uzeZUuZb43M/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uzeZUuZb43M/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uzeZUuZb43M/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Lawyers sceptical of proposed reforms to tackle court backlog - data reveals</media:title>
+			<yt:duration seconds='273'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>uzeZUuZb43M</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='432'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:k1dNi13rUnA</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Donald Trump says there&apos;s a &apos;very good prospect&apos; he will meet with Vladimir Putin soon</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/k1dNi13rUnA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=k1dNi13rUnA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/k1dNi13rUnA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=k1dNi13rUnA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/k1dNi13rUnA?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/k1dNi13rUnA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/k1dNi13rUnA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=k1dNi13rUnA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=k1dNi13rUnA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=k1dNi13rUnA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>Donald Trump has been asked about the chances of a meeting with Russia at a White House event.
+
+He says there is a &quot;very good prospect&quot; of that, but when asked about the chances of a deal he adds he&apos;s been disappointed before.
+
+&quot;But, there&apos;s a good chance that there will be a meeting very soon,&quot; he says.
+
+Read more: https://news.sky.com/story/ukraine-war-latest-moscow-putin-trump-zelenskyy-russia-12541713#9987288
+
+#donaldtrump #usa #politics #putin #russia #skynews 
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews 
+Like us on Facebook: https://www.facebook.com/skynews 
+Follow us on Instagram: https://www.instagram.com/skynews 
+Follow us on TikTok: https://www.tiktok.com/@skynews 
+
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB 
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ 
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=k1dNi13rUnA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/k1dNi13rUnA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/k1dNi13rUnA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/k1dNi13rUnA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/k1dNi13rUnA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/k1dNi13rUnA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/k1dNi13rUnA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/k1dNi13rUnA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Donald Trump says there&apos;s a &apos;very good prospect&apos; he will meet with Vladimir Putin soon</media:title>
+			<yt:duration seconds='135'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>k1dNi13rUnA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='40195'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:_2qD5uUnv_8</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>New AI technology to tackle grooming gangs</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/_2qD5uUnv_8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=_2qD5uUnv_8&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/_2qD5uUnv_8/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=_2qD5uUnv_8'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/_2qD5uUnv_8?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/_2qD5uUnv_8/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/_2qD5uUnv_8?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=_2qD5uUnv_8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=_2qD5uUnv_8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=_2qD5uUnv_8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>Safeguarding minister Jess Phillips announced £426,000 of funding to roll out artificial intelligence tools across all 43 police forces in England and Wales to speed up investigations into modern slavery, child sex abuse and county lines gangs.
+
+Phillips denied Elon Musk influenced the decision to have a national inquiry on the subject. 
+
+The minister said: &quot;I don&apos;t follow Elon Musk&apos;s advice on anything although maybe I too would like to go to Mars.
+
+&quot;Before anyone even knew Elon Musk&apos;s name, I was working with the victims of these crimes.&quot;
+
+Read more: https://news.sky.com/story/jess-phillips-condemns-idiot-councils-that-dont-believe-they-have-grooming-gang-problem-13407809
+
+#skynews #uknews #groominggangs #labourparty 
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews 
+Like us on Facebook: https://www.facebook.com/skynews 
+Follow us on Instagram: https://www.instagram.com/skynews 
+Follow us on TikTok: https://www.tiktok.com/@skynews 
+
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB 
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ 
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=_2qD5uUnv_8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_2qD5uUnv_8/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_2qD5uUnv_8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_2qD5uUnv_8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_2qD5uUnv_8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_2qD5uUnv_8/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_2qD5uUnv_8/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_2qD5uUnv_8/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>New AI technology to tackle grooming gangs</media:title>
+			<yt:duration seconds='164'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>_2qD5uUnv_8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1526'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:QDFlUvyAHcE</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>War in Gaza: At least 20 dead after aid truck overturns, says Gaza health authority</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/QDFlUvyAHcE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=QDFlUvyAHcE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/QDFlUvyAHcE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=QDFlUvyAHcE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/QDFlUvyAHcE?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/QDFlUvyAHcE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/QDFlUvyAHcE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=QDFlUvyAHcE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=QDFlUvyAHcE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=QDFlUvyAHcE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>Warning: This video contains distressing content. 
+
+At least 20 people have been killed after an aid truck overturned in Gaza after being overwhelmed by crowds seeking food, according to Gazan health authorities. 
+
+Separately the Palestinian Red Crescent Society aid group says its headquarters in the strip have been struck again by the Israeli military. 
+
+It all comes as Benjamin Netanyahu prepares to push his security cabinet to agree to an &apos;all-out occupation&apos; of Gaza.
+
+Read more: https://news.sky.com/story/gaza-latest-hostages-famine-aid-hamas-idf-war-palestine-state-live-13398805
+
+#gaza #middleeast #israel #war #skynews 
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews 
+Like us on Facebook: https://www.facebook.com/skynews 
+Follow us on Instagram: https://www.instagram.com/skynews 
+Follow us on TikTok: https://www.tiktok.com/@skynews 
+
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB 
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ 
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=QDFlUvyAHcE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QDFlUvyAHcE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QDFlUvyAHcE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QDFlUvyAHcE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QDFlUvyAHcE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QDFlUvyAHcE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QDFlUvyAHcE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QDFlUvyAHcE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>War in Gaza: At least 20 dead after aid truck overturns, says Gaza health authority</media:title>
+			<yt:duration seconds='171'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>QDFlUvyAHcE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1776'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:lM4e0tHfpn4</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Trump and Putin: From bromance to break-up</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/lM4e0tHfpn4?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=lM4e0tHfpn4&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/lM4e0tHfpn4/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=lM4e0tHfpn4'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/lM4e0tHfpn4?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/lM4e0tHfpn4/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/lM4e0tHfpn4?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=lM4e0tHfpn4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=lM4e0tHfpn4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=lM4e0tHfpn4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>It appears the US will impose secondary sanctions on Russia on Friday - but is Moscow taking Washington seriously on its threats?
+
+Sky&apos;s Ivor Bennett provides the latest on Russia-Ukraine war.
+
+Read more: https://news.sky.com/story/ukraine-war-latest-moscow-putin-trump-zelenskyy-russia-12541713
+
+#skynews #donaldtrump #putin #russia 
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews 
+Like us on Facebook: https://www.facebook.com/skynews 
+Follow us on Instagram: https://www.instagram.com/skynews 
+Follow us on TikTok: https://www.tiktok.com/@skynews 
+
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB 
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ 
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=lM4e0tHfpn4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lM4e0tHfpn4/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lM4e0tHfpn4/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lM4e0tHfpn4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lM4e0tHfpn4/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lM4e0tHfpn4/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lM4e0tHfpn4/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/lM4e0tHfpn4/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Trump and Putin: From bromance to break-up</media:title>
+			<yt:duration seconds='150'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>lM4e0tHfpn4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='14811'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:S5Veh6NdopA</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Prince Harry&apos;s charity row explained: What did the investigation find?</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/S5Veh6NdopA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=S5Veh6NdopA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/S5Veh6NdopA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=S5Veh6NdopA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/S5Veh6NdopA?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/S5Veh6NdopA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/S5Veh6NdopA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=S5Veh6NdopA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=S5Veh6NdopA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=S5Veh6NdopA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>A charity set up by Prince Harry in memory of Princess Diana has been at the centre of a high-profile row, leading to an independent investigation.
+
+The Duke of Sussex stepped down from Sentebale in March alongside fellow co-founder Prince Seeiso of Lesotho, nearly 20 years after they started it to help young people with HIV in Lesotho and Botswana.
+
+In the end there has been no outright winner from the regulator&apos;s verdict.
+
+Read more: https://news.sky.com/story/no-outright-winner-from-charity-commissions-verdict-on-row-between-prince-harry-and-sentebale-chair-13407653
+
+#skynews #princeharry #sentebale #charity 
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews 
+Like us on Facebook: https://www.facebook.com/skynews 
+Follow us on Instagram: https://www.instagram.com/skynews 
+Follow us on TikTok: https://www.tiktok.com/@skynews 
+
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB 
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ 
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=S5Veh6NdopA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S5Veh6NdopA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S5Veh6NdopA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S5Veh6NdopA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S5Veh6NdopA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S5Veh6NdopA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S5Veh6NdopA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S5Veh6NdopA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Prince Harry&apos;s charity row explained: What did the investigation find?</media:title>
+			<yt:duration seconds='159'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>S5Veh6NdopA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='2385'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:KJv_UkoCsW4</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Families fight to block parole for murderers who refuse to reveal location of their victims</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/KJv_UkoCsW4?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=KJv_UkoCsW4&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/KJv_UkoCsW4/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=KJv_UkoCsW4'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/KJv_UkoCsW4?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/KJv_UkoCsW4/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/KJv_UkoCsW4?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=KJv_UkoCsW4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=KJv_UkoCsW4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=KJv_UkoCsW4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>Families representing the victims of two of Scotland&apos;s highest profile murder cases have urged the Scottish government to deny parole to killers who refuse to reveal where they hid their victim&apos;s bodies.
+
+The plan has been dubbed &quot;Suzanne&apos;s Law&quot; and is named after murdered Edinburgh bookkeeper Suzanne Pilley, whose remains were never found.
+
+It would see murderers kept in prison indefinitely unless they disclosed the whereabouts of those they killed.
+
+Read more: https://news.sky.com/story/families-fight-to-block-parole-for-murderers-who-refuse-to-reveal-location-of-their-victims-13407837 
+
+#scotland #parole #crime #justice #uknews #skynews 
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews 
+Like us on Facebook: https://www.facebook.com/skynews 
+Follow us on Instagram: https://www.instagram.com/skynews 
+Follow us on TikTok: https://www.tiktok.com/@skynews 
+
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB 
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ 
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=KJv_UkoCsW4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KJv_UkoCsW4/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KJv_UkoCsW4/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KJv_UkoCsW4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KJv_UkoCsW4/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KJv_UkoCsW4/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KJv_UkoCsW4/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KJv_UkoCsW4/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Families fight to block parole for murderers who refuse to reveal location of their victims</media:title>
+			<yt:duration seconds='148'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>KJv_UkoCsW4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='2447'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:EkfF3jhd8NI</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>What options does chancellor have to stop &apos;substantial tax rises&apos;?</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/EkfF3jhd8NI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=EkfF3jhd8NI&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/EkfF3jhd8NI/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=EkfF3jhd8NI'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/EkfF3jhd8NI?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/EkfF3jhd8NI/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/EkfF3jhd8NI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=EkfF3jhd8NI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=EkfF3jhd8NI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=EkfF3jhd8NI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>Rachel Reeves will need to find more than £40bn of tax rises or spending cuts in the autumn budget to meet her fiscal rules, the National Institute of Economic and Social Research (NIESR) has warned.
+
+Sky&apos;s Gurpreet Narwan explains in more detail what options the chancellor has to prevent taxes from rising. 
+
+#skynews #taxes #reeves #chancellor #economy 
+
+Read more: https://news.sky.com/story/chancellor-warned-substantial-tax-rises-needed-as-she-faces-impossible-trilemma-13407544
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews 
+Like us on Facebook: https://www.facebook.com/skynews 
+Follow us on Instagram: https://www.instagram.com/skynews 
+Follow us on TikTok: https://www.tiktok.com/@skynews 
+
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB 
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ 
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=EkfF3jhd8NI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EkfF3jhd8NI/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EkfF3jhd8NI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EkfF3jhd8NI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EkfF3jhd8NI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EkfF3jhd8NI/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EkfF3jhd8NI/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EkfF3jhd8NI/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>What options does chancellor have to stop &apos;substantial tax rises&apos;?</media:title>
+			<yt:duration seconds='148'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>EkfF3jhd8NI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='44302'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:VozeEVQWbYM</id>
+		<published>2025-08-07T14:15:44</published>
+		<updated>2025-08-07T14:15:44</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>IDF blames Hamas for aid site shootings - while the UN disputes this</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/VozeEVQWbYM?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=VozeEVQWbYM&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/VozeEVQWbYM/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=VozeEVQWbYM'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ/uploads/VozeEVQWbYM?v=2'/>
+		<author>
+			<name>Sky News</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCoMdktPbSTixAyNGwb-UYkQ</uri>
+			<yt:userId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/VozeEVQWbYM/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/VozeEVQWbYM?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=VozeEVQWbYM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=VozeEVQWbYM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=VozeEVQWbYM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Sky News' yt:type='partner'>UCoMdktPbSTixAyNGwb-UYkQ</media:credit>
+			<media:description type='plain'>&quot;What happens is the hospital gets people who are mistreated, some of them are in crowded areas, some are getting shot by Hamas.l,&quot; said Nadav Shoshani, an international spokesman for the Israel Defence Forces.
+
+The UN said in a report that nearly 1,400 people have been killed and more than 4,000 injured while seeking food.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+Follow us on Twitter: https://twitter.com/skynews 
+Like us on Facebook: https://www.facebook.com/skynews 
+Follow us on Instagram: https://www.instagram.com/skynews 
+Follow us on TikTok: https://www.tiktok.com/@skynews 
+
+For more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&amp;hl=en_GB 
+
+Sky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ 
+
+To enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=VozeEVQWbYM&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VozeEVQWbYM/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VozeEVQWbYM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VozeEVQWbYM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VozeEVQWbYM/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VozeEVQWbYM/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VozeEVQWbYM/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VozeEVQWbYM/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>IDF blames Hamas for aid site shootings - while the UN disputes this</media:title>
+			<yt:duration seconds='171'/>
+	        <yt:uploaded>2025-08-07T14:15:44</yt:uploaded>
+			<yt:uploaderId>EEUCoMdktPbSTixAyNGwb-UYkQ</yt:uploaderId>
+			<yt:videoid>VozeEVQWbYM</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='3034'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>

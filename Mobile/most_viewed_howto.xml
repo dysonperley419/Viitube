@@ -1,0 +1,1154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:saZrh9bb_Q4</id>
+		<published>2025-08-07T14:41:24</published>
+		<updated>2025-08-07T14:41:24</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Shoe Secrets: Must-Know Hacks for Every Footwear Lover!&quot; 🔑👢</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/saZrh9bb_Q4?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=saZrh9bb_Q4&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/saZrh9bb_Q4/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=saZrh9bb_Q4'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/saZrh9bb_Q4?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/saZrh9bb_Q4/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/saZrh9bb_Q4?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=saZrh9bb_Q4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=saZrh9bb_Q4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=saZrh9bb_Q4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>Are you tired of uncomfortable shoes or struggling with foot-related issues? Look no further! In this video, we share the best hacks to keep your feet happy and your shoes looking fabulous! From clever tricks to make tight shoes more comfortable to innovative ways to keep your footwear fresh, we’ve got you covered!
+
+Join us as we explore practical tips and creative solutions that will transform your shoe game and pamper your feet. Whether you’re a sneaker lover or a high-heel enthusiast, these hacks are perfect for everyone!
+
+Don’t forget to like 👍, subscribe 🔔, and share your own favorite foot and shoe hacks in the comments below! Let’s step into comfort together! 💖
+
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=saZrh9bb_Q4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/saZrh9bb_Q4/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/saZrh9bb_Q4/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/saZrh9bb_Q4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/saZrh9bb_Q4/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/saZrh9bb_Q4/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/saZrh9bb_Q4/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/saZrh9bb_Q4/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Shoe Secrets: Must-Know Hacks for Every Footwear Lover!&quot; 🔑👢</media:title>
+			<yt:duration seconds='3682'/>
+	        <yt:uploaded>2025-08-07T14:41:24</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>saZrh9bb_Q4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1019552'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:wgJik-GIQis</id>
+		<published>2025-08-07T14:41:24</published>
+		<updated>2025-08-07T14:41:24</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Polymer Clay Crafts: Create Mini Magic with Fun DIYs! ✨🎨</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/wgJik-GIQis?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=wgJik-GIQis&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/wgJik-GIQis/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=wgJik-GIQis'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/wgJik-GIQis?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/wgJik-GIQis/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/wgJik-GIQis?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=wgJik-GIQis' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=wgJik-GIQis' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=wgJik-GIQis' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>Welcome to our creative corner! 🌟 In this video, we dive into the enchanting world of polymer clay crafts, where you’ll learn how to create adorable mini masterpieces that are sure to impress! 🎉 Whether you’re a beginner or a seasoned pro, these fun and easy DIY projects will spark your imagination and unleash your inner artist.
+
+Join us as we guide you through each step, sharing tips and tricks to make your crafting experience enjoyable and magical! ✨ Don’t forget to grab your clay and let’s get started on these delightful creations!
+
+If you love what you see, make sure to like 👍, subscribe 🔔, and share your own polymer clay creations in the comments below! We can’t wait to see your mini magic! 💖
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=wgJik-GIQis&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wgJik-GIQis/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wgJik-GIQis/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wgJik-GIQis/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wgJik-GIQis/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wgJik-GIQis/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wgJik-GIQis/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wgJik-GIQis/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Polymer Clay Crafts: Create Mini Magic with Fun DIYs! ✨🎨</media:title>
+			<yt:duration seconds='7225'/>
+	        <yt:uploaded>2025-08-07T14:41:24</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>wgJik-GIQis</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='338777'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:xBnl_ZZx32E</id>
+		<published>2025-08-07T14:41:24</published>
+		<updated>2025-08-07T14:41:24</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>DIY FRUIT PEN 🍓🍌🍉 BRIGHT SCHOOL SUPPLIES WITH A TWIST!! 🌟</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/xBnl_ZZx32E?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=xBnl_ZZx32E&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/xBnl_ZZx32E/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=xBnl_ZZx32E'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/xBnl_ZZx32E?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/xBnl_ZZx32E/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/xBnl_ZZx32E?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=xBnl_ZZx32E' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=xBnl_ZZx32E' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=xBnl_ZZx32E' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>🌟 Welcome to our colorful world of creativity! In this video, we’re diving into the delightful realm of DIY with our super fun FRUIT PEN project! 🍓🍌🍉 Get ready to transform your ordinary school supplies into vibrant, eye-catching treasures that will make your desk pop!
+
+You’ll learn how to create your very own fruit-themed pens, choosing the brightest colors and materials for maximum impact. These DIY fruit pens are perfect for adding a splash of color to your study space, whether you’re gearing up for back-to-school or just want to express your unique style. Plus, they make great gifts for friends and classmates!
+
+Don’t forget to LIKE, COMMENT, and SUBSCRIBE for more fun DIY projects! Hit the notification bell 🔔 so you never miss an update. Let’s get crafting and make this school year the brightest one yet! 🌈✨
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=xBnl_ZZx32E&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xBnl_ZZx32E/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xBnl_ZZx32E/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xBnl_ZZx32E/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xBnl_ZZx32E/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xBnl_ZZx32E/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xBnl_ZZx32E/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xBnl_ZZx32E/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>DIY FRUIT PEN 🍓🍌🍉 BRIGHT SCHOOL SUPPLIES WITH A TWIST!! 🌟</media:title>
+			<yt:duration seconds='3772'/>
+	        <yt:uploaded>2025-08-07T14:41:24</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>xBnl_ZZx32E</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1128239'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:eSCfJHcqgws</id>
+		<published>2025-08-07T14:41:24</published>
+		<updated>2025-08-07T14:41:24</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>DIY CARDBOARD SPRUNKI CANDY MACHINE 🩷🍬 PAPER CRAFTS FOR YOU</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/eSCfJHcqgws?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=eSCfJHcqgws&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/eSCfJHcqgws/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=eSCfJHcqgws'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/eSCfJHcqgws?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/eSCfJHcqgws/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/eSCfJHcqgws?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=eSCfJHcqgws' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=eSCfJHcqgws' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=eSCfJHcqgws' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>🎉 Welcome to our fun-filled DIY adventure! In this video, we’ll show you how to create your very own Cardboard Sprunki Candy Machine using simple materials you probably have at home! 🍭✨ Join us as we guide you step-by-step through this exciting paper craft project. This colorful candy machine is perfect for kids and adults alike, serving as a delightful decoration and a great way to enjoy your favorite treats!
+
+You’ll need cardboard, scissors, glue, markers or paint, and of course, your favorite candies to bring this project to life. This DIY not only boosts creativity and fine motor skills but is also a fantastic activity to do with friends or family. It’s perfect for parties, gifts, or just a sweet treat at home!
+
+Don’t forget to like, subscribe, and hit the notification bell for more amazing DIY projects! We can’t wait to see your creations, so share them with us in the comments below. Let’s get crafting! 🥳
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=eSCfJHcqgws&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eSCfJHcqgws/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eSCfJHcqgws/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eSCfJHcqgws/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eSCfJHcqgws/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eSCfJHcqgws/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eSCfJHcqgws/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/eSCfJHcqgws/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>DIY CARDBOARD SPRUNKI CANDY MACHINE 🩷🍬 PAPER CRAFTS FOR YOU</media:title>
+			<yt:duration seconds='912'/>
+	        <yt:uploaded>2025-08-07T14:41:24</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>eSCfJHcqgws</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='335561'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:IVs4AcV2QF8</id>
+		<published>2025-08-07T14:41:25</published>
+		<updated>2025-08-07T14:41:25</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>THE ART OF EPOXY RESIN &amp; GLUE GUN 💙 CRAFTS YOU CAN MAKE 🌟</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/IVs4AcV2QF8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=IVs4AcV2QF8&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/IVs4AcV2QF8/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=IVs4AcV2QF8'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/IVs4AcV2QF8?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/IVs4AcV2QF8/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/IVs4AcV2QF8?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=IVs4AcV2QF8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=IVs4AcV2QF8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=IVs4AcV2QF8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>Discover the endless possibilities of epoxy resin and glue gun crafts in this fun and creative video! 💙🌟 From stunning designs to practical DIYs, we’ll show you how to effortlessly bring your ideas to life. Perfect for crafting lovers looking for unique and beautiful projects! 🎨✨
+
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=IVs4AcV2QF8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IVs4AcV2QF8/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IVs4AcV2QF8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IVs4AcV2QF8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IVs4AcV2QF8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IVs4AcV2QF8/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IVs4AcV2QF8/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IVs4AcV2QF8/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>THE ART OF EPOXY RESIN &amp; GLUE GUN 💙 CRAFTS YOU CAN MAKE 🌟</media:title>
+			<yt:duration seconds='7340'/>
+	        <yt:uploaded>2025-08-07T14:41:25</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>IVs4AcV2QF8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='693808'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:S8tCpk4S4ts</id>
+		<published>2025-08-07T14:41:25</published>
+		<updated>2025-08-07T14:41:25</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Want to Draw a RAINBOW Like a Pro? 🖍️ 🌈 Amazing Painting Hacks for Boring Day</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/S8tCpk4S4ts?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=S8tCpk4S4ts&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/S8tCpk4S4ts/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=S8tCpk4S4ts'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/S8tCpk4S4ts?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/S8tCpk4S4ts/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/S8tCpk4S4ts?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=S8tCpk4S4ts' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=S8tCpk4S4ts' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=S8tCpk4S4ts' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>Feeling a bit bored and looking for a fun way to brighten your day? Join me in this exciting art tutorial where I’ll share my top painting hacks to help you create a stunning rainbow masterpiece! 🎨✨
+
+Whether you’re a beginner or an experienced artist, these hacks will inspire you to unleash your creativity and transform a dull day into a colorful adventure! Don’t forget to grab your paints and let’s get started!
+
+👉 Like, subscribe, and hit the notification bell to stay updated on more fun art tutorials! Share your rainbow creations in the comments below! 🌈💖
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=S8tCpk4S4ts&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S8tCpk4S4ts/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S8tCpk4S4ts/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S8tCpk4S4ts/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S8tCpk4S4ts/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S8tCpk4S4ts/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S8tCpk4S4ts/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/S8tCpk4S4ts/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Want to Draw a RAINBOW Like a Pro? 🖍️ 🌈 Amazing Painting Hacks for Boring Day</media:title>
+			<yt:duration seconds='3639'/>
+	        <yt:uploaded>2025-08-07T14:41:25</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>S8tCpk4S4ts</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='361540'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:3Ojk9xbCHBs</id>
+		<published>2025-08-07T14:41:25</published>
+		<updated>2025-08-07T14:41:25</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>RAINBOW CRAFTS TO BRIGHTEN YOUR SCHOOL DAYS 🌈🎒</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/3Ojk9xbCHBs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=3Ojk9xbCHBs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/3Ojk9xbCHBs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=3Ojk9xbCHBs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/3Ojk9xbCHBs?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/3Ojk9xbCHBs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/3Ojk9xbCHBs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=3Ojk9xbCHBs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=3Ojk9xbCHBs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=3Ojk9xbCHBs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>Get ready to brighten up your school days with these DIY rainbow crafts and hacks! 🌈✨ Discover fun and easy ways to create colorful school supplies that are cute and practical. Perfect for adding a pop of color to your everyday routine! 🎒✂️
+
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=3Ojk9xbCHBs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3Ojk9xbCHBs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3Ojk9xbCHBs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3Ojk9xbCHBs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3Ojk9xbCHBs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3Ojk9xbCHBs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3Ojk9xbCHBs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3Ojk9xbCHBs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>RAINBOW CRAFTS TO BRIGHTEN YOUR SCHOOL DAYS 🌈🎒</media:title>
+			<yt:duration seconds='948'/>
+	        <yt:uploaded>2025-08-07T14:41:25</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>3Ojk9xbCHBs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='8015372'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:LTBqn8zPtjI</id>
+		<published>2025-08-07T14:41:25</published>
+		<updated>2025-08-07T14:41:25</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>AMAZING RAINBOW SCHOOL SUPPLIES YOU HAVE TO TRY 📚🌈</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/LTBqn8zPtjI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=LTBqn8zPtjI&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/LTBqn8zPtjI/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=LTBqn8zPtjI'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/LTBqn8zPtjI?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/LTBqn8zPtjI/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/LTBqn8zPtjI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=LTBqn8zPtjI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=LTBqn8zPtjI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=LTBqn8zPtjI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>🌈✨ Get ready to brighten up your school year with the most AMAZING rainbow school supplies! In this video, we’ll explore a vibrant collection of must-have items that will not only make your study sessions more fun but also add a splash of color to your desk! From colorful notebooks and pens to eye-catching backpacks, we’ve got you covered.
+
+📚 Whether you’re a student looking to stand out or a parent wanting to surprise your kids, these supplies are sure to inspire creativity and joy. Don’t miss out on our top picks and tips for organizing your school essentials in style!
+
+👉 Make sure to LIKE, COMMENT, and SUBSCRIBE for more fun and creative ideas! Let’s dive into the rainbow of possibilities together! 🌈✨
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=LTBqn8zPtjI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/LTBqn8zPtjI/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/LTBqn8zPtjI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/LTBqn8zPtjI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/LTBqn8zPtjI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/LTBqn8zPtjI/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/LTBqn8zPtjI/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/LTBqn8zPtjI/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>AMAZING RAINBOW SCHOOL SUPPLIES YOU HAVE TO TRY 📚🌈</media:title>
+			<yt:duration seconds='3720'/>
+	        <yt:uploaded>2025-08-07T14:41:25</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>LTBqn8zPtjI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='3158999'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:bVQH-QohEsk</id>
+		<published>2025-08-07T14:41:25</published>
+		<updated>2025-08-07T14:41:25</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>CUTE DIY SCHOOL SUPPLIES 💖✏️ BRIGHTEN UP YOUR BORING ITEMS</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/bVQH-QohEsk?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=bVQH-QohEsk&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/bVQH-QohEsk/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=bVQH-QohEsk'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/bVQH-QohEsk?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/bVQH-QohEsk/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/bVQH-QohEsk?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=bVQH-QohEsk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=bVQH-QohEsk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=bVQH-QohEsk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>🌟 Welcome back to my channel! In today’s video, we’re diving into the world of creativity with some adorable DIY school supplies that will transform your boring items into cute and colorful essentials! 💖✏️
+
+From personalized notebooks to fun pencil cases, I’ll guide you step-by-step through each project, making it easy for you to add a splash of personality to your school gear. Whether you’re heading back to school or just want to spruce up your workspace, these DIYs are perfect for everyone!
+
+Don’t forget to like, subscribe, and hit the notification bell for more fun DIY projects! Let’s get crafting and make this school year the cutest one yet! 🎉
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=bVQH-QohEsk&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bVQH-QohEsk/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bVQH-QohEsk/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bVQH-QohEsk/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bVQH-QohEsk/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bVQH-QohEsk/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bVQH-QohEsk/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bVQH-QohEsk/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>CUTE DIY SCHOOL SUPPLIES 💖✏️ BRIGHTEN UP YOUR BORING ITEMS</media:title>
+			<yt:duration seconds='7256'/>
+	        <yt:uploaded>2025-08-07T14:41:25</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>bVQH-QohEsk</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='391369'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:r6oC3nOxlw0</id>
+		<published>2025-08-07T14:41:25</published>
+		<updated>2025-08-07T14:41:25</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>BEST RAINBOW CRAFTS 🌈🤩 COLORFUL IDEAS YOU CAN MAKE</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/r6oC3nOxlw0?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=r6oC3nOxlw0&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/r6oC3nOxlw0/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=r6oC3nOxlw0'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/r6oC3nOxlw0?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/r6oC3nOxlw0/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/r6oC3nOxlw0?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=r6oC3nOxlw0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=r6oC3nOxlw0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=r6oC3nOxlw0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>Bring a burst of color to your day! From creating a vibrant DIY pencil case to other fun and colorful projects, these ideas are perfect for adding magic to your crafting time. Get inspired and start crafting today with 5-Minute Crafts! 🎨✨
+
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=r6oC3nOxlw0&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/r6oC3nOxlw0/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/r6oC3nOxlw0/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/r6oC3nOxlw0/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/r6oC3nOxlw0/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/r6oC3nOxlw0/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/r6oC3nOxlw0/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/r6oC3nOxlw0/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>BEST RAINBOW CRAFTS 🌈🤩 COLORFUL IDEAS YOU CAN MAKE</media:title>
+			<yt:duration seconds='7255'/>
+	        <yt:uploaded>2025-08-07T14:41:25</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>r6oC3nOxlw0</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='192644'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:P23iAJTT4HI</id>
+		<published>2025-08-07T14:41:26</published>
+		<updated>2025-08-07T14:41:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>SCHOOL SUPPLIES YOU NEED 🎨 CUTE DIY PENCIL HOLDER</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/P23iAJTT4HI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=P23iAJTT4HI&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/P23iAJTT4HI/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=P23iAJTT4HI'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/P23iAJTT4HI?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/P23iAJTT4HI/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/P23iAJTT4HI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=P23iAJTT4HI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=P23iAJTT4HI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=P23iAJTT4HI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>Get ready to upgrade your school supplies with this fun and easy DIY project! 🎨✨ Learn how to make a cute pencil holder that’s practical and adorable.
+
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=P23iAJTT4HI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P23iAJTT4HI/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P23iAJTT4HI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P23iAJTT4HI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P23iAJTT4HI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P23iAJTT4HI/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P23iAJTT4HI/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/P23iAJTT4HI/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>SCHOOL SUPPLIES YOU NEED 🎨 CUTE DIY PENCIL HOLDER</media:title>
+			<yt:duration seconds='3671'/>
+	        <yt:uploaded>2025-08-07T14:41:26</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>P23iAJTT4HI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='213339'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:DilKFO_liMk</id>
+		<published>2025-08-07T14:41:26</published>
+		<updated>2025-08-07T14:41:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Color Your School Life: Fun and Easy Rainbow Hacks! 🌈✨</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/DilKFO_liMk?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=DilKFO_liMk&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/DilKFO_liMk/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=DilKFO_liMk'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/DilKFO_liMk?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/DilKFO_liMk/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/DilKFO_liMk?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=DilKFO_liMk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=DilKFO_liMk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=DilKFO_liMk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>🎨✨ Dive into a world of color and creativity with our latest video, &quot;Color Your School Life: Fun and Easy Rainbow Hacks!&quot; Whether you&apos;re looking to brighten up your school supplies or add a splash of color to your daily routine, these rainbow hacks are perfect for you! From vibrant DIY projects to simple yet stunning crafts, we&apos;ve got everything you need to make your school life more colorful and fun. 🌈✂️
+
+Don&apos;t forget to subscribe to 5-Minute Crafts for more exciting DIY ideas and creative inspiration! Hit the like button if you love rainbows as much as we do, and share your colorful creations with us in the comments below! 🎉✨
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=DilKFO_liMk&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DilKFO_liMk/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DilKFO_liMk/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DilKFO_liMk/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DilKFO_liMk/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DilKFO_liMk/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DilKFO_liMk/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DilKFO_liMk/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Color Your School Life: Fun and Easy Rainbow Hacks! 🌈✨</media:title>
+			<yt:duration seconds='7617'/>
+	        <yt:uploaded>2025-08-07T14:41:26</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>DilKFO_liMk</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='324106'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:hFz_ERoUOAw</id>
+		<published>2025-08-07T14:41:26</published>
+		<updated>2025-08-07T14:41:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>I TURNED SCHOOL SUPPLIES INTO FIDGETS! 🤯 Genius Back To School DIYs! 🔥</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/hFz_ERoUOAw?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=hFz_ERoUOAw&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/hFz_ERoUOAw/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=hFz_ERoUOAw'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/hFz_ERoUOAw?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/hFz_ERoUOAw/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/hFz_ERoUOAw?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=hFz_ERoUOAw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=hFz_ERoUOAw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=hFz_ERoUOAw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>The new school year is almost here! 🏫 Ready to have your coolest year ever? If you have trouble focusing in class or just need something to do with your hands, these DIY fidget hacks are for you! We&apos;ll show you how to make super cute and QUIET fidgets your teacher won&apos;t even notice! 🤫✨
+
+Learn how to turn everyday school supplies into amazing, secret fidget toys! We&apos;ll show you how to make a slidable charm for your pen, a moldable putty eraser for satisfying squishing, and a silent paperclip chain for endless fidgeting. Discover how to create a subtle spinner on your pencil and other clever ideas that look like normal school supplies. Say goodbye to stress and boredom! 💖
+
+Which one of these sneaky fidgets are you making for school? Let us know in the comments! 👇
+Don&apos;t forget to LIKE this video and SUBSCRIBE for more awesome back-to-school ideas! 🎒
+
+DIY, 5-Minute Crafts, Hacks, Back to School, School Supplies, DIY Fidgets, Fidget Toys, School Hacks, how to make fidgets, quiet fidgets, discreet fidget toys, fidgets for anxiety, fidgets for focus, back to school diy, do it yourself, simple, fun, projects.
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=hFz_ERoUOAw&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hFz_ERoUOAw/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hFz_ERoUOAw/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hFz_ERoUOAw/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hFz_ERoUOAw/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hFz_ERoUOAw/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hFz_ERoUOAw/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hFz_ERoUOAw/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>I TURNED SCHOOL SUPPLIES INTO FIDGETS! 🤯 Genius Back To School DIYs! 🔥</media:title>
+			<yt:duration seconds='7413'/>
+	        <yt:uploaded>2025-08-07T14:41:26</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>hFz_ERoUOAw</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='178785'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:CdwT37rEcm8</id>
+		<published>2025-08-07T14:41:26</published>
+		<updated>2025-08-07T14:41:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>💖✂️ MAKE SCHOOL FUN AGAIN! Awesome Paper Crafts to Try Today ✨🖍️</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/CdwT37rEcm8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=CdwT37rEcm8&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/CdwT37rEcm8/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=CdwT37rEcm8'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/CdwT37rEcm8?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/CdwT37rEcm8/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/CdwT37rEcm8?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=CdwT37rEcm8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=CdwT37rEcm8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=CdwT37rEcm8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>✂️📚 Get ready to turn ordinary paper into extraordinary school supplies! In this video, we’ll show you fun, easy, and creative paper crafts that are perfect for school. From cute notebooks to pencil holders and more, these DIYs are budget-friendly and super fun to make! 🎨🖍️
+
+Perfect for students, teachers, or anyone who loves crafting — these ideas will brighten your desk and make school more fun!
+
+#PaperCrafts #SchoolDIY #BackToSchool #DIYSchoolSupplies #EasyCrafts #CreativeDIY #StudentLife #CraftsForKids #BudgetCrafts #5MinuteCrafts #StudyInStyle
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=CdwT37rEcm8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/CdwT37rEcm8/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/CdwT37rEcm8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/CdwT37rEcm8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/CdwT37rEcm8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/CdwT37rEcm8/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/CdwT37rEcm8/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/CdwT37rEcm8/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>💖✂️ MAKE SCHOOL FUN AGAIN! Awesome Paper Crafts to Try Today ✨🖍️</media:title>
+			<yt:duration seconds='7297'/>
+	        <yt:uploaded>2025-08-07T14:41:26</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>CdwT37rEcm8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='108997'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:R6G4nyNNxNk</id>
+		<published>2025-08-07T14:41:26</published>
+		<updated>2025-08-07T14:41:26</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>SCHOOL SUPPLIES FROM A CANDY LAND! 🍬 DIY Candy Pen &amp; School Craft Ideas 🖊️🎒</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/R6G4nyNNxNk?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=R6G4nyNNxNk&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/R6G4nyNNxNk/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=R6G4nyNNxNk'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw/uploads/R6G4nyNNxNk?v=2'/>
+		<author>
+			<name>5-Minute Crafts</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC295-Dw_tDNtZXFeAPAW6Aw</uri>
+			<yt:userId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/R6G4nyNNxNk/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/R6G4nyNNxNk?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=R6G4nyNNxNk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=R6G4nyNNxNk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=R6G4nyNNxNk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='5-Minute Crafts' yt:type='partner'>UC295-Dw_tDNtZXFeAPAW6Aw</media:credit>
+			<media:description type='plain'>Learn how to make your very own candy pen and other cool school craft ideas that will make your desk the sweetest spot in class. Perfect for everyone who loves unique and colorful accessories, this video from 5-Minute Crafts will bring fun and style to your school day! 🍭🖊️
+
+#5MinuteCrafts #SchoolSupplies #CandyPen #DIYSchool #CreativeHacks #BackToSchool #SweetDIY #CraftyIdeas
+
+We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer&apos;s responsibility to use judgment, care and precautions if one plans to replicate. 
+
+The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. 
+
+All product and company names shown in the video are trademarks™️ or registered®️ trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
+------------------------------------------------------------------------------------ 
+
+▶️ TheSoul Music: https://www.music.thesoul-publishing.com 
+◉ Our Spotify: https://sptfy.com/TheSoulMusic 
+◉ TikTok: https://www.tiktok.com/@thesoul.music 
+◉ YouTube:    / @thesoulsound  
+
+◉ 5-Minute Crafts:    / @5minutecraftsyoutube   
+◉ 5-Minute Crafts DIY: ​    / @5minutecraftsdiy   
+◉ 5-Minute Crafts PLAY: ​   / @5minutecraftsplay   
+
+◉ Music by Epidemic Sound: https://www.epidemicsound.com/</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=R6G4nyNNxNk&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/R6G4nyNNxNk/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/R6G4nyNNxNk/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/R6G4nyNNxNk/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/R6G4nyNNxNk/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/R6G4nyNNxNk/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/R6G4nyNNxNk/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/R6G4nyNNxNk/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>SCHOOL SUPPLIES FROM A CANDY LAND! 🍬 DIY Candy Pen &amp; School Craft Ideas 🖊️🎒</media:title>
+			<yt:duration seconds='11315'/>
+	        <yt:uploaded>2025-08-07T14:41:26</yt:uploaded>
+			<yt:uploaderId>EEUC295-Dw_tDNtZXFeAPAW6Aw</yt:uploaderId>
+			<yt:videoid>R6G4nyNNxNk</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='239339'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>

@@ -1,0 +1,1229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Z4hVGCWH1Kc</id>
+		<published>2025-08-07T14:39:39</published>
+		<updated>2025-08-07T14:39:39</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>2,000,000 People Get Clean Water For The First Time!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Z4hVGCWH1Kc?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Z4hVGCWH1Kc&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/Z4hVGCWH1Kc/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Z4hVGCWH1Kc'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/Z4hVGCWH1Kc?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/Z4hVGCWH1Kc/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/Z4hVGCWH1Kc?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Z4hVGCWH1Kc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=Z4hVGCWH1Kc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=Z4hVGCWH1Kc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>$1 will provide 1 person with clean water for a year
+Thanks to Shopify for supporting our mission to raise $40,000,000 for clean water for 2,000,000 people. Go to https://teamwater.org to donate today!
+
+Thank you to YouTube for matching the next $2,000,000 in donations!
+
+Get your TeamWater merch here https://mrbeast.store/pages/team-water 100% of profits go directly to #TeamWater
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
+
+Music Provided by https://www.extrememusic.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Z4hVGCWH1Kc&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Z4hVGCWH1Kc/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Z4hVGCWH1Kc/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Z4hVGCWH1Kc/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Z4hVGCWH1Kc/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Z4hVGCWH1Kc/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Z4hVGCWH1Kc/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Z4hVGCWH1Kc/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>2,000,000 People Get Clean Water For The First Time!</media:title>
+			<yt:duration seconds='620'/>
+	        <yt:uploaded>2025-08-07T14:39:39</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>Z4hVGCWH1Kc</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='43364724'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:pzBi1nwDn8U</id>
+		<published>2025-08-07T14:39:39</published>
+		<updated>2025-08-07T14:39:39</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Survive 100 Days Trapped In A Private Jet, Keep It</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/pzBi1nwDn8U?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=pzBi1nwDn8U&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/pzBi1nwDn8U/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=pzBi1nwDn8U'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/pzBi1nwDn8U?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/pzBi1nwDn8U/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/pzBi1nwDn8U?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=pzBi1nwDn8U' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=pzBi1nwDn8U' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=pzBi1nwDn8U' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>Spending that much time in a jet is crazy
+10 people will win $10,000 thanks to DoorDash. Enter promo code JET on any grocery, convenience or retail to get $10 off your order AND to enter for a chance to win $10K: https://bit.ly/44GtE3z
+#doordashpartner 
+
+To help offset the carbon emissions from the jet, we planted thousands of trees and are working with the Arbor Day Foundation to support certified carbon removal projects that restore forests and remove CO₂ from the atmosphere.
+
+Due to airport security, Dashers delivered this and all subsequent orders to a MrBeast crew member who then brought items to the pilot.
+
+With DashPass, enjoy $0 delivery fees and lower service fees on eligible orders. Terms apply.
+
+New Merch - https://mrbeast.store
+
+Check out Viewstats! - https://www.viewstats.com/
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
+
+Music Provided by https://www.extrememusic.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------
+Terms &amp; Conditions:
+NO PURCHASE NECESSARY. Purchase will not increase your chances of winning. Sweepstakes ends 11:59 PM PT on 07/27/25. Open to legal US residents, 18+, who have an active, valid DoorDash account. See Official Rules (https://bit.ly/4nYqvoO) for complete details on how to enter, eligibility requirements, free method of entry, odds of winning, prize description, and limitations. Void where prohibited. Sponsor: DoorDash, Inc.
+
+Promo offer valid through 11:59PM PT on 07/27/25 on orders placed at participating grocery, convenience, or retail merchants on the DoorDash app or website. Valid only in the United States. Valid only on orders with a minimum subtotal of $20, excluding fees and taxes. Maximum value of discount is $10. Discount applies to subtotal only; does not apply to fees, taxes, and gratuity. If the full $10 value is not used on a single order, the remaining value will be forfeited. Not valid for pickup. Limit one per person. Not valid for the purchase of alcohol. Fees, taxes, and gratuity still apply. Use promo code JET at checkout to redeem. See further terms and conditions at https://drd.sh/8ONpZP/.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=pzBi1nwDn8U&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pzBi1nwDn8U/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pzBi1nwDn8U/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pzBi1nwDn8U/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pzBi1nwDn8U/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pzBi1nwDn8U/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pzBi1nwDn8U/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pzBi1nwDn8U/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Survive 100 Days Trapped In A Private Jet, Keep It</media:title>
+			<yt:duration seconds='1983'/>
+	        <yt:uploaded>2025-08-07T14:39:39</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>pzBi1nwDn8U</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='119240209'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:FWAdfuPpLOc</id>
+		<published>2025-08-07T14:39:39</published>
+		<updated>2025-08-07T14:39:39</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>World&apos;s Fastest Car Vs Cheetah!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/FWAdfuPpLOc?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=FWAdfuPpLOc&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/FWAdfuPpLOc/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=FWAdfuPpLOc'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/FWAdfuPpLOc?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/FWAdfuPpLOc/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/FWAdfuPpLOc?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=FWAdfuPpLOc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=FWAdfuPpLOc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=FWAdfuPpLOc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>I still can&apos;t believe we got all these animals for this
+
+Check out the latest Lenovo Legion Pro 7i with Intel® Core™ Ultra 9 Processor: https://www.lenovo.com/legion?cid=ww:display:334qnx
+
+The Cheetah is the most critically endangered cat in Africa and it is facing a #RaceforSurvival. You can help it win that race, find out more and donate here https://bit.ly/MrBeastCheetahsRaceforSurvival
+
+51&quot; Inch Max Vertical (World Record) by Darius Clark (Credit: Dunkademics): https://youtu.be/m1Rgq65Okks
+
+New Merch - https://mrbeast.store
+Check out Viewstats! - https://www.viewstats.com/
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=FWAdfuPpLOc&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FWAdfuPpLOc/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FWAdfuPpLOc/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FWAdfuPpLOc/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FWAdfuPpLOc/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FWAdfuPpLOc/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FWAdfuPpLOc/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/FWAdfuPpLOc/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>World&apos;s Fastest Car Vs Cheetah!</media:title>
+			<yt:duration seconds='1236'/>
+	        <yt:uploaded>2025-08-07T14:39:39</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>FWAdfuPpLOc</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='135111617'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:pe_ejTiIcSs</id>
+		<published>2025-08-07T14:39:40</published>
+		<updated>2025-08-07T14:39:40</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Lose 100 LBs, Win $250,000!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/pe_ejTiIcSs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=pe_ejTiIcSs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/pe_ejTiIcSs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=pe_ejTiIcSs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/pe_ejTiIcSs?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/pe_ejTiIcSs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/pe_ejTiIcSs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=pe_ejTiIcSs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=pe_ejTiIcSs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=pe_ejTiIcSs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>Go start the business you’ve been dreaming of and visit https://www.Shopify.com/MrBeast to start your trial now.
+
+**In Loving Memory of Coach Tyler Wall**
+
+It is with profound sadness that we share the unexpected passing of Coach Tyler Wall. Coach Wall was a remarkable individual whose kindness and genuine spirit touched all who knew him. His loss has left our hearts heavy with grief.
+
+Following this tragic news, we reached out to Coach Wall’s family to determine whether this video should be shared. With grace and wisdom, they expressed that Tyler would have wanted his message of hope and positivity to continue reaching others, even in his absence.
+
+We humbly ask that you honor Coach Wall’s memory and respect his family’s need for privacy during this difficult time.
+
+Coach Tyler Wall’s legacy of compassion and encouragement will live on in the hearts of all who were fortunate enough to know him.
+
+
+New Merch - https://mrbeast.store
+
+Check out Viewstats! - https://www.viewstats.com/
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
+
+Music Provided by https://www.extrememusic.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=pe_ejTiIcSs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pe_ejTiIcSs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pe_ejTiIcSs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pe_ejTiIcSs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pe_ejTiIcSs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pe_ejTiIcSs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pe_ejTiIcSs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/pe_ejTiIcSs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Lose 100 LBs, Win $250,000!</media:title>
+			<yt:duration seconds='2209'/>
+	        <yt:uploaded>2025-08-07T14:39:40</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>pe_ejTiIcSs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='181564144'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:hTSaweR8qMI</id>
+		<published>2025-08-07T14:39:40</published>
+		<updated>2025-08-07T14:39:40</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>$1 vs $500,000 Date</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/hTSaweR8qMI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=hTSaweR8qMI&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/hTSaweR8qMI/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=hTSaweR8qMI'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/hTSaweR8qMI?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/hTSaweR8qMI/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/hTSaweR8qMI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=hTSaweR8qMI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=hTSaweR8qMI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=hTSaweR8qMI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>Experiencing all of this was incredible
+Buy Feastables! It tastes amazing and it&apos;s ethically sourced 👉 https://fstbls.com/5mj6dv
+
+New Merch - https://mrbeast.store
+
+Check out Viewstats! - https://www.viewstats.com/
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
+
+Major League Baseball footage and trademarks used with permission of Major League Baseball. All rights reserved.
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=hTSaweR8qMI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hTSaweR8qMI/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hTSaweR8qMI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hTSaweR8qMI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hTSaweR8qMI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hTSaweR8qMI/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hTSaweR8qMI/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/hTSaweR8qMI/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>$1 vs $500,000 Date</media:title>
+			<yt:duration seconds='1042'/>
+	        <yt:uploaded>2025-08-07T14:39:40</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>hTSaweR8qMI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='120942316'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:DZIASl9q90s</id>
+		<published>2025-08-07T14:39:40</published>
+		<updated>2025-08-07T14:39:40</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Beat Neymar, Win $500,000</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/DZIASl9q90s?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=DZIASl9q90s&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/DZIASl9q90s/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=DZIASl9q90s'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/DZIASl9q90s?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/DZIASl9q90s/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/DZIASl9q90s?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=DZIASl9q90s' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=DZIASl9q90s' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=DZIASl9q90s' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>The amount of skill in this video is insane
+If you wanna score tons of Magenta Status perks and benefits like Aaron Judge and MrBeast, just for being a T-Mobile member, check out https://T-Mobile.com/Status
+
+New Merch - https://mrbeast.store
+
+Check out Viewstats! - https://www.viewstats.com/
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
+
+Major League Baseball footage and trademarks used with permission of Major League Baseball. All rights reserved.
+
+Music Provided by https://www.extrememusic.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=DZIASl9q90s&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DZIASl9q90s/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DZIASl9q90s/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DZIASl9q90s/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DZIASl9q90s/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DZIASl9q90s/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DZIASl9q90s/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DZIASl9q90s/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Beat Neymar, Win $500,000</media:title>
+			<yt:duration seconds='1673'/>
+	        <yt:uploaded>2025-08-07T14:39:40</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>DZIASl9q90s</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='151128052'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:-4GmbBoYQjE</id>
+		<published>2025-08-07T14:39:40</published>
+		<updated>2025-08-07T14:39:40</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>I Survived 100 Hours In An Ancient Temple</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/-4GmbBoYQjE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=-4GmbBoYQjE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/-4GmbBoYQjE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=-4GmbBoYQjE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/-4GmbBoYQjE?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/-4GmbBoYQjE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/-4GmbBoYQjE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=-4GmbBoYQjE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=-4GmbBoYQjE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=-4GmbBoYQjE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>I can’t believe I got to do this
+HUGE thanks to @jacklinks for making this happen, without them we can’t give away this money. Visit the link to buy Jack Link’s DUOS now: https://bit.ly/4ipfWae
+
+Find our new Feastables Peanut Butter Cups in every Target, Walmart, and 7-Eleven across America 👉🏻https://fstbls.com/5mj6dv
+
+Filmed in Mexico in collaboration with the Mexican Tourism Board
+https://visitmexico.com/
+
+Thanks to the INAH, National Institute of Anthropology and History
+Zona Arqueológica de Calakmul, Balancanche y Chichén Itzá MEXICO. &quot;Reproducción Autorizada por el Instituto Nacional de Antropología e Historia&quot;
+
+Special Thanks to:
+The governor of Campeche Layda Sansores
+The national secretary of tourism Josefina Rodriguez
+
+New Merch - https://mrbeast.store
+
+Check out Viewstats! - https://www.viewstats.com/
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
+
+Music Provided by https://www.extrememusic.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=-4GmbBoYQjE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-4GmbBoYQjE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-4GmbBoYQjE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-4GmbBoYQjE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-4GmbBoYQjE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-4GmbBoYQjE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-4GmbBoYQjE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/-4GmbBoYQjE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>I Survived 100 Hours In An Ancient Temple</media:title>
+			<yt:duration seconds='946'/>
+	        <yt:uploaded>2025-08-07T14:39:40</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>-4GmbBoYQjE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='106990520'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:uyiG6uw-6pA</id>
+		<published>2025-08-07T14:39:40</published>
+		<updated>2025-08-07T14:39:40</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Would You Risk Drowning for $500,000?</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/uyiG6uw-6pA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=uyiG6uw-6pA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/uyiG6uw-6pA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=uyiG6uw-6pA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/uyiG6uw-6pA?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/uyiG6uw-6pA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/uyiG6uw-6pA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=uyiG6uw-6pA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=uyiG6uw-6pA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=uyiG6uw-6pA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>These were crazy dangerous so everything was performed under professional supervision
+Jack Link’s Jerky can fuel anything. Scan the code or visit the link to buy Jack Link’s DUOS now: https://bit.ly/4ipfWae
+
+New Merch - https://mrbeast.store
+
+Check out Viewstats! - https://www.viewstats.com/
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
+
+Music Provided by https://www.extrememusic.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=uyiG6uw-6pA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uyiG6uw-6pA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uyiG6uw-6pA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uyiG6uw-6pA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uyiG6uw-6pA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uyiG6uw-6pA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uyiG6uw-6pA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uyiG6uw-6pA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Would You Risk Drowning for $500,000?</media:title>
+			<yt:duration seconds='1546'/>
+	        <yt:uploaded>2025-08-07T14:39:40</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>uyiG6uw-6pA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='171467761'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:figrl0aOULs</id>
+		<published>2025-08-07T14:39:41</published>
+		<updated>2025-08-07T14:39:41</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Watch This Video To Feed 1 Person In Need</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/figrl0aOULs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=figrl0aOULs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/figrl0aOULs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=figrl0aOULs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/figrl0aOULs?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/figrl0aOULs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/figrl0aOULs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=figrl0aOULs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=figrl0aOULs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=figrl0aOULs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>Buying 1 Hoodie = 100 Meals for people in need! Go get it now: https://www.doordash.com/p/dashmart-near-me
+
+Thank you https://youtube.com/@DoorDash for teaming up to fight food insecurity.
+
+Check out Sharing Excess at https://www.sharingexcess.com/
+
+New Merch - https://mrbeast.store
+
+Check out Viewstats! - https://www.viewstats.com/
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
+
+Music Provided by https://www.extrememusic.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------
+
+
+Terms and Conditions: For every limited edition MrBeast x DoorDash hoodie purchased on DoorDash from 04/12/25 to 5/9/25, DoorDash will donate $10 to Feeding America®, up to $50,000 total. $1 helps provide at least 10 meals secured by Feeding America® on behalf of local partner food banks.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=figrl0aOULs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/figrl0aOULs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/figrl0aOULs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/figrl0aOULs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/figrl0aOULs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/figrl0aOULs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/figrl0aOULs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/figrl0aOULs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Watch This Video To Feed 1 Person In Need</media:title>
+			<yt:duration seconds='629'/>
+	        <yt:uploaded>2025-08-07T14:39:41</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>figrl0aOULs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='70196587'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:aKq8bkY5eTU</id>
+		<published>2025-08-07T14:39:41</published>
+		<updated>2025-08-07T14:39:41</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>I Survived The 5 Deadliest Places On Earth</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/aKq8bkY5eTU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=aKq8bkY5eTU&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/aKq8bkY5eTU/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=aKq8bkY5eTU'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/aKq8bkY5eTU?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/aKq8bkY5eTU/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/aKq8bkY5eTU?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=aKq8bkY5eTU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=aKq8bkY5eTU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=aKq8bkY5eTU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>It’s crazy we actually did this
+Our new Feastables Peanut Butter Cups roll out over the next two weeks into every Target, Walmart, and 7-Eleven across America 👉 https://fstbls.com/5mj6dv
+Enter the Feastables Beast Games Sweepstakes! https://fstbls.com/uub0d4
+
+Thanks @drewbinsky  for joining on Snake Island, go subscribe to his channel!
+
+New Merch - https://mrbeast.store
+
+Check out Viewstats! - https://www.viewstats.com/
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
+
+Music Provided by https://www.extrememusic.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------
+
+NO PURCHASE NECESSARY.  Must be 18+.  For no purchase method of entry and complete details go to https://fstbls.com/jfythq</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=aKq8bkY5eTU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/aKq8bkY5eTU/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/aKq8bkY5eTU/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/aKq8bkY5eTU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/aKq8bkY5eTU/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/aKq8bkY5eTU/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/aKq8bkY5eTU/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/aKq8bkY5eTU/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>I Survived The 5 Deadliest Places On Earth</media:title>
+			<yt:duration seconds='802'/>
+	        <yt:uploaded>2025-08-07T14:39:41</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>aKq8bkY5eTU</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='144086738'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:zajUgQLviwk</id>
+		<published>2025-08-07T14:39:41</published>
+		<updated>2025-08-07T14:39:41</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Last to Leave Their Circle Wins $500,000</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/zajUgQLviwk?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=zajUgQLviwk&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/zajUgQLviwk/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=zajUgQLviwk'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/zajUgQLviwk?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/zajUgQLviwk/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/zajUgQLviwk?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=zajUgQLviwk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=zajUgQLviwk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=zajUgQLviwk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>Seeing these past contestants battle it out for $500,000 was wild
+Launch a store on Shopify and I’ll buy from 100 random stores that do ▸ https://shopify.com/mrbeast
+
+New Merch - https://mrbeast.store
+
+Check out Viewstats! - https://www.viewstats.com/
+
+Thank you to @LoveSacHQ  for the Lovesac MovieSacs in Charcoal Wombat Phur, check them out at https://www.lovesac.com
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
+
+Music Provided by https://www.extrememusic.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=zajUgQLviwk&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zajUgQLviwk/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zajUgQLviwk/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zajUgQLviwk/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zajUgQLviwk/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zajUgQLviwk/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zajUgQLviwk/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zajUgQLviwk/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Last to Leave Their Circle Wins $500,000</media:title>
+			<yt:duration seconds='2318'/>
+	        <yt:uploaded>2025-08-07T14:39:41</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>zajUgQLviwk</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='187162925'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:NDsO1LT_0lw</id>
+		<published>2025-08-07T14:39:41</published>
+		<updated>2025-08-07T14:39:41</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>I Spent 100 Hours Inside The Pyramids!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/NDsO1LT_0lw?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=NDsO1LT_0lw&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/NDsO1LT_0lw/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=NDsO1LT_0lw'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/NDsO1LT_0lw?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/NDsO1LT_0lw/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/NDsO1LT_0lw?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=NDsO1LT_0lw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=NDsO1LT_0lw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=NDsO1LT_0lw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>I can’t believe we were allowed to do this
+Season 2 of swarms is out now! You can even find a Gold Swarm worth $10,000! Grab yours now at Walmart, Target, Amazon, or top toy retailers worldwide. This video Includes promoted content in partnership with Moose Toys.
+
+See Dr. Zahi Hawass LIVE in a city near you: https://www.hawasszahi.com/2025tour
+
+Filmed in Egypt at the Giza Pyramids, in collaboration with the Egypt Film Commission
+www.egyptfilming.com
+Mr. Ahmed S. Badawi
+Mrs. Riham Elghazali
+Mr. Abdallah Kamel
+
+Thanks to the Ministry of Tourism and Antiquities. 
+
+Special Thanks:
+Leslie Greif
+Nia Samara Paine
+Mostafa Lotfy
+
+New Merch - https://mrbeast.store
+
+Check out Viewstats! - https://www.viewstats.com/
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com
+
+Music Provided by https://www.extrememusic.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=NDsO1LT_0lw&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NDsO1LT_0lw/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NDsO1LT_0lw/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NDsO1LT_0lw/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NDsO1LT_0lw/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NDsO1LT_0lw/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NDsO1LT_0lw/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NDsO1LT_0lw/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>I Spent 100 Hours Inside The Pyramids!</media:title>
+			<yt:duration seconds='1302'/>
+	        <yt:uploaded>2025-08-07T14:39:41</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>NDsO1LT_0lw</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='213539127'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:0e3GPea1Tyg</id>
+		<published>2025-08-07T14:39:49</published>
+		<updated>2025-08-07T14:39:49</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>$456,000 Squid Game In Real Life!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/0e3GPea1Tyg?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=0e3GPea1Tyg&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/0e3GPea1Tyg/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=0e3GPea1Tyg'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/0e3GPea1Tyg?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/0e3GPea1Tyg/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/0e3GPea1Tyg?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=0e3GPea1Tyg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=0e3GPea1Tyg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=0e3GPea1Tyg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>MAKE SURE YOU WATCH UNTIL GLASS BRIDGE IT&apos;S INSANE!
+
+Watch Beast Games now on Prime Video!!! https://www.beastgames.com
+
+Thank you GoPro for supplying us with cameras to get some of these shots. You can get them here: https://prf.hn/l/6bNbQB3
+
+Shoutout to SOKRISPYMEDIA for helping with visuals!
+
+Check out Viewstats! - https://www.viewstats.com/
+
+For any questions or inquiries regarding this video please reach out to chucky@mrbeastbusiness.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast6000/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+--------------------------------------------------------------------</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=0e3GPea1Tyg&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0e3GPea1Tyg/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0e3GPea1Tyg/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0e3GPea1Tyg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0e3GPea1Tyg/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0e3GPea1Tyg/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0e3GPea1Tyg/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0e3GPea1Tyg/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>$456,000 Squid Game In Real Life!</media:title>
+			<yt:duration seconds='1541'/>
+	        <yt:uploaded>2025-08-07T14:39:49</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>0e3GPea1Tyg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='862362970'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:zxYjTTXc-J8</id>
+		<published>2025-08-07T14:39:49</published>
+		<updated>2025-08-07T14:39:49</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Last To Leave Circle Wins $500,000</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/zxYjTTXc-J8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=zxYjTTXc-J8&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/zxYjTTXc-J8/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=zxYjTTXc-J8'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/zxYjTTXc-J8?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/zxYjTTXc-J8/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/zxYjTTXc-J8?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=zxYjTTXc-J8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=zxYjTTXc-J8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=zxYjTTXc-J8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>THIS WAS THE CRAZIEST THING IVE EVER DONE!
+
+New Merch - https://mrbeast.store
+
+Check out Viewstats! - https://www.viewstats.com/
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video please reach out to chucky@mrbeastbusiness.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast6000/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+--------------------------------------------------------------------</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=zxYjTTXc-J8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zxYjTTXc-J8/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zxYjTTXc-J8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zxYjTTXc-J8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zxYjTTXc-J8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zxYjTTXc-J8/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zxYjTTXc-J8/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zxYjTTXc-J8/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Last To Leave Circle Wins $500,000</media:title>
+			<yt:duration seconds='1063'/>
+	        <yt:uploaded>2025-08-07T14:39:49</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>zxYjTTXc-J8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='528151502'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:1WEAJ-DFkHE</id>
+		<published>2025-08-07T14:39:49</published>
+		<updated>2025-08-07T14:39:49</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>World&apos;s Most Expensive Flights!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/1WEAJ-DFkHE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=1WEAJ-DFkHE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/1WEAJ-DFkHE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=1WEAJ-DFkHE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA/uploads/1WEAJ-DFkHE?v=2'/>
+		<author>
+			<name>MrBeast</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCX6OQ3DkcsbYNE6H8uQQuVA</uri>
+			<yt:userId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/1WEAJ-DFkHE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/1WEAJ-DFkHE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=1WEAJ-DFkHE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=1WEAJ-DFkHE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=1WEAJ-DFkHE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MrBeast' yt:type='partner'>UCX6OQ3DkcsbYNE6H8uQQuVA</media:credit>
+			<media:description type='plain'>Check out ALL of MrBeast’s awesome jobs or discover a new opportunity at https://bit.ly/MrBeast_ZipRecruiter
+
+New Merch - https://mrbeast.store
+
+Check out Viewstats! - https://www.viewstats.com/
+
+SUBSCRIBE OR I TAKE YOUR DOG
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+For any questions or inquiries regarding this video please reach out to chucky@mrbeastbusiness.com
+
+----------------------------------------------------------------
+follow all of these or i will kick you
+• Facebook - https://www.facebook.com/MrBeast/
+• Twitter - https://twitter.com/MrBeast
+•  Instagram - https://www.instagram.com/mrbeast
+•  Im Hiring! - https://www.mrbeastjobs.com/
+--------------------------------------------------------------------</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=1WEAJ-DFkHE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1WEAJ-DFkHE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1WEAJ-DFkHE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1WEAJ-DFkHE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1WEAJ-DFkHE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1WEAJ-DFkHE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1WEAJ-DFkHE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1WEAJ-DFkHE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>World&apos;s Most Expensive Flights!</media:title>
+			<yt:duration seconds='740'/>
+	        <yt:uploaded>2025-08-07T14:39:49</yt:uploaded>
+			<yt:uploaderId>EEUCX6OQ3DkcsbYNE6H8uQQuVA</yt:uploaderId>
+			<yt:videoid>1WEAJ-DFkHE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='505670746'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>

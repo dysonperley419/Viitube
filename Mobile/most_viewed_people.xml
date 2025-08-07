@@ -1,0 +1,966 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:qRv7G7WpOoU</id>
+		<published>2025-08-07T14:43:54</published>
+		<updated>2025-08-07T14:43:54</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>SNOWBOARDING WITH THE NYPD</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/qRv7G7WpOoU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=qRv7G7WpOoU&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/qRv7G7WpOoU/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=qRv7G7WpOoU'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/qRv7G7WpOoU?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/qRv7G7WpOoU/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/qRv7G7WpOoU?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=qRv7G7WpOoU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=qRv7G7WpOoU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=qRv7G7WpOoU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>IF THIS DOESN&apos;T PLAY FOR YOU WATCH IT HERE; https://t.co/9S5UjKQkHm
+
+SORRY
+
+SEE BEHIND THE SCENES ON JESSE&apos;S CHANNEL; https://www.youtube.com/watch?v=Y6FAs...
+
+SUBSCRIBE TO MY CHANNEL, NEW VIDEOS EVERY DAY;  https://www.youtube.com/user/CASEYNEI...
+
+Sinatra mix by music by Taylor Galford https://soundcloud.com/officialtaylorgalford</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=qRv7G7WpOoU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qRv7G7WpOoU/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qRv7G7WpOoU/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qRv7G7WpOoU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qRv7G7WpOoU/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qRv7G7WpOoU/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qRv7G7WpOoU/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qRv7G7WpOoU/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>SNOWBOARDING WITH THE NYPD</media:title>
+			<yt:duration seconds='162'/>
+	        <yt:uploaded>2025-08-07T14:43:54</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>qRv7G7WpOoU</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='23414700'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:WxfZkMm3wcg</id>
+		<published>2025-08-07T14:43:54</published>
+		<updated>2025-08-07T14:43:54</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Make It Count</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/WxfZkMm3wcg?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=WxfZkMm3wcg&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/WxfZkMm3wcg/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=WxfZkMm3wcg'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/WxfZkMm3wcg?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/WxfZkMm3wcg/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/WxfZkMm3wcg?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=WxfZkMm3wcg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=WxfZkMm3wcg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=WxfZkMm3wcg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>Max, my friend in the movie, is a talented filmmaker, he edited this movie.  check him out https://www.youtube.com/@maxjosephdirector</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=WxfZkMm3wcg&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/WxfZkMm3wcg/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/WxfZkMm3wcg/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/WxfZkMm3wcg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/WxfZkMm3wcg/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/WxfZkMm3wcg/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/WxfZkMm3wcg/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/WxfZkMm3wcg/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Make It Count</media:title>
+			<yt:duration seconds='278'/>
+	        <yt:uploaded>2025-08-07T14:43:54</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>WxfZkMm3wcg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='33175382'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:jG7dSXcfVqE</id>
+		<published>2025-08-07T14:43:54</published>
+		<updated>2025-08-07T14:43:54</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>DO WHAT YOU CAN&apos;T</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/jG7dSXcfVqE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=jG7dSXcfVqE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/jG7dSXcfVqE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=jG7dSXcfVqE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/jG7dSXcfVqE?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/jG7dSXcfVqE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/jG7dSXcfVqE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=jG7dSXcfVqE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=jG7dSXcfVqE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=jG7dSXcfVqE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>MAX JOSEPH&apos;S, MY COLLABORATOR AND GENIUS BEHIND THIS VIDEO, CHANNEL https://www.youtube.com/maxjosephdirector
+
+MUSIC; &apos;Carte Postale&apos; by Sløve from the album &apos;Le Danse&apos;: Spotify: http://spoti.fi/2ljFPMF / Apple Music https://itun.es/fr/PdFYB 
+Courtesy of Pschent Music: https://open.spotify.com/user/pschent
+
+
+Huge thank you to all the creators to contributed to this video;
+Devinsupertramp - https://www.youtube.com/devinsupertramp
+Roman Atwood - https://www.youtube.com/RomanAtwoodVlogs
+John Olsson - https://www.youtube.com/JonOlssonVideoBlog
+diSCIpling Recovery - https://www.youtube.com/disciplingrecovery
+Zane Hijazi - https://www.youtube.com/zanehijazi
+Philip Defranco - https://www.youtube.com/philipdefranco
+Joey Da Prince - https://www.youtube.com/JoeyDaPrinceTv
+Liza Koshy  - https://www.youtube.com/lizakoshy
+PrankvsPrank - https://www.youtube.com/PrankvsPrank
+Grace Helbig - https://www.youtube.com/graciehinabox
+Lilly Singh - https://www.youtube.com/IISuperwomanII
+TheSyndicateProject - https://www.youtube.com/TheSyndicateProject
+Marques Brownlee - https://www.youtube.com/marquesbrownlee
+Arden Rose - https://www.youtube.com/ARose186
+William Haynes - https://www.youtube.com/WilliamHaynesTV
+EhBeeFamily - https://www.youtube.com/ehbeefamily
+Sara Deitschy - https://www.youtube.com/saradietschy
+Sprinkleofglitter - https://www.youtube.com/Sprinkleofglitter
+Piano Around the World - https://www.youtube.com/pianoaround
+Gigi Gorgeous - https://www.youtube.com/GregoryGORGEOUS
+Jason Paul - https://www.youtube.com/channel/UCDMXEPAeMDFKr5g9mkMvV1w   
+Louis Cole - https://www.youtube.com/FunForLouis
+Lindsey Stirling - https://www.youtube.com/lindseystomp
+FaZe Adapt - https://www.youtube.com/AHDAPTING
+FaZe Rain - https://www.youtube.com/TrickShotting
+Ben Brown - https://www.youtube.com/benbrown
+Shonduras - https://www.youtube.com/Shonduras
+Sam Sheffer - https://www.youtube.com/Samsheffer
+Meghan Tonjes - https://www.youtube.com/meghantonjes
+SuperSaf TV - https://www.youtube.com/SuperSafTV
+Merrel Twins - https://www.youtube.com/merrelltwins
+Rosanna Pansino - https://www.youtube.com/RosannaPansino
+iJustine - https://www.youtube.com/ijustine
+h3h3 Productions - https://www.youtube.com/h3h3productions
+Furious Pete - https://www.youtube.com/furiouspete
+David Dobrik - https://www.youtube.com/daviddobrik
+Unbox Therapy - https://www.youtube.com/unboxtherapy
+Quentin Kenihan - https://www.youtube.com/qkenihan
+Mislav Mironovic - https://www.youtube.com/channel/UCIcfHSWce_4qQ0MTTx-JJ0g</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=jG7dSXcfVqE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jG7dSXcfVqE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jG7dSXcfVqE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jG7dSXcfVqE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jG7dSXcfVqE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jG7dSXcfVqE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jG7dSXcfVqE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jG7dSXcfVqE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>DO WHAT YOU CAN&apos;T</media:title>
+			<yt:duration seconds='232'/>
+	        <yt:uploaded>2025-08-07T14:43:54</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>jG7dSXcfVqE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='16377054'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:bzE-IMaegzQ</id>
+		<published>2025-08-07T14:43:54</published>
+		<updated>2025-08-07T14:43:54</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Bike Lanes by Casey Neistat</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/bzE-IMaegzQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=bzE-IMaegzQ&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/bzE-IMaegzQ/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=bzE-IMaegzQ'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/bzE-IMaegzQ?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/bzE-IMaegzQ/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/bzE-IMaegzQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=bzE-IMaegzQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=bzE-IMaegzQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=bzE-IMaegzQ' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>follow me on snapchat - caseyneistat
+
+check out my second channel - https://www.youtube.com/snapstories
+
+on http://instagram.com/caseyneistat
+on https://www.facebook.com/cneistat
+on https://twitter.com/CaseyNeistat</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=bzE-IMaegzQ&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bzE-IMaegzQ/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bzE-IMaegzQ/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bzE-IMaegzQ/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bzE-IMaegzQ/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bzE-IMaegzQ/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bzE-IMaegzQ/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bzE-IMaegzQ/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Bike Lanes by Casey Neistat</media:title>
+			<yt:duration seconds='183'/>
+	        <yt:uploaded>2025-08-07T14:43:54</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>bzE-IMaegzQ</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='30532404'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:jU7rhVub0rU</id>
+		<published>2025-08-07T14:43:54</published>
+		<updated>2025-08-07T14:43:54</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>what would you do with $25,000?</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/jU7rhVub0rU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=jU7rhVub0rU&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/jU7rhVub0rU/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=jU7rhVub0rU'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/jU7rhVub0rU?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/jU7rhVub0rU/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/jU7rhVub0rU?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=jU7rhVub0rU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=jU7rhVub0rU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=jU7rhVub0rU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>help the children affected by typhoon Haiyan by giving to Unicef http://tinyurl.com/lt32ruk
+
+https://www.instagram.com/caseyneistat
+https://www.twitter.com/CaseyNeistat
+https://www.facebook.com/cneistat
+
+no crew traveled with us, it was just Oscar and me.  we filmed this ourselves, with a tripod, using my personal cameras.
+
+the whole story; i often get solicitations for work, all kinds of companies, people, organizations etc asking if i would be interested in making a video for them.  i was really concerned after the typhoon, as anyone with a heartbeat was.  left with the frustration and guilt i often feel when i learn of other people suffering, a guilt for not being able to help more.  i had made donations but it&apos;s hard to see or feel the effects of ones contributions.  a few days later i was contacted by 20th Century Fox, they wanted to know if i could make a promotional film to get the word out about Ben Stiller&apos;s great new movie The Secret Life of Walter Mitty.  Mitty is a movie about chasing a dream and they wanted me to make a movie about chasing a dream.  I am a big dreamer but at that time only one thing came to mind; if i could do anything in the world right now what would it be?  that&apos;s to help the victims of the typhoon.  i, someone crassly, replied to 20th Century Fox that the only movie i wanted to make is one where i give away the budget to those in need.  i still don&apos;t understand how or why but they agreed.  i jumped on a plane with my best friend and fellow adventurer Oscar and we flew to Manila.  there was little time to think or plan before we left, actually we did zero planning before we left.  my original thought was that we&apos;d connect with an NGO already in place, a non-profit that&apos;s already doing a lot of good, and i&apos;d simply hand them a check.  but that turned out complicated and it sort of felt like the non-profits we contacted did not want to link up with us.  so on a whim we decided to launch our very own relief mission.  it was complicated and at first improbable but with the help of an extremely loving group of locals, all who were total strangers, we were able to stretch the production budget really far.  beyond the food distributed in the video we also worked with a local nurse and purchased a lot of medicine and medical supplies, as well as providing tools to village leaders to be shared within the village and aid in the rebuilding process.  
+
+never have i met such people with the resilience of these typhoon victims.  there was one thing that stuck out, one big huge tiny thing, that was; of everyone we were face to face with, thousands of people, not once, at anytime for any reason did anyone complain.  no one.  their focus was on rebuilding and healing, not sympathy.
+
+big thank you to Fox and Ben Stiller for not freaking the fuck out when they saw what i did with their money.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=jU7rhVub0rU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jU7rhVub0rU/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jU7rhVub0rU/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jU7rhVub0rU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jU7rhVub0rU/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jU7rhVub0rU/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jU7rhVub0rU/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jU7rhVub0rU/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>what would you do with $25,000?</media:title>
+			<yt:duration seconds='404'/>
+	        <yt:uploaded>2025-08-07T14:43:54</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>jU7rhVub0rU</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='7825811'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:3-Mg75awALA</id>
+		<published>2025-08-07T14:43:55</published>
+		<updated>2025-08-07T14:43:55</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>the surprise in South Africa by Casey Neistat</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/3-Mg75awALA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=3-Mg75awALA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/3-Mg75awALA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=3-Mg75awALA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/3-Mg75awALA?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/3-Mg75awALA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/3-Mg75awALA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=3-Mg75awALA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=3-Mg75awALA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=3-Mg75awALA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>she had no idea
+
+follow me on snapchat; caseyneistat
+on http://instagram.com/caseyneistat
+on https://www.facebook.com/cneistat
+on https://twitter.com/CaseyNeistat
+
+first song is;  &apos;see you all&apos; by Koudlam
+other song is; &apos;what are you doing new year&apos;s eve?&apos; by Nancy Wilson, performed by Zooey Deschanel and Joseph Gordon-Levitt</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=3-Mg75awALA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3-Mg75awALA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3-Mg75awALA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3-Mg75awALA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3-Mg75awALA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3-Mg75awALA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3-Mg75awALA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/3-Mg75awALA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>the surprise in South Africa by Casey Neistat</media:title>
+			<yt:duration seconds='399'/>
+	        <yt:uploaded>2025-08-07T14:43:55</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>3-Mg75awALA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='10692095'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:UGttmR2DTY8</id>
+		<published>2025-08-07T14:43:55</published>
+		<updated>2025-08-07T14:43:55</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Bike Thief 2012</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/UGttmR2DTY8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=UGttmR2DTY8&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/UGttmR2DTY8/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=UGttmR2DTY8'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/UGttmR2DTY8?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/UGttmR2DTY8/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/UGttmR2DTY8?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=UGttmR2DTY8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=UGttmR2DTY8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=UGttmR2DTY8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>like me on https://www.facebook.com/cneistat
+
+social study on bike theft in New York City.  Casey Neistat &amp; The New York Times
+
+original post and Opinion piece here  http://nyti.ms/xW8Zcv</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=UGttmR2DTY8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UGttmR2DTY8/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UGttmR2DTY8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UGttmR2DTY8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UGttmR2DTY8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UGttmR2DTY8/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UGttmR2DTY8/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/UGttmR2DTY8/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Bike Thief 2012</media:title>
+			<yt:duration seconds='227'/>
+	        <yt:uploaded>2025-08-07T14:43:55</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>UGttmR2DTY8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='3881798'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:t9qxT8wI-0I</id>
+		<published>2025-08-07T14:43:55</published>
+		<updated>2025-08-07T14:43:55</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Travel With Style - Casey Neistat for J.Crew</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/t9qxT8wI-0I?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=t9qxT8wI-0I&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/t9qxT8wI-0I/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=t9qxT8wI-0I'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/t9qxT8wI-0I?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/t9qxT8wI-0I/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/t9qxT8wI-0I?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=t9qxT8wI-0I' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=t9qxT8wI-0I' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=t9qxT8wI-0I' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>i made this movie for J.Crew&apos;s Ludlow Traveler (that&apos;s the name of the suit)  go to their website and buy it.  or buy something else.  www.jcrew.com/jcrewonfilm
+
+does anyone read the description?</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=t9qxT8wI-0I&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/t9qxT8wI-0I/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/t9qxT8wI-0I/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/t9qxT8wI-0I/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/t9qxT8wI-0I/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/t9qxT8wI-0I/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/t9qxT8wI-0I/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/t9qxT8wI-0I/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Travel With Style - Casey Neistat for J.Crew</media:title>
+			<yt:duration seconds='200'/>
+	        <yt:uploaded>2025-08-07T14:43:55</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>t9qxT8wI-0I</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='4598095'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:ZFMa_kAANGE</id>
+		<published>2025-08-07T14:43:55</published>
+		<updated>2025-08-07T14:43:55</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Crazy German Water Park</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/ZFMa_kAANGE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=ZFMa_kAANGE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/ZFMa_kAANGE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=ZFMa_kAANGE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/ZFMa_kAANGE?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/ZFMa_kAANGE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/ZFMa_kAANGE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=ZFMa_kAANGE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=ZFMa_kAANGE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=ZFMa_kAANGE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>follow me on snapchat - caseyneistat
+
+on http://instagram.com/caseyneistat
+on https://www.facebook.com/cneistat
+on https://twitter.com/CaseyNeistat</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=ZFMa_kAANGE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZFMa_kAANGE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZFMa_kAANGE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZFMa_kAANGE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZFMa_kAANGE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZFMa_kAANGE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZFMa_kAANGE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZFMa_kAANGE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Crazy German Water Park</media:title>
+			<yt:duration seconds='195'/>
+	        <yt:uploaded>2025-08-07T14:43:55</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>ZFMa_kAANGE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='21833185'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:rRwcIumf-mI</id>
+		<published>2025-08-07T14:43:55</published>
+		<updated>2025-08-07T14:43:55</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Dark Side of the iPhone 5S Lines</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/rRwcIumf-mI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=rRwcIumf-mI&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/rRwcIumf-mI/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=rRwcIumf-mI'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/rRwcIumf-mI?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/rRwcIumf-mI/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/rRwcIumf-mI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=rRwcIumf-mI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=rRwcIumf-mI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=rRwcIumf-mI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>i waited in line for 10 hours for the first iPhone, also waited in line, outside the mall, in 1999 for the Sega Dreamcast.  it&apos;s like tailgating. being excited about something and letting that excitement grow along side similarly minded people.  when i went out for the 5S launch i found a lot of that excitement and enthusiasm but i also found a lot of tired anxious people who were waiting in line for reasons other than their own desire for a product.  that was a little bothersome.  the scene at the apple store just before the phones release was also a sight i&apos;d never experienced.  beyond excitement it was closer to hysteria.  encouraged by hundreds of equally hysterical employees in blue shirts.  at the peak of that hysteria i stopped and reminded myself what the impetus was for all of this; a new phone.  that warranted a head shake and an eye roll.  it&apos;s fun to get excited about something, no matter how ridiculous it may seem.  i went to the superbowl once and when the patriots lost my best friend started crying.  i can understand sleeping on the street for a new toy more than i can crying over a professional sports game.. it takes all kinds i suppose.
+
+follow me on http://instagram.com/caseyneistat
+
+I made this with my friend gabriel nussbaum,
+check out his work http://www.bankstreetfilms.com/Home.html</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=rRwcIumf-mI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rRwcIumf-mI/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rRwcIumf-mI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rRwcIumf-mI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rRwcIumf-mI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rRwcIumf-mI/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rRwcIumf-mI/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rRwcIumf-mI/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Dark Side of the iPhone 5S Lines</media:title>
+			<yt:duration seconds='359'/>
+	        <yt:uploaded>2025-08-07T14:43:55</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>rRwcIumf-mI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='8469492'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:kfIc944bSJ8</id>
+		<published>2025-08-07T14:43:55</published>
+		<updated>2025-08-07T14:43:55</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>A Love Story 8 Years in the Making</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/kfIc944bSJ8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=kfIc944bSJ8&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/kfIc944bSJ8/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=kfIc944bSJ8'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/kfIc944bSJ8?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/kfIc944bSJ8/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/kfIc944bSJ8?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=kfIc944bSJ8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=kfIc944bSJ8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=kfIc944bSJ8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>find the original song &quot;Talk&quot; by Henry Hall here:
+https://soundcloud.com/henry_hall/talk-demo
+
+Like Henry on Facebook:
+https://www.facebook.com/henryhallmusic
+check out his latest music video here -- https://www.youtube.com/watch?v=bYPF3HdCQmo
+
+Outro instrumental by Max Barbaria and Henry Hall.
+Check out more stuff by Max here:
+https://www.youtube.com/watch?v=KNzsvV8KtZE
+
+wedding footage provided by Henroux at www.fjs.co.za</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=kfIc944bSJ8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kfIc944bSJ8/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kfIc944bSJ8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kfIc944bSJ8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kfIc944bSJ8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kfIc944bSJ8/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kfIc944bSJ8/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kfIc944bSJ8/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>A Love Story 8 Years in the Making</media:title>
+			<yt:duration seconds='323'/>
+	        <yt:uploaded>2025-08-07T14:43:55</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>kfIc944bSJ8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='11319053'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Ef_BznBwktw</id>
+		<published>2025-08-07T14:43:56</published>
+		<updated>2025-08-07T14:43:56</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Black Market Takes Over the iPhone 6 Lines</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Ef_BznBwktw?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Ef_BznBwktw&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/Ef_BznBwktw/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Ef_BznBwktw'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/Ef_BznBwktw?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/Ef_BznBwktw/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/Ef_BznBwktw?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Ef_BznBwktw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=Ef_BznBwktw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=Ef_BznBwktw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>Some thoughts from me (the guy who made this movie).  I am a big tech nerd.  I slept on the streets to get the very first iPhone, when I was a teenager I would wait all night at the mall for a new video game.  For the 2013 launch of the iPhone 5s I made a short video about the lines in NYC, most of the video was of enthusiastic Apple fans, not unlike myself, eagerly waiting to get their hands on the new iPhone.  There was also a percentage of line sitters that lacked all enthusiasm, one in particular was asleep with her head inside of a garbage bag.  Those images bothered me, they were also the most talked about aspect of that 4 minute video.  For this year&apos;s iPhone 6 launch my intention was to cover that aspect of the story - sitters there for reasons other than their enthusiasm for the product.  
+
+I don&apos;t think Apple, the community or any of the people in line for any reason were doing anything wrong.  I attribute no fault for the bleak circumstances captured in this video.  If there is an opportunity for easy gains by reselling the phones then by all means do it.  I, also, cannot imagine Apple anticipated this or they would&apos;ve better considered the roll out (they thought of everything else, including coffee for the people waiting outside).  
+
+There should be better consideration of how to prevent a system that benefits those willing to sleep on the streets, near garbage, tolerating verbal abuse. 
+
+I empathize with the ambitions of those willing to sit in line to earn.  Since making the video I have read a number of stories about the iPhone 6 selling for 3 or 4 times it&apos;s cost. 
+
+Read more about the iPhone 6 Black Market in this Washington Post Article  - http://wapo.st/1uY2td5
+
+This is another great article substantiating a lot of what&apos;s seen in this video -- http://appleinsider.com/articles/14/09/22/profiteers-flipping-iphone-6-units-to-chinese-reportedly-to-blame-for-fight-at-apple-store
+
+
+ADD ME ON SNAPCHAT - caseyneistat 
+
+Please check out Aaron (our translator in the movie)
+his twitter is @erinreiss
+yellowmountainmaps.com
+he&apos;s a brilliant artist
+
+https://twitter.com/CaseyNeistat
+https://instagram.com/caseyneistat
+https://www.facebook.com/cneistat</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Ef_BznBwktw&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ef_BznBwktw/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ef_BznBwktw/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ef_BznBwktw/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ef_BznBwktw/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ef_BznBwktw/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ef_BznBwktw/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ef_BznBwktw/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Black Market Takes Over the iPhone 6 Lines</media:title>
+			<yt:duration seconds='386'/>
+	        <yt:uploaded>2025-08-07T14:43:56</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>Ef_BznBwktw</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='6101222'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:MAZRqzcZRKo</id>
+		<published>2025-08-07T14:43:56</published>
+		<updated>2025-08-07T14:43:56</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Planned Obsolescence and the Death of Great Products</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/MAZRqzcZRKo?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=MAZRqzcZRKo&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/MAZRqzcZRKo/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=MAZRqzcZRKo'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/MAZRqzcZRKo?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/MAZRqzcZRKo/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/MAZRqzcZRKo?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=MAZRqzcZRKo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=MAZRqzcZRKo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=MAZRqzcZRKo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>music from; https://hyperfollow.com/bluewednesday
+music from; https://linktr.ee/jeffkaale_</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=MAZRqzcZRKo&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/MAZRqzcZRKo/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/MAZRqzcZRKo/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/MAZRqzcZRKo/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/MAZRqzcZRKo/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/MAZRqzcZRKo/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/MAZRqzcZRKo/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/MAZRqzcZRKo/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Planned Obsolescence and the Death of Great Products</media:title>
+			<yt:duration seconds='717'/>
+	        <yt:uploaded>2025-08-07T14:43:56</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>MAZRqzcZRKo</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='719952'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:EnhXwiPC3rE</id>
+		<published>2025-08-07T14:43:56</published>
+		<updated>2025-08-07T14:43:56</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>New York City Lunch Crisis</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/EnhXwiPC3rE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=EnhXwiPC3rE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/EnhXwiPC3rE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=EnhXwiPC3rE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/EnhXwiPC3rE?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/EnhXwiPC3rE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/EnhXwiPC3rE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=EnhXwiPC3rE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=EnhXwiPC3rE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=EnhXwiPC3rE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>JORDAN!!! -- https://www.youtube.com/@UCPjHhJ3fxgcV5Gv5uVAhNEA</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=EnhXwiPC3rE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EnhXwiPC3rE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EnhXwiPC3rE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EnhXwiPC3rE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EnhXwiPC3rE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EnhXwiPC3rE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EnhXwiPC3rE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EnhXwiPC3rE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>New York City Lunch Crisis</media:title>
+			<yt:duration seconds='444'/>
+	        <yt:uploaded>2025-08-07T14:43:56</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>EnhXwiPC3rE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1766829'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Ud2BcD5NC2A</id>
+		<published>2025-08-07T14:43:56</published>
+		<updated>2025-08-07T14:43:56</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The IMPOSSIBLE Camera</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Ud2BcD5NC2A?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Ud2BcD5NC2A&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/Ud2BcD5NC2A/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Ud2BcD5NC2A'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ/uploads/Ud2BcD5NC2A?v=2'/>
+		<author>
+			<name>CaseyNeistat</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCtinbF-Q-fVthA0qrFQTgXQ</uri>
+			<yt:userId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/Ud2BcD5NC2A/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/Ud2BcD5NC2A?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Ud2BcD5NC2A' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=Ud2BcD5NC2A' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=Ud2BcD5NC2A' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='CaseyNeistat' yt:type='partner'>UCtinbF-Q-fVthA0qrFQTgXQ</media:credit>
+			<media:description type='plain'>the first 100 people to buy the X5 with this link get a free lens replacement kit - https://www.insta360.com/sal/x5?utm_term=INR9A3R&amp;utm_source=youtube&amp;utm_medium=KOL&amp;utm_campaign=CaseyNeistat&amp;utm_content=date20250422X5Launch
+
+
+Music by Mickey Bright (i dont have a link for him and he hasnt responded to my email yet)</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Ud2BcD5NC2A&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ud2BcD5NC2A/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ud2BcD5NC2A/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ud2BcD5NC2A/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ud2BcD5NC2A/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ud2BcD5NC2A/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ud2BcD5NC2A/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ud2BcD5NC2A/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The IMPOSSIBLE Camera</media:title>
+			<yt:duration seconds='641'/>
+	        <yt:uploaded>2025-08-07T14:43:56</yt:uploaded>
+			<yt:uploaderId>EEUCtinbF-Q-fVthA0qrFQTgXQ</yt:uploaderId>
+			<yt:videoid>Ud2BcD5NC2A</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1465478'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>

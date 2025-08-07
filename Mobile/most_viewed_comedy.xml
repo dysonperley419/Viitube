@@ -1,0 +1,1039 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:2qAGJ0uwqXY</id>
+		<published>2025-08-07T14:38:20</published>
+		<updated>2025-08-07T14:38:20</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Food Delivery? Uh, Kinda. It&apos;s ShareYerEats (ft. @Anwar)</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/2qAGJ0uwqXY?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=2qAGJ0uwqXY&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/2qAGJ0uwqXY/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=2qAGJ0uwqXY'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/2qAGJ0uwqXY?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/2qAGJ0uwqXY/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/2qAGJ0uwqXY?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=2qAGJ0uwqXY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=2qAGJ0uwqXY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=2qAGJ0uwqXY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>Freshness not guaranteed, It&apos;s ShareYerEats.
+
+Comedy Central is under the influence of @Anwar starting Wednesday, 4/5 through Thursday, 4/27! Watch every video featuring Anwar right here: https://bit.ly/3L4CGPt
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#ComedyCentral #Anwar
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=2qAGJ0uwqXY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2qAGJ0uwqXY/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2qAGJ0uwqXY/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2qAGJ0uwqXY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2qAGJ0uwqXY/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2qAGJ0uwqXY/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2qAGJ0uwqXY/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2qAGJ0uwqXY/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Food Delivery? Uh, Kinda. It&apos;s ShareYerEats (ft. @Anwar)</media:title>
+			<yt:duration seconds='111'/>
+	        <yt:uploaded>2025-08-07T14:38:20</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>2qAGJ0uwqXY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='186472'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:ZQmJY7KPXXs</id>
+		<published>2025-08-07T14:38:20</published>
+		<updated>2025-08-07T14:38:20</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>@Anwar Reads &quot;Goodnight Earth,&quot; A New, Horrifying Children&apos;s Book</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/ZQmJY7KPXXs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=ZQmJY7KPXXs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/ZQmJY7KPXXs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=ZQmJY7KPXXs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/ZQmJY7KPXXs?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/ZQmJY7KPXXs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/ZQmJY7KPXXs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=ZQmJY7KPXXs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=ZQmJY7KPXXs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=ZQmJY7KPXXs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>Nice planet ya got there, would be a shame if something happened to it. Featuring @Anwar Jibawi
+
+Comedy Central is under the influence of @Anwar starting Wednesday, 4/5 through Thursday, 4/27
+! Watch every video featuring Anwar right here: https://bit.ly/3L4CGPt
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#ComedyCentral #AnwarJibawi
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=ZQmJY7KPXXs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZQmJY7KPXXs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZQmJY7KPXXs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZQmJY7KPXXs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZQmJY7KPXXs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZQmJY7KPXXs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZQmJY7KPXXs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZQmJY7KPXXs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>@Anwar Reads &quot;Goodnight Earth,&quot; A New, Horrifying Children&apos;s Book</media:title>
+			<yt:duration seconds='148'/>
+	        <yt:uploaded>2025-08-07T14:38:20</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>ZQmJY7KPXXs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='83607'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:gSojwTO5QZs</id>
+		<published>2025-08-07T14:38:21</published>
+		<updated>2025-08-07T14:38:21</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Our Rich Friend (ft. @Anwar ) – Music Video 🎵</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/gSojwTO5QZs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=gSojwTO5QZs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/gSojwTO5QZs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=gSojwTO5QZs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/gSojwTO5QZs?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/gSojwTO5QZs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/gSojwTO5QZs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=gSojwTO5QZs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=gSojwTO5QZs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=gSojwTO5QZs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>Don’t eat the rich, befriend them. Featuring @Anwar and Rose Kelso (https://www.tiktok.com/@longislanddirt_?lang=en).
+
+Comedy Central is under the influence of @Anwar starting Wednesday, 4/5 through Thursday, 4/27! Watch every video featuring Anwar right here: https://bit.ly/3L4CGPt
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#ComedyCentral 
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=gSojwTO5QZs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/gSojwTO5QZs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/gSojwTO5QZs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/gSojwTO5QZs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/gSojwTO5QZs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/gSojwTO5QZs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/gSojwTO5QZs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/gSojwTO5QZs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Our Rich Friend (ft. @Anwar ) – Music Video 🎵</media:title>
+			<yt:duration seconds='126'/>
+	        <yt:uploaded>2025-08-07T14:38:21</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>gSojwTO5QZs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='84142'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:rQeyuq5pHQU</id>
+		<published>2025-08-07T14:38:21</published>
+		<updated>2025-08-07T14:38:21</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Overly Immersive Movie Theater (ft. @Anwar) – Mini-Mocks</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/rQeyuq5pHQU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=rQeyuq5pHQU&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/rQeyuq5pHQU/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=rQeyuq5pHQU'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/rQeyuq5pHQU?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/rQeyuq5pHQU/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/rQeyuq5pHQU?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=rQeyuq5pHQU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=rQeyuq5pHQU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=rQeyuq5pHQU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>It’s time to go back to the movies. This overly immersive theater is changing the game. Featuring Anwar Jibawi. #minimocks 
+
+Comedy Central is under the influence of @Anwar starting Wednesday, 4/5 through Wednesday, 4/26! Stay tuned for new releases featuring Anwar Jibawi every Wednesday right here on Comedy Central. 
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#ComedyCentral 
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=rQeyuq5pHQU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rQeyuq5pHQU/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rQeyuq5pHQU/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rQeyuq5pHQU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rQeyuq5pHQU/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rQeyuq5pHQU/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rQeyuq5pHQU/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/rQeyuq5pHQU/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Overly Immersive Movie Theater (ft. @Anwar) – Mini-Mocks</media:title>
+			<yt:duration seconds='141'/>
+	        <yt:uploaded>2025-08-07T14:38:21</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>rQeyuq5pHQU</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='258646'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:IOtfQ7dMc3Q</id>
+		<published>2025-08-07T14:38:21</published>
+		<updated>2025-08-07T14:38:21</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>&quot;Look at what you&apos;ve done!&quot; | #chrispratt #shorts #supermariobros</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/IOtfQ7dMc3Q?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=IOtfQ7dMc3Q&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/IOtfQ7dMc3Q/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=IOtfQ7dMc3Q'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/IOtfQ7dMc3Q?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/IOtfQ7dMc3Q/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/IOtfQ7dMc3Q?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=IOtfQ7dMc3Q' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=IOtfQ7dMc3Q' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=IOtfQ7dMc3Q' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=IOtfQ7dMc3Q&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IOtfQ7dMc3Q/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IOtfQ7dMc3Q/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IOtfQ7dMc3Q/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IOtfQ7dMc3Q/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IOtfQ7dMc3Q/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IOtfQ7dMc3Q/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IOtfQ7dMc3Q/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>&quot;Look at what you&apos;ve done!&quot; | #chrispratt #shorts #supermariobros</media:title>
+			<yt:duration seconds='53'/>
+	        <yt:uploaded>2025-08-07T14:38:21</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>IOtfQ7dMc3Q</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='48728'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:HhEX_b_lHsI</id>
+		<published>2025-08-07T14:38:21</published>
+		<updated>2025-08-07T14:38:21</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Chris Pratt Puts His Super Mario Bros. Movie Plumbing Knowledge to the Test</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/HhEX_b_lHsI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=HhEX_b_lHsI&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/HhEX_b_lHsI/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=HhEX_b_lHsI'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/HhEX_b_lHsI?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/HhEX_b_lHsI/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/HhEX_b_lHsI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=HhEX_b_lHsI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=HhEX_b_lHsI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=HhEX_b_lHsI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>These pipes won’t unclog themselves. Chris Pratt puts his Super Mario Bros. Movie training to the test.
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#ChrisPratt #ComedyCentral #JoshHorowitz #SuperMarioBrosMovie 
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=HhEX_b_lHsI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HhEX_b_lHsI/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HhEX_b_lHsI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HhEX_b_lHsI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HhEX_b_lHsI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HhEX_b_lHsI/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HhEX_b_lHsI/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/HhEX_b_lHsI/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Chris Pratt Puts His Super Mario Bros. Movie Plumbing Knowledge to the Test</media:title>
+			<yt:duration seconds='226'/>
+	        <yt:uploaded>2025-08-07T14:38:21</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>HhEX_b_lHsI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='23740'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:6hNE97V50vw</id>
+		<published>2025-08-07T14:38:21</published>
+		<updated>2025-08-07T14:38:21</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Keegan-Michael Key Got VERY Into Character Playing Toad in The Super Mario Bros. Movie</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/6hNE97V50vw?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=6hNE97V50vw&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/6hNE97V50vw/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=6hNE97V50vw'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/6hNE97V50vw?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/6hNE97V50vw/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/6hNE97V50vw?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=6hNE97V50vw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=6hNE97V50vw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=6hNE97V50vw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>Keegan-Michael Key got so deep into character for The Super Mario Bros. Movie it freaked out his costars and Josh Horowitz.
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#KeeganMichaelKey #ComedyCentral #JoshHorowitz #SuperMarioBrosMovie 
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=6hNE97V50vw&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6hNE97V50vw/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6hNE97V50vw/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6hNE97V50vw/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6hNE97V50vw/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6hNE97V50vw/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6hNE97V50vw/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6hNE97V50vw/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Keegan-Michael Key Got VERY Into Character Playing Toad in The Super Mario Bros. Movie</media:title>
+			<yt:duration seconds='317'/>
+	        <yt:uploaded>2025-08-07T14:38:21</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>6hNE97V50vw</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='77488'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:F6fGuZ0R2Z4</id>
+		<published>2025-08-07T14:38:21</published>
+		<updated>2025-08-07T14:38:21</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Chris Pine Reacts to Dungeons &amp; Dragons-Inspired Looks for Himself - The Untitled Josh Horowitz Show</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/F6fGuZ0R2Z4?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=F6fGuZ0R2Z4&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/F6fGuZ0R2Z4/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=F6fGuZ0R2Z4'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/F6fGuZ0R2Z4?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/F6fGuZ0R2Z4/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/F6fGuZ0R2Z4?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=F6fGuZ0R2Z4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=F6fGuZ0R2Z4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=F6fGuZ0R2Z4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>Josh Horowitz tests Dungeons &amp; Dragons star Chris Pine’s patience, with cosplay fashions and some mythic scenarios.
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#ComedyCentral #JoshHorowitz #ChrisPine #DungeonsAndDragons
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=F6fGuZ0R2Z4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/F6fGuZ0R2Z4/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/F6fGuZ0R2Z4/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/F6fGuZ0R2Z4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/F6fGuZ0R2Z4/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/F6fGuZ0R2Z4/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/F6fGuZ0R2Z4/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/F6fGuZ0R2Z4/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Chris Pine Reacts to Dungeons &amp; Dragons-Inspired Looks for Himself - The Untitled Josh Horowitz Show</media:title>
+			<yt:duration seconds='318'/>
+	        <yt:uploaded>2025-08-07T14:38:21</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>F6fGuZ0R2Z4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='21996'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:DAZNFeeZo_o</id>
+		<published>2025-08-07T14:38:21</published>
+		<updated>2025-08-07T14:38:21</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>&quot;You don&apos;t know that!&quot; &quot;Yeah, I do!&quot; | #KevinHart #MarkWahlberg #Shorts</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/DAZNFeeZo_o?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=DAZNFeeZo_o&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/DAZNFeeZo_o/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=DAZNFeeZo_o'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/DAZNFeeZo_o?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/DAZNFeeZo_o/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/DAZNFeeZo_o?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=DAZNFeeZo_o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=DAZNFeeZo_o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=DAZNFeeZo_o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=DAZNFeeZo_o&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DAZNFeeZo_o/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DAZNFeeZo_o/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DAZNFeeZo_o/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DAZNFeeZo_o/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DAZNFeeZo_o/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DAZNFeeZo_o/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/DAZNFeeZo_o/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>&quot;You don&apos;t know that!&quot; &quot;Yeah, I do!&quot; | #KevinHart #MarkWahlberg #Shorts</media:title>
+			<yt:duration seconds='58'/>
+	        <yt:uploaded>2025-08-07T14:38:21</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>DAZNFeeZo_o</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='32321'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:uxKq4VF_umc</id>
+		<published>2025-08-07T14:38:22</published>
+		<updated>2025-08-07T14:38:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Allison Williams Loses Control of Her Interview A.I Bot – The Untitled Josh Horowitz Show</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/uxKq4VF_umc?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=uxKq4VF_umc&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/uxKq4VF_umc/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=uxKq4VF_umc'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/uxKq4VF_umc?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/uxKq4VF_umc/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/uxKq4VF_umc?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=uxKq4VF_umc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=uxKq4VF_umc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=uxKq4VF_umc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>Allison Williams took some inspiration from #M3GAN to get through repetitive interviews and Josh Horowitz was her guinea pig.
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#ComedyCentral #M3gan #JoshHorowitz #AllisonWilliams
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=uxKq4VF_umc&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uxKq4VF_umc/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uxKq4VF_umc/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uxKq4VF_umc/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uxKq4VF_umc/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uxKq4VF_umc/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uxKq4VF_umc/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uxKq4VF_umc/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Allison Williams Loses Control of Her Interview A.I Bot – The Untitled Josh Horowitz Show</media:title>
+			<yt:duration seconds='238'/>
+	        <yt:uploaded>2025-08-07T14:38:22</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>uxKq4VF_umc</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='31636'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:wLkw8-1lwAo</id>
+		<published>2025-08-07T14:38:22</published>
+		<updated>2025-08-07T14:38:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Millie Bobby Brown Gets Pitched Roles in Unexpected Sequels From Josh Horowitz</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/wLkw8-1lwAo?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=wLkw8-1lwAo&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/wLkw8-1lwAo/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=wLkw8-1lwAo'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/wLkw8-1lwAo?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/wLkw8-1lwAo/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/wLkw8-1lwAo?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=wLkw8-1lwAo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=wLkw8-1lwAo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=wLkw8-1lwAo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>With Enola Holmes 2 hitting streaming, Millie Bobby Brown takes some offers for new sequels from Josh Horowitz.
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#ComedyCentral #MillieBobbyBrown 
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=wLkw8-1lwAo&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wLkw8-1lwAo/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wLkw8-1lwAo/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wLkw8-1lwAo/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wLkw8-1lwAo/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wLkw8-1lwAo/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wLkw8-1lwAo/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/wLkw8-1lwAo/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Millie Bobby Brown Gets Pitched Roles in Unexpected Sequels From Josh Horowitz</media:title>
+			<yt:duration seconds='367'/>
+	        <yt:uploaded>2025-08-07T14:38:22</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>wLkw8-1lwAo</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='35971'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:ngwSbhrQk3o</id>
+		<published>2025-08-07T14:38:22</published>
+		<updated>2025-08-07T14:38:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>House of the Dragon’s Matt Smith Wigs Out with Josh Horowitz</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/ngwSbhrQk3o?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=ngwSbhrQk3o&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/ngwSbhrQk3o/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=ngwSbhrQk3o'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/ngwSbhrQk3o?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/ngwSbhrQk3o/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/ngwSbhrQk3o?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=ngwSbhrQk3o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=ngwSbhrQk3o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=ngwSbhrQk3o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>Wig out with Matt Smith and Josh Horowitz in anticipation of the House Of The Dragon finale.
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#ComedyCentral #HouseOfTheDragon
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=ngwSbhrQk3o&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ngwSbhrQk3o/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ngwSbhrQk3o/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ngwSbhrQk3o/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ngwSbhrQk3o/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ngwSbhrQk3o/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ngwSbhrQk3o/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ngwSbhrQk3o/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>House of the Dragon’s Matt Smith Wigs Out with Josh Horowitz</media:title>
+			<yt:duration seconds='211'/>
+	        <yt:uploaded>2025-08-07T14:38:22</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>ngwSbhrQk3o</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='104647'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:2Pn-Byvt9BM</id>
+		<published>2025-08-07T14:38:22</published>
+		<updated>2025-08-07T14:38:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Mark Wahlberg and Kevin Hart of “Me Time” Put Josh Horowitz Through a Merciless Trivia Challenge</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/2Pn-Byvt9BM?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=2Pn-Byvt9BM&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/2Pn-Byvt9BM/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=2Pn-Byvt9BM'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/2Pn-Byvt9BM?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/2Pn-Byvt9BM/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/2Pn-Byvt9BM?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=2Pn-Byvt9BM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=2Pn-Byvt9BM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=2Pn-Byvt9BM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>“Me Time” stars Kevin Hart and Mark Wahlberg put Josh Horowitz through the wettest trivia challenge ever.
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#ComedyCentral #MeTime
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=2Pn-Byvt9BM&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Pn-Byvt9BM/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Pn-Byvt9BM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Pn-Byvt9BM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Pn-Byvt9BM/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Pn-Byvt9BM/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Pn-Byvt9BM/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2Pn-Byvt9BM/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Mark Wahlberg and Kevin Hart of “Me Time” Put Josh Horowitz Through a Merciless Trivia Challenge</media:title>
+			<yt:duration seconds='321'/>
+	        <yt:uploaded>2025-08-07T14:38:22</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>2Pn-Byvt9BM</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='194187'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:O_q3COQ5FyY</id>
+		<published>2025-08-07T14:38:22</published>
+		<updated>2025-08-07T14:38:22</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Bullet Train’s Brad Pitt, Brian Tyree Henry &amp; Aaron Taylor-Johnson Take Josh Horowitz’s Sultry Quiz</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/O_q3COQ5FyY?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=O_q3COQ5FyY&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/O_q3COQ5FyY/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=O_q3COQ5FyY'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/O_q3COQ5FyY?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/O_q3COQ5FyY/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/O_q3COQ5FyY?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=O_q3COQ5FyY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=O_q3COQ5FyY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=O_q3COQ5FyY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>Brad Pitt, Brian Tyree Henry and Aaron Taylor-Johnson talk #BulletTrain, travel etiquette, and Brad Pitt’s history of being shirtless on camera.
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#ComedyCentral #BulletTrain
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=O_q3COQ5FyY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/O_q3COQ5FyY/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/O_q3COQ5FyY/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/O_q3COQ5FyY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/O_q3COQ5FyY/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/O_q3COQ5FyY/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/O_q3COQ5FyY/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/O_q3COQ5FyY/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Bullet Train’s Brad Pitt, Brian Tyree Henry &amp; Aaron Taylor-Johnson Take Josh Horowitz’s Sultry Quiz</media:title>
+			<yt:duration seconds='434'/>
+	        <yt:uploaded>2025-08-07T14:38:22</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>O_q3COQ5FyY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='63922'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:kBbVgrT4Slg</id>
+		<published>2025-08-07T14:38:23</published>
+		<updated>2025-08-07T14:38:23</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Joey King Does NOT Mess Around When It Comes to Role Preparation – The Untitled Josh Horowitz Show</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/kBbVgrT4Slg?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=kBbVgrT4Slg&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/kBbVgrT4Slg/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=kBbVgrT4Slg'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw/uploads/kBbVgrT4Slg?v=2'/>
+		<author>
+			<name>Comedy Central</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCUsN5ZwHx2kILm84-jPDeXw</uri>
+			<yt:userId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/kBbVgrT4Slg/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/kBbVgrT4Slg?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=kBbVgrT4Slg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=kBbVgrT4Slg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=kBbVgrT4Slg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Comedy Central' yt:type='partner'>UCUsN5ZwHx2kILm84-jPDeXw</media:credit>
+			<media:description type='plain'>Joey King needed a little help prepping for “The Princess” and “Bullet Train.” Luckily, Josh Horowitz was available.
+
+Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf
+
+#ComedyCentral #JoeyKing
+
+Subscribe to Comedy Central: https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw
+
+Watch more Comedy Central: https://www.youtube.com/comedycentral
+
+Follow Comedy Central:
+Twitter: https://twitter.com/ComedyCentral
+Facebook: https://www.facebook.com/ComedyCentral
+Instagram: https://www.instagram.com/comedycentral
+
+Watch full episodes of Comedy Central shows: http://www.cc.com/shows</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=kBbVgrT4Slg&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kBbVgrT4Slg/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kBbVgrT4Slg/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kBbVgrT4Slg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kBbVgrT4Slg/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kBbVgrT4Slg/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kBbVgrT4Slg/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/kBbVgrT4Slg/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Joey King Does NOT Mess Around When It Comes to Role Preparation – The Untitled Josh Horowitz Show</media:title>
+			<yt:duration seconds='197'/>
+	        <yt:uploaded>2025-08-07T14:38:23</yt:uploaded>
+			<yt:uploaderId>EEUCUsN5ZwHx2kILm84-jPDeXw</yt:uploaderId>
+			<yt:videoid>kBbVgrT4Slg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='36365'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>

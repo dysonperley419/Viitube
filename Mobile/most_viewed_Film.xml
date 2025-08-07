@@ -1,0 +1,917 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:fVlbhT_wW7Q</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>MARCEL ET MONSIEUR PAGNOL Bande Annonce (2025) Par le Réalisateur des Triplettes de Belleville</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/fVlbhT_wW7Q?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=fVlbhT_wW7Q&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/fVlbhT_wW7Q/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=fVlbhT_wW7Q'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/fVlbhT_wW7Q?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/fVlbhT_wW7Q/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/fVlbhT_wW7Q?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=fVlbhT_wW7Q' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=fVlbhT_wW7Q' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=fVlbhT_wW7Q' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>MARCEL ET MONSIEUR PAGNOL Bande Annonce (2025) Par le Réalisateur des Triplettes de Belleville, Sylvain Chomet
+💛 Snapchat  ➤ https://www.snapchat.com/p/1684933092515270
+📢 Ne rate pas ça ➤ https://www.youtube.com/playlist?list=PLDNK0FPXT6OxMWY3coyvd70jlVVxfLUVT
+© Wild Bunch Distribution
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=fVlbhT_wW7Q&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fVlbhT_wW7Q/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fVlbhT_wW7Q/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fVlbhT_wW7Q/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fVlbhT_wW7Q/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fVlbhT_wW7Q/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fVlbhT_wW7Q/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/fVlbhT_wW7Q/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>MARCEL ET MONSIEUR PAGNOL Bande Annonce (2025) Par le Réalisateur des Triplettes de Belleville</media:title>
+			<yt:duration seconds='68'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>fVlbhT_wW7Q</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='883'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:xTZ1hNvaTmk</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>LE ROYAUME DE FROG Bande Annonce (2025)</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/xTZ1hNvaTmk?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=xTZ1hNvaTmk&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/xTZ1hNvaTmk/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=xTZ1hNvaTmk'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/xTZ1hNvaTmk?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/xTZ1hNvaTmk/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/xTZ1hNvaTmk?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=xTZ1hNvaTmk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=xTZ1hNvaTmk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=xTZ1hNvaTmk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>LE ROYAUME DE FROG Bande Annonce VF (2025) Film d&apos;Animation
+💛 Snapchat  ➤ https://www.snapchat.com/p/1684933092515270
+📢 Ne rate pas ça ➤ https://www.youtube.com/playlist?list=PLDNK0FPXT6OxMWY3coyvd70jlVVxfLUVT
+Lorsque son père, le Roi Frog annonce que le gagnant des Froglympics d&apos;hiver obtiendra la main de sa fille en récompense, celle-ci décide de s&apos;enfuir. Sous une autre identité, elle rencontre Freddie, avec qui elle s&apos;entraîne pour concourir aux Froglympics, déterminée à les remporter pour faire échouer le plan de son père.
+
+© Factoris Films
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=xTZ1hNvaTmk&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xTZ1hNvaTmk/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xTZ1hNvaTmk/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xTZ1hNvaTmk/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xTZ1hNvaTmk/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xTZ1hNvaTmk/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xTZ1hNvaTmk/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/xTZ1hNvaTmk/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>LE ROYAUME DE FROG Bande Annonce (2025)</media:title>
+			<yt:duration seconds='132'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>xTZ1hNvaTmk</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1320'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Xs28NO-08G0</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Spy kids VS Magna Men | Spy kids 2: Espions en herbe | Extrait VF</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Xs28NO-08G0?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Xs28NO-08G0&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/Xs28NO-08G0/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Xs28NO-08G0'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/Xs28NO-08G0?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/Xs28NO-08G0/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/Xs28NO-08G0?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Xs28NO-08G0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=Xs28NO-08G0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=Xs28NO-08G0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>Ne cherchez pas les problèmes avec les Spy Kids !
+🔥 Le film complet dispo à l&apos;achat ICI  ➤ https://www.primevideo.com/detail/0HQF3L3PCW8XNFFWC63ETLKPRV
+✔️ Rejoins-nous sur Facebook  ➤  https://www.facebook.com/108262098028677
+Titre du Film : Spy kids 2: Espions en herbe
+© Paramount Pictures
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Xs28NO-08G0&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Xs28NO-08G0/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Xs28NO-08G0/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Xs28NO-08G0/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Xs28NO-08G0/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Xs28NO-08G0/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Xs28NO-08G0/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Xs28NO-08G0/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Spy kids VS Magna Men | Spy kids 2: Espions en herbe | Extrait VF</media:title>
+			<yt:duration seconds='200'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>Xs28NO-08G0</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='585'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:AD_t5wRO5AM</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Délivre nous Intro Epique | Le Prince d&apos;Égypte | Extrait VF</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/AD_t5wRO5AM?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=AD_t5wRO5AM&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/AD_t5wRO5AM/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=AD_t5wRO5AM'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/AD_t5wRO5AM?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/AD_t5wRO5AM/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/AD_t5wRO5AM?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=AD_t5wRO5AM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=AD_t5wRO5AM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=AD_t5wRO5AM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>Pour un film pour enfant Le Prince d&apos;Egypte disait les termes
+🔥 Le film complet dispo à l&apos;achat ICI  ➤ https://www.primevideo.com/detail/0NLSG4976GIZWF51M0VKJY9UEI
+✔️ Rejoins-nous sur Facebook  ➤  https://www.facebook.com/108262098028677
+Titre du Film : Le Prince d&apos;Égypte
+© Universal Pictures
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=AD_t5wRO5AM&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/AD_t5wRO5AM/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/AD_t5wRO5AM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/AD_t5wRO5AM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/AD_t5wRO5AM/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/AD_t5wRO5AM/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/AD_t5wRO5AM/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/AD_t5wRO5AM/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Délivre nous Intro Epique | Le Prince d&apos;Égypte | Extrait VF</media:title>
+			<yt:duration seconds='391'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>AD_t5wRO5AM</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='2598'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:tCN2x4CIhEg</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Madagascar 3: Les Scènes les plus Drôles 🌀 4K</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/tCN2x4CIhEg?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=tCN2x4CIhEg&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/tCN2x4CIhEg/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=tCN2x4CIhEg'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/tCN2x4CIhEg?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/tCN2x4CIhEg/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/tCN2x4CIhEg?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=tCN2x4CIhEg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=tCN2x4CIhEg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=tCN2x4CIhEg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>🔥 Le film complet dispo à l&apos;achat ICI  ➤ https://www.amazon.fr/Madagascar-3-Bons-baisers-dEurope/dp/B0791WFFF7
+✔️ Rejoins-nous sur Facebook  ➤  https://www.facebook.com/108262098028677
+Titre du Film : Madagascar 3 : Bons baisers d&apos;Europe
+
+© Universal Pictures
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=tCN2x4CIhEg&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tCN2x4CIhEg/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tCN2x4CIhEg/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tCN2x4CIhEg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tCN2x4CIhEg/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tCN2x4CIhEg/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tCN2x4CIhEg/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tCN2x4CIhEg/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Madagascar 3: Les Scènes les plus Drôles 🌀 4K</media:title>
+			<yt:duration seconds='593'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>tCN2x4CIhEg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='4921'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:IWnVhHDeRHs</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>LES LÉGENDAIRES Bande Annonce Teaser (2025)</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/IWnVhHDeRHs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=IWnVhHDeRHs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/IWnVhHDeRHs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=IWnVhHDeRHs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/IWnVhHDeRHs?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/IWnVhHDeRHs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/IWnVhHDeRHs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=IWnVhHDeRHs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=IWnVhHDeRHs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=IWnVhHDeRHs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>LES LÉGENDAIRES Bande Annonce Teaser (2025) Film d&apos;Animation, Aventure, Fantastique
+💛 Snapchat  ➤ https://www.snapchat.com/p/1684933092515270
+📢 Ne rate pas ça ➤ https://www.youtube.com/playlist?list=PLDNK0FPXT6OxMWY3coyvd70jlVVxfLUVT
+Les Légendaires, intrépides aventuriers, étaient les plus grands héros de leur temps. Mais suite à une terrible malédiction, les voilà redevenus... des enfants de 10 ans ! Danaël, Jadina, Gryf, Shimy et Razzia vont unir leurs pouvoirs pour vaincre le sorcier Darkhell et libérer leur planète de l’enfance éternelle…
+
+©  PAN-Distribution
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=IWnVhHDeRHs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IWnVhHDeRHs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IWnVhHDeRHs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IWnVhHDeRHs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IWnVhHDeRHs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IWnVhHDeRHs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IWnVhHDeRHs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IWnVhHDeRHs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>LES LÉGENDAIRES Bande Annonce Teaser (2025)</media:title>
+			<yt:duration seconds='46'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>IWnVhHDeRHs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='10754'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Q8VNWugIWHE</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>GOAT : Rêver Plus Haut Bande Annonce (2025)</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Q8VNWugIWHE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Q8VNWugIWHE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/Q8VNWugIWHE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Q8VNWugIWHE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/Q8VNWugIWHE?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/Q8VNWugIWHE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/Q8VNWugIWHE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Q8VNWugIWHE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=Q8VNWugIWHE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=Q8VNWugIWHE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>GOAT : Rêver Plus Haut Bande Annonce VF (2025) Film d&apos;Animation
+💛 Snapchat  ➤ https://www.snapchat.com/p/1684933092515270
+📢 Ne rate pas ça ➤ https://www.youtube.com/playlist?list=PLDNK0FPXT6OxMWY3coyvd70jlVVxfLUVT
+
+©  Sony Pictures
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Q8VNWugIWHE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q8VNWugIWHE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q8VNWugIWHE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q8VNWugIWHE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q8VNWugIWHE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q8VNWugIWHE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q8VNWugIWHE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Q8VNWugIWHE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>GOAT : Rêver Plus Haut Bande Annonce (2025)</media:title>
+			<yt:duration seconds='141'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>Q8VNWugIWHE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='4007'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:x8Tax93abKM</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Le Top Chef des monstres | Le Cygne et la Princesse : Aventures chez les pirates ! | Extrait VF</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/x8Tax93abKM?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=x8Tax93abKM&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/x8Tax93abKM/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=x8Tax93abKM'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/x8Tax93abKM?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/x8Tax93abKM/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/x8Tax93abKM?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=x8Tax93abKM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=x8Tax93abKM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=x8Tax93abKM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>✔️ Rejoins-nous sur Facebook  ➤  https://www.facebook.com/108262098028677
+🔥 Le film complet en français ICI  ➤ primevideo.com/detail/0OZQLGFOE4QO7VAGTX0OC1Z1DE
+Titre du Film : Le Cygne et la Princesse : Aventures chez les pirates !
+© 2016 Swan VI VII LLC. All Rights Reserved.
+#Cinephile #GrandsMoments</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=x8Tax93abKM&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x8Tax93abKM/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x8Tax93abKM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x8Tax93abKM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x8Tax93abKM/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x8Tax93abKM/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x8Tax93abKM/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/x8Tax93abKM/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Le Top Chef des monstres | Le Cygne et la Princesse : Aventures chez les pirates ! | Extrait VF</media:title>
+			<yt:duration seconds='297'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>x8Tax93abKM</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='924'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:nQCpk3_LRUs</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>La Course des Champions | Film Complet en Français | Kids, Aventure</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/nQCpk3_LRUs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=nQCpk3_LRUs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/nQCpk3_LRUs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=nQCpk3_LRUs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/nQCpk3_LRUs?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/nQCpk3_LRUs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/nQCpk3_LRUs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=nQCpk3_LRUs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=nQCpk3_LRUs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=nQCpk3_LRUs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>Une grande aventure glacée commence ! Des héros rigolos, des courses folles et des surprises à chaque virage… Prêts pour l’action ?
+
+💛 Snapchat  ➤ https://www.snapchat.com/p/1684933092515270
+📢 Ne rate pas ça ➤ https://www.youtube.com/playlist?list=PLDNK0FPXT6OxMWY3coyvd70jlVVxfLUVT
+🔥  Le film disponible ICI  ➤
+
+
+Genre : Film Complet 2025, Nouveauté, Film en Français 2025, Cinéma
+© 2025 - Tous Droits Réservés
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=nQCpk3_LRUs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nQCpk3_LRUs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nQCpk3_LRUs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nQCpk3_LRUs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nQCpk3_LRUs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nQCpk3_LRUs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nQCpk3_LRUs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/nQCpk3_LRUs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>La Course des Champions | Film Complet en Français | Kids, Aventure</media:title>
+			<yt:duration seconds='4130'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>nQCpk3_LRUs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1883'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:6SOSFgNlUOA</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>LES BAD GUYS 2 Toutes les Vidéos (2025)</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/6SOSFgNlUOA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=6SOSFgNlUOA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/6SOSFgNlUOA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=6SOSFgNlUOA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/6SOSFgNlUOA?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/6SOSFgNlUOA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/6SOSFgNlUOA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=6SOSFgNlUOA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=6SOSFgNlUOA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=6SOSFgNlUOA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>LES BAD GUYS 2 Toutes les Vidéos VF (2025) Film d&apos;Animation Dreamworks
+💛 Snapchat  ➤ https://www.snapchat.com/p/1684933092515270
+📢 Ne rate pas ça ➤ https://www.youtube.com/playlist?list=PLDNK0FPXT6OxMWY3coyvd70jlVVxfLUVT
+
+©  Universal Pictures
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=6SOSFgNlUOA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>LES BAD GUYS 2 Toutes les Vidéos (2025)</media:title>
+			<yt:duration seconds='532'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>6SOSFgNlUOA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='12881'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:0EzR3mktcu4</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>&quot;Je ne danse que le ballet&quot; | Spy kids 2: Espions en herbe | Extrait VF</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/0EzR3mktcu4?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=0EzR3mktcu4&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/0EzR3mktcu4/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=0EzR3mktcu4'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/0EzR3mktcu4?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/0EzR3mktcu4/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/0EzR3mktcu4?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=0EzR3mktcu4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=0EzR3mktcu4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=0EzR3mktcu4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>La réplique &quot;Je ne danse que le ballet&quot; me tue à chaque fois
+🔥 Le film complet dispo à l&apos;achat ICI  ➤ https://www.primevideo.com/detail/0HQF3L3PCW8XNFFWC63ETLKPRV
+✔️ Rejoins-nous sur Facebook  ➤  https://www.facebook.com/108262098028677
+Titre du Film : Spy kids 2: Espions en herbe
+© Paramount Pictures
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=0EzR3mktcu4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0EzR3mktcu4/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0EzR3mktcu4/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0EzR3mktcu4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0EzR3mktcu4/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0EzR3mktcu4/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0EzR3mktcu4/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/0EzR3mktcu4/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>&quot;Je ne danse que le ballet&quot; | Spy kids 2: Espions en herbe | Extrait VF</media:title>
+			<yt:duration seconds='260'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>0EzR3mktcu4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1835'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:tkcFf2neysc</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>&quot;M Piranha ressemble à une mangue avec des dents&quot; Extrait VF | LES BAD GUYS 2</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/tkcFf2neysc?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=tkcFf2neysc&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/tkcFf2neysc/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=tkcFf2neysc'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/tkcFf2neysc?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/tkcFf2neysc/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/tkcFf2neysc?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=tkcFf2neysc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=tkcFf2neysc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=tkcFf2neysc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>&quot;M Piranha ressemble à une mangue avec des dents&quot; Extrait VF | LES BAD GUYS 2
+💛 Snapchat  ➤ https://www.snapchat.com/p/1684933092515270
+📢 Ne rate pas ça ➤ https://www.youtube.com/playlist?list=PLDNK0FPXT6OxMWY3coyvd70jlVVxfLUVT
+
+©  Universal Pictures
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=tkcFf2neysc&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tkcFf2neysc/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tkcFf2neysc/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tkcFf2neysc/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tkcFf2neysc/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tkcFf2neysc/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tkcFf2neysc/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/tkcFf2neysc/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>&quot;M Piranha ressemble à une mangue avec des dents&quot; Extrait VF | LES BAD GUYS 2</media:title>
+			<yt:duration seconds='198'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>tkcFf2neysc</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='22680'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:6SOSFgNlUOA</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>LES BAD GUYS 2 Toutes les Vidéos (2025)</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/6SOSFgNlUOA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=6SOSFgNlUOA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/6SOSFgNlUOA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=6SOSFgNlUOA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/6SOSFgNlUOA?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/6SOSFgNlUOA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/6SOSFgNlUOA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=6SOSFgNlUOA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=6SOSFgNlUOA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=6SOSFgNlUOA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>LES BAD GUYS 2 Toutes les Vidéos VF (2025) Film d&apos;Animation Dreamworks
+💛 Snapchat  ➤ https://www.snapchat.com/p/1684933092515270
+📢 Ne rate pas ça ➤ https://www.youtube.com/playlist?list=PLDNK0FPXT6OxMWY3coyvd70jlVVxfLUVT
+
+©  Universal Pictures
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=6SOSFgNlUOA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6SOSFgNlUOA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>LES BAD GUYS 2 Toutes les Vidéos (2025)</media:title>
+			<yt:duration seconds='532'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>6SOSFgNlUOA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='12881'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:VQ4YnLw8gRE</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Diane met KO M. Loup Extrait VF | LES BAD GUYS 2</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/VQ4YnLw8gRE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=VQ4YnLw8gRE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/VQ4YnLw8gRE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=VQ4YnLw8gRE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/VQ4YnLw8gRE?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/VQ4YnLw8gRE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/VQ4YnLw8gRE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=VQ4YnLw8gRE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=VQ4YnLw8gRE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=VQ4YnLw8gRE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>Diane Foxington met KO M. Loup Extrait VF | LES BAD GUYS 2 Scène de Boxe (2025) Dreamworks
+💛 Snapchat  ➤ https://www.snapchat.com/p/1684933092515270
+📢 Ne rate pas ça ➤ https://www.youtube.com/playlist?list=PLDNK0FPXT6OxMWY3coyvd70jlVVxfLUVT
+
+©  Universal Pictures
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=VQ4YnLw8gRE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VQ4YnLw8gRE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VQ4YnLw8gRE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VQ4YnLw8gRE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VQ4YnLw8gRE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VQ4YnLw8gRE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VQ4YnLw8gRE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VQ4YnLw8gRE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Diane met KO M. Loup Extrait VF | LES BAD GUYS 2</media:title>
+			<yt:duration seconds='274'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>VQ4YnLw8gRE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='44035'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:bOr2vRiyJIs</id>
+		<published>2025-08-07T14:15:04</published>
+		<updated>2025-08-07T14:15:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Space Kids | Dessin Animé Complet en Français | Aventure 💎</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/bOr2vRiyJIs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=bOr2vRiyJIs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/bOr2vRiyJIs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=bOr2vRiyJIs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg/uploads/bOr2vRiyJIs?v=2'/>
+		<author>
+			<name>Boxoffice Movie Scenes ☆ ANIMATION in French</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC7oJmPW2GF1TCSjoKq7ybZg</uri>
+			<yt:userId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/bOr2vRiyJIs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/bOr2vRiyJIs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=bOr2vRiyJIs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=bOr2vRiyJIs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=bOr2vRiyJIs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Boxoffice Movie Scenes ☆ ANIMATION in French' yt:type='partner'>UC7oJmPW2GF1TCSjoKq7ybZg</media:credit>
+			<media:description type='plain'>Trois enfants traversent volcans et robots géants pour sauver leur planète désertique en retrouvant une plante magique, dernier espoir pour redonner vie à leur monde oublié.
+
+💛 Snapchat  ➤ https://www.snapchat.com/p/1684933092515270
+📢 Ne rate pas ça ➤ https://www.youtube.com/playlist?list=PLDNK0FPXT6OxMWY3coyvd70jlVVxfLUVT
+🔥  Le film disponible ICI  ➤
+
+Genre : Film Complet 2025, Nouveauté, Film en Français 2025, Cinéma
+© 2025 - Tous Droits Réservés
+#AnimationFR #BoxofficeAnimation</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=bOr2vRiyJIs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bOr2vRiyJIs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bOr2vRiyJIs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bOr2vRiyJIs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bOr2vRiyJIs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bOr2vRiyJIs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bOr2vRiyJIs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/bOr2vRiyJIs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Space Kids | Dessin Animé Complet en Français | Aventure 💎</media:title>
+			<yt:duration seconds='4673'/>
+	        <yt:uploaded>2025-08-07T14:15:04</yt:uploaded>
+			<yt:uploaderId>EEUC7oJmPW2GF1TCSjoKq7ybZg</yt:uploaderId>
+			<yt:videoid>bOr2vRiyJIs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='94839'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>

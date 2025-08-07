@@ -1,0 +1,1522 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:o9ML1lyOv6g</id>
+		<published>2025-08-07T14:36:35</published>
+		<updated>2025-08-07T14:36:35</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Maserati GranCabrio Is a Tough Sell For $200,000+</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/o9ML1lyOv6g?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=o9ML1lyOv6g&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/o9ML1lyOv6g/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=o9ML1lyOv6g'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/o9ML1lyOv6g?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/o9ML1lyOv6g/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/o9ML1lyOv6g?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=o9ML1lyOv6g' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=o9ML1lyOv6g' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=o9ML1lyOv6g' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>CHECK OUT CARS &amp; BIDS!
+https://crsnbds.com/doug
+
+This is the new 2024 Maserati GranCabrio and it looks a lot like the old one. The new GranCabrio is a good car with modern tech, a nice interior, and a fun driving experience. The problem is that it costs way too much money. Today I&apos;m reviewing this Maserati GranCabrio, and I&apos;ll show you the many quirks and features. I&apos;m also going to get behind the wheel and show you what it&apos;s like to drive.
+
+CHECK OUT CARS &amp; BIDS!
+https://crsnbds.com/doug
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+DOUGSCORE CHART:
+https://www.dougdemuro.com/dougscore
+
+CHAPTERS:
+00:00 THIS...
+00:33 CARS &amp; BIDS!!!
+01:11 Convertible Top Operation
+02:15 The Basics
+03:53 Lower Screen Functions
+07:10 Infotainment
+08:20 Gauge Cluster Screen
+10:00 Some Interior Quirks
+11:30 Interior Quality
+13:02 Rear Seating
+14:05 Tiny Trunk
+15:04 Dumb Americans
+15:51 Nice, but Old Styling
+17:44 Driving Experience
+22:25 Final Thoughts
+23:08 DougScore
+
+#dougdemuro #carsandbids #maserati #grancabrio #maseratigrancabrio</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=o9ML1lyOv6g&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/o9ML1lyOv6g/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/o9ML1lyOv6g/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/o9ML1lyOv6g/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/o9ML1lyOv6g/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/o9ML1lyOv6g/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/o9ML1lyOv6g/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/o9ML1lyOv6g/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Maserati GranCabrio Is a Tough Sell For $200,000+</media:title>
+			<yt:duration seconds='1448'/>
+	        <yt:uploaded>2025-08-07T14:36:35</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>o9ML1lyOv6g</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='207723'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:h_iAKQfDv9w</id>
+		<published>2025-08-07T14:36:35</published>
+		<updated>2025-08-07T14:36:35</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Here Are the 5 Worst Cars I’ve Ever Owned</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/h_iAKQfDv9w?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=h_iAKQfDv9w&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/h_iAKQfDv9w/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=h_iAKQfDv9w'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/h_iAKQfDv9w?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/h_iAKQfDv9w/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/h_iAKQfDv9w?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=h_iAKQfDv9w' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=h_iAKQfDv9w' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=h_iAKQfDv9w' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>CHECK OUT CARS &amp; BIDS!
+https://carsandbids.com
+
+I have owned 37 cars total in my life and today I&apos;m going to list the 5 worst cars I have ever owned and tell you what I didn&apos;t like about them.
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+DOUGSCORE CHART:
+https://www.dougdemuro.com/dougscore
+
+00:00 THIS...
+00:23 CARS &amp; BIDS!!!
+01:01 22 Years of Owning Cars
+01:29 Number 5 Worst Car
+05:33 Number 4 Worst Car
+07:12 Number 3 Worst Car
+10:42 Number 2 Worst Car
+14:11 The Worst Car I Have Owned
+
+#dougdemuro #carsandbids</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=h_iAKQfDv9w&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/h_iAKQfDv9w/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/h_iAKQfDv9w/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/h_iAKQfDv9w/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/h_iAKQfDv9w/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/h_iAKQfDv9w/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/h_iAKQfDv9w/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/h_iAKQfDv9w/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Here Are the 5 Worst Cars I’ve Ever Owned</media:title>
+			<yt:duration seconds='1022'/>
+	        <yt:uploaded>2025-08-07T14:36:35</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>h_iAKQfDv9w</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='283276'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:a1yHrEgozGg</id>
+		<published>2025-08-07T14:36:35</published>
+		<updated>2025-08-07T14:36:35</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>California Bans Tesla? Ultimate Ferrari Daily Driver. EPA Drops Emission Enforcement? THISCARPOD! 71</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/a1yHrEgozGg?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=a1yHrEgozGg&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/a1yHrEgozGg/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=a1yHrEgozGg'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/a1yHrEgozGg?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/a1yHrEgozGg/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/a1yHrEgozGg?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=a1yHrEgozGg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=a1yHrEgozGg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=a1yHrEgozGg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>Have a question you want answered on the podcast next week? Ask HERE 
+https://carsandbids.com/community/p/KdOOegOL/aug-8-questions-questions-questions
+
+Big thanks to CarEdge for sponsoring this episode-  https://caredge.com/bids 
+
+Partner with us! partnerships@carsandbids.com
+
+Welcome to THIS CAR POD! Doug DeMuro &amp; Friends offers weekly expert insight and opinion, on the breaking automotive stories, the car market, and audience Q&amp;A.
+
+LISTEN HERE -
+Spotify - https://spotify.link/RHKZoB8ebIb
+Apple Podcasts - https://podcasts.apple.com/us/podcast/this-car-pod-with-doug-demuro-friends/id1737487546
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+CHAPTERS:
+00:00:00 INTRO/Car News
+00:00:25 Hot Wheel Wheels
+00:03:48 Europe Tariff Deal
+00:07:52 BMW Heritage Colors are Back
+00:12:27 CarEdge
+00:13:33 Cadillac Sales Are Up
+00:18:50 Manual Maserati?
+00:22:51 RAM TRX is Coming Back!
+00:24:41 Emission Regulations
+00:29:46 Cars &amp; Bids Classic Cars
+00:30:43 Tesla is Being Sued by California
+00:32:31 TALK CARS!
+00:32:56 Filippo&apos;s Cosmetic Modifications
+00:38:19 Doug&apos;s Ford GT Needs Tires
+00:40:47 Cars &amp; Bids Merch!
+00:41:38 Nick Sells the Bentley for a Multipla
+00:46:04 Market Report!
+00:48:25 Ed Bolian Collection on Cars &amp; Bids
+00:55:17 Ferrari FF Values
+00:59:50 Falcon F7 Results
+01:01:12 Trackside Cars &amp; Coffee
+01:03:18 Questions!!
+01:03:45 One Manufacturer for the Rest of Your Life
+01:05:09 Most Expensive Way to Lose Cars &amp; Coffee
+01:07:39 Is the Ford Flex an Enthusiast Car?
+01:08:47 How Would Your Wives Rank Your Cars?
+01:11:59 Doug Needs a Japanese Turbo 6-Cylinder Car
+01:14:09 Why Do Colors Help Resell Value?
+01:18:38 Would You Ever Buy a NEW Countach?
+01:21:34 Outro
+
+#dougdemuro #thiscarpod #carsandbids</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=a1yHrEgozGg&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>California Bans Tesla? Ultimate Ferrari Daily Driver. EPA Drops Emission Enforcement? THISCARPOD! 71</media:title>
+			<yt:duration seconds='4965'/>
+	        <yt:uploaded>2025-08-07T14:36:35</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>a1yHrEgozGg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='127845'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:ZeMYfZOI93k</id>
+		<published>2025-08-07T14:36:35</published>
+		<updated>2025-08-07T14:36:35</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Mercedes-Benz C43 AMG Was Insane in the 1990s</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/ZeMYfZOI93k?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=ZeMYfZOI93k&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/ZeMYfZOI93k/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=ZeMYfZOI93k'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/ZeMYfZOI93k?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/ZeMYfZOI93k/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/ZeMYfZOI93k?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=ZeMYfZOI93k' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=ZeMYfZOI93k' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=ZeMYfZOI93k' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>CHECK OUT THIS 1999 MERCEDES-BENZ C43 AMG ON CARS &amp; BIDS!
+https://crsnbds.com/c43-amg
+
+This is a 1999 Mercedes-Benz C43 AMG and it&apos;s hard to explain how insane this car was when it came out. This car may look unassuming, but its V8 with over 300 horsepower makes it a true wolf in sheep&apos;s clothing. We are thrilled to be offering this C43 AMG for sale on CARS &amp; BIDS!! Today, I&apos;m reviewing it and I&apos;ll show you the many quirks and features. I&apos;ll also get behind the wheel and review the driving experience.
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+DOUGSCORE CHART:
+https://www.dougdemuro.com/dougscore
+
+CHAPTERS:
+00:00 THIS...
+00:43 It Can Be Yours On CARS &amp; BIDS!!!
+01:14 Mercedes-AMG Merger
+01:52 The Basics
+02:16 Powertrain and Performance
+03:09 Horsepower Wars
+04:52 Subtle, But Fast
+06:57 Famous Attention to Detail
+07:58 High Quality Interior
+09:22 Interior Quirks &amp; Features
+11:55 Interior AMG Touches
+13:18 Non-Sporty Interior
+14:00 Rear Seating
+15:38 Trunk
+16:55 Final Exterior Quirks
+18:15 Surprisingly Rare
+19:11 Driving Experience
+23:57 Final Thoughts
+24:23 DougScore
+
+#dougdemuro #carsandbids #cars #mercedesbenz #c43 #mercedesbenzc43</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=ZeMYfZOI93k&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZeMYfZOI93k/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZeMYfZOI93k/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZeMYfZOI93k/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZeMYfZOI93k/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZeMYfZOI93k/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZeMYfZOI93k/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZeMYfZOI93k/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Mercedes-Benz C43 AMG Was Insane in the 1990s</media:title>
+			<yt:duration seconds='1523'/>
+	        <yt:uploaded>2025-08-07T14:36:35</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>ZeMYfZOI93k</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='185754'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:C8eEysvZzo0</id>
+		<published>2025-08-07T14:36:35</published>
+		<updated>2025-08-07T14:36:35</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The 2025 Honda Civic Hybrid Is the Best Overall Civic</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/C8eEysvZzo0?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=C8eEysvZzo0&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/C8eEysvZzo0/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=C8eEysvZzo0'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/C8eEysvZzo0?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/C8eEysvZzo0/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/C8eEysvZzo0?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=C8eEysvZzo0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=C8eEysvZzo0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=C8eEysvZzo0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>CHECK OUT CARS &amp; BIDS!
+https://crsnbds.com/doug
+
+This is the new 2025 Honda Civic Hybrid and it may just be the best all around Civic you can buy. The Civic Hybrid is a great example of how to pack a lot of benefits, like good tech, great fuel economy, and decent power into a relatively affordable package. Today I&apos;m reviewing this Honda Civic Hybrid, and I&apos;ll show you the many quirks and features. I&apos;m also going to get behind the wheel and show you what it&apos;s like to drive.
+
+CHECK OUT CARS &amp; BIDS!
+https://crsnbds.com/doug
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+DOUGSCORE CHART:
+https://www.dougdemuro.com/dougscore
+
+CHAPTER:
+00:00 THIS...
+00:31 CARS &amp; BIDS!!!
+01:09 Hybrid Economy and Power
+02:44 Interior Quirks &amp; Features
+04:34 Infotainment
+05:50 Gauge Cluster Screen
+06:49 Interior Quality
+07:47 Rear Seating
+09:12 Cargo Area
+10:39 2025 Updates
+11:21 New Civic Details
+13:03 Driving Experience
+17:20 Final Thoughts
+17:43 DougScore
+
+#dougdemuro #carsandbids #honda #hondacivic #civic</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=C8eEysvZzo0&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/C8eEysvZzo0/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/C8eEysvZzo0/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/C8eEysvZzo0/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/C8eEysvZzo0/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/C8eEysvZzo0/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/C8eEysvZzo0/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/C8eEysvZzo0/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The 2025 Honda Civic Hybrid Is the Best Overall Civic</media:title>
+			<yt:duration seconds='1118'/>
+	        <yt:uploaded>2025-08-07T14:36:35</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>C8eEysvZzo0</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='238053'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:zplu39jrPcA</id>
+		<published>2025-08-07T14:36:36</published>
+		<updated>2025-08-07T14:36:36</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The 2025 Audi SQ6 E-Tron Is Surprisingly Cool and Fun</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/zplu39jrPcA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=zplu39jrPcA&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/zplu39jrPcA/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=zplu39jrPcA'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/zplu39jrPcA?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/zplu39jrPcA/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/zplu39jrPcA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=zplu39jrPcA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=zplu39jrPcA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=zplu39jrPcA' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>CHECK OUT CARS &amp; BIDS!
+https://crsnbds.com/doug
+
+This is the new 2025 Audi SQ6 E-Tron and it&apos;s a surprisingly fun electric SUV. Audi&apos;s previous EV SUVs were lackluster, but this is a much stronger effort with good power and range, interesting quirks, and decent pricing. Today I&apos;m reviewing this SQ6 E-Tron, and I&apos;ll show you the many quirks and features. I&apos;m also going to get behind the wheel and show you what it&apos;s like to drive.
+
+CHECK OUT CARS &amp; BIDS!
+https://crsnbds.com/doug
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+DOUGSCORE CHART:
+https://www.dougdemuro.com/dougscore
+
+CHAPTER:
+00:00 THIS...
+00:30 CARS &amp; BIDS!!!
+01:07 The Basics
+02:26 High-Performance Version
+03:13 Exterior Quirks &amp; Features
+04:29 Exterior Styling
+05:10 Interior Quirks &amp; Features
+08:11 Passenger Screen
+09:02 Infotainment Screen
+10:44 More Interior Quirks
+11:59 Gauge Cluster Screen
+12:55 Big Interior Improvement
+13:36 Rear Seating
+14:41 Cargo Area
+16:02 New Logo
+17:04 Front Trunk
+18:57 Driving Experience
+23:33 Final Thoughts
+24:05 DougScore
+
+#dougdemuro #carsandbids #audi #etron #audietron</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=zplu39jrPcA&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zplu39jrPcA/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zplu39jrPcA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zplu39jrPcA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zplu39jrPcA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zplu39jrPcA/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zplu39jrPcA/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/zplu39jrPcA/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The 2025 Audi SQ6 E-Tron Is Surprisingly Cool and Fun</media:title>
+			<yt:duration seconds='1500'/>
+	        <yt:uploaded>2025-08-07T14:36:36</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>zplu39jrPcA</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='163928'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:SevnHHhd9ng</id>
+		<published>2025-08-07T14:36:36</published>
+		<updated>2025-08-07T14:36:36</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Big Three are in Big Trouble, Industry Collapse Soon? Nick Bought a Multipla?! THISCARPOD! EP70</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/SevnHHhd9ng?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=SevnHHhd9ng&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/SevnHHhd9ng/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=SevnHHhd9ng'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/SevnHHhd9ng?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/SevnHHhd9ng/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/SevnHHhd9ng?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=SevnHHhd9ng' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=SevnHHhd9ng' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=SevnHHhd9ng' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>Join Kennan and Filippo for IMSA Sports Car Weekend at Road America for Cars &amp; Bids Trackside Cars &amp; Coffee! August 3rd! Submit your car HERE! https://crsnbds.com/IMSA
+
+Have a question you want answered on the podcast next week? Ask HERE 
+https://crsnbds.com/PODQUESTIONS
+
+Thank You To Our Sponsors!
+Ava- https://www.meetava.com Code- CARPOD, you’ll get your first month FREE!
+
+Partner with us! partnerships@carsandbids.com
+
+Welcome to THIS CAR POD! Doug DeMuro &amp; Friends offers weekly expert insight and opinion, on the breaking automotive stories, the car market, and audience Q&amp;A.
+
+LISTEN HERE -
+Spotify - https://spotify.link/RHKZoB8ebIb
+Apple Podcasts - https://podcasts.apple.com/us/podcast/this-car-pod-with-doug-demuro-friends/id1737487546
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+Chapters
+00:00:00 THIS CAR POD!
+00:00:13 U.S. Japan Trade Deal
+00:03:55 U.S. Automakers Lose Billions In Tariffs
+00:06:58 Mercedes-Benz To Stop Selling EQ In U.S.
+00:16:35 Ford Recalls
+00:21:49 There&apos;s A New Supra Coming
+00:25:13 Subaru&apos;s New EV
+00:27:42 Faraday Future&apos;s New Van
+00:31:27 Nascar Comes To San Diego
+00:32:27 Acura Has One Car Left
+00:36:03 Leno&apos;s Law
+00:38:48 Talk Cars
+00:39:01 Nick Bought A Car
+00:48:14 Cars &amp; Bids At Road America
+00:50:42 Toyota GR Corolla
+00:54:08 BMW Z8
+00:56:35 Community Questions
+00:57:15 Rank the BMW 7 Series Generations
+01:02:26 What Feature Made Sense But DIdn&apos;t Catch On?
+01:07:05 If Cars &amp; Bids Relocated, Where Would You Move To?
+01:08:14 Will Chinese Cars Ever Make It In America?
+01:09:59 What Is Your Favorite Hollywood Underdog Car?
+01:12:36 Final Thoughts
+
+#dougdemuro #thiscarpod #carsandbids</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=SevnHHhd9ng&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Big Three are in Big Trouble, Industry Collapse Soon? Nick Bought a Multipla?! THISCARPOD! EP70</media:title>
+			<yt:duration seconds='4517'/>
+	        <yt:uploaded>2025-08-07T14:36:36</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>SevnHHhd9ng</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='161968'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:_8xQSr1doFk</id>
+		<published>2025-08-07T14:36:36</published>
+		<updated>2025-08-07T14:36:36</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Pontiac Mera Is the Craziest Fake Ferrari Ever</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/_8xQSr1doFk?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=_8xQSr1doFk&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/_8xQSr1doFk/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=_8xQSr1doFk'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/_8xQSr1doFk?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/_8xQSr1doFk/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/_8xQSr1doFk?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=_8xQSr1doFk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=_8xQSr1doFk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=_8xQSr1doFk' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>CHECK OUT THIS 1988 PONTIAC FIERO MERA ON CARS &amp; BIDS!
+https://crsnbds.com/fiero-mera
+
+This is a 1988 Pontiac Fiero, but it looks like a Ferrari 308. It was called the Pontiac Mera and some Pontiac dealers actually sold these Ferrari replicas new... until Ferrari sued them. Buckle up for the crazy and quirky Pontiac Mera story. We are thrilled to be offering this fake Ferrari for sale on CARS &amp; BIDS!! Today, I&apos;m reviewing it and I&apos;ll show you the many quirks and features. I&apos;ll also get behind the wheel and review the driving experience.
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+DOUGSCORE CHART:
+https://www.dougdemuro.com/dougscore
+
+CHAPTERS:
+00:00 THIS...
+00:49 It Can Be Yours On CARS &amp; BIDS!!!
+01:20 Pontiac Fiero &amp; Replicas
+02:14 Sold New From Pontac Dealers
+03:01 How It Was Created
+04:01 Expensive For a Fiero
+04:31 Ferrari&apos;s Lawsuit
+05:10 Ferrari 308 Similarities
+09:27 What Heppened to the Mera?
+11:02 Powertrain
+11:57 Interior Quirks &amp; Features
+13:15 Fiero Interior Quirks
+18:47 Front Compartment
+19:30 Driving Experience
+24:05 Final Thoughts
+24:33 DougScore
+
+#dougdemuro #carsandbids #cars #pontiac #fiero #pontiacfiero #mera</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=_8xQSr1doFk&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_8xQSr1doFk/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_8xQSr1doFk/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_8xQSr1doFk/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_8xQSr1doFk/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_8xQSr1doFk/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_8xQSr1doFk/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_8xQSr1doFk/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Pontiac Mera Is the Craziest Fake Ferrari Ever</media:title>
+			<yt:duration seconds='1519'/>
+	        <yt:uploaded>2025-08-07T14:36:36</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>_8xQSr1doFk</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='393939'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:8tNyI3dKKt0</id>
+		<published>2025-08-07T14:36:36</published>
+		<updated>2025-08-07T14:36:36</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Fangchengbao Leopard 5 Is a Quirky, Cool Chinese Off-Roader</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/8tNyI3dKKt0?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=8tNyI3dKKt0&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/8tNyI3dKKt0/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=8tNyI3dKKt0'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/8tNyI3dKKt0?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/8tNyI3dKKt0/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/8tNyI3dKKt0?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=8tNyI3dKKt0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=8tNyI3dKKt0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=8tNyI3dKKt0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>CHECK OUT CARS &amp; BIDS!
+https://crsnbds.com/doug
+
+This is the new Fangchengbao Leopard 5 and it&apos;s an incredibly quirky Chinese luxury off-roader SUV. The Leopard 5 is similar in size and capability to the 4Runner, Wrangler, and Bronco, but it has almost 700 horsepower and a much cheaper price tag. Today I&apos;m reviewing this Fangchengbao Leopard 5, and I&apos;ll show you the MANY quirks and features. I&apos;m also going to get behind the wheel and show you what it&apos;s like to drive.
+
+CHECK OUT CARS &amp; BIDS!
+https://crsnbds.com/doug
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+DOUGSCORE CHART:
+https://www.dougdemuro.com/dougscore
+
+CHAPTER:
+00:00 THIS...
+00:28 CARS &amp; BIDS!!!
+01:05 Thank You to DCar Studio
+01:41 Plug-In Hybrid Powertrain
+02:11 Big Power
+03:05 Rugged Design
+04:25 Some Off-road Capabilities
+05:01 Exterior Lighting Quirks
+05:49 Getting Inside
+06:41 Luxurious Interior
+08:06 Interior Quirks
+10:16 Off-road Equipment
+12:31 Infotainment Quirks
+14:31 Gauge Cluster Screen
+14:58 Mirror &amp; Passenger Screens
+15:33 More Interior Quirks &amp; Features
+17:18 Rear Seating
+19:18 Cargo Area
+22:02 Driving Experience
+26:59 Final Thoughts
+27:37 DougScore
+
+#dougdemuro #carsandbids #fangchengbao #leopard5 #fangchengbaoleopard5</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=8tNyI3dKKt0&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8tNyI3dKKt0/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8tNyI3dKKt0/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8tNyI3dKKt0/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8tNyI3dKKt0/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8tNyI3dKKt0/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8tNyI3dKKt0/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8tNyI3dKKt0/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Fangchengbao Leopard 5 Is a Quirky, Cool Chinese Off-Roader</media:title>
+			<yt:duration seconds='1710'/>
+	        <yt:uploaded>2025-08-07T14:36:36</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>8tNyI3dKKt0</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='257616'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:g_53wRRWjGc</id>
+		<published>2025-08-07T14:36:36</published>
+		<updated>2025-08-07T14:36:36</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Here Are 8 Cheap Cars That Make You Look Rich</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/g_53wRRWjGc?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=g_53wRRWjGc&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/g_53wRRWjGc/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=g_53wRRWjGc'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/g_53wRRWjGc?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/g_53wRRWjGc/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/g_53wRRWjGc?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=g_53wRRWjGc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=g_53wRRWjGc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=g_53wRRWjGc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>CHECK OUT CARS &amp; BIDS!
+https://carsandbids.com
+
+Today, I am going to talk about 8 cheap cars that will make you look rich (to non-enthusiasts).
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+DOUGSCORE CHART:
+https://www.dougdemuro.com/dougscore
+
+CHAPTERS:
+00:00 THIS...
+00:33 CARS &amp; BIDS!!!
+01:11 European Station Wagons
+02:57 Maserati, Of Course
+04:50 BMW 5-Series
+06:47 Jaggggg
+08:20 Drop Top Mercedes
+10:18 Hyundai??
+12:29 Big Luxurious Audi Sedan
+14:50 Rich Looking Tesla?
+16:31 Honorable Mention
+17:32 Final Thoughts
+
+#dougdemuro #carsandbids</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=g_53wRRWjGc&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/g_53wRRWjGc/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/g_53wRRWjGc/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/g_53wRRWjGc/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/g_53wRRWjGc/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/g_53wRRWjGc/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/g_53wRRWjGc/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/g_53wRRWjGc/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Here Are 8 Cheap Cars That Make You Look Rich</media:title>
+			<yt:duration seconds='1088'/>
+	        <yt:uploaded>2025-08-07T14:36:36</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>g_53wRRWjGc</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='503062'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:4yKfZsZQjPY</id>
+		<published>2025-08-07T14:36:36</published>
+		<updated>2025-08-07T14:36:36</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>New Corvette Teased, Maserati Gets Weird, Chinese Self Driving Cars Hit the U.S. THISCARPOD! EP69</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/4yKfZsZQjPY?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=4yKfZsZQjPY&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/4yKfZsZQjPY/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=4yKfZsZQjPY'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/4yKfZsZQjPY?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/4yKfZsZQjPY/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/4yKfZsZQjPY?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=4yKfZsZQjPY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=4yKfZsZQjPY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=4yKfZsZQjPY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>Join Kennan and Filippo for IMSA Sports Car Weekend at Road America for Cars &amp; Bids Trackside Cars &amp; Coffee! August 3rd! Submit your car HERE! https://crsnbds.com/IMSA
+
+Have a question you want answered on the podcast next week? Ask HERE 
+https://crsnbds.com/PODQUESTIONS
+
+Thank You To Our Sponsors!
+Express VPN - www.expressvpn.com/cars
+Ava- https://www.meetava.com Code- CARPOD, you’ll get your first month FREE!
+Brunt Workwear - Get $10 Off @BRUNT with code CARS
+
+Partner with us! partnerships@carsandbids.com
+
+Welcome to THIS CAR POD! Doug DeMuro &amp; Friends offers weekly expert insight and opinion, on the breaking automotive stories, the car market, and audience Q&amp;A.
+
+LISTEN HERE -
+Spotify - https://spotify.link/RHKZoB8ebIb
+Apple Podcasts - https://podcasts.apple.com/us/podcast/this-car-pod-with-doug-demuro-friends/id1737487546
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+
+00:00:00 THIS CAR POD!
+00:00:47 Another New Corvette
+00:06:06 BMW M2 Track Package
+00:08:36 The &quot;New&quot; Maserati
+00:14:48 Mazda CX-5 Goes Touchscreen
+00:18:14 The New Waymo
+00:25:16 Porsche Prices Continue To Increase
+00:30:41 Range Rover&apos;s New Logo
+00:33:17 New Car Movie
+00:35:27 Talk Cars
+00:35:43 Doug&apos;s G-Cab Crosses 100k
+00:40:41 There&apos;s a Chance Filippo Buys A 911
+00:45:14 Nick Cant Find a Fiat Multipla
+00:47:30 Market Report
+00:51:05 Nick Met Ed Bolian
+00:56:32 Community Questions
+00:57:41 What Are Modern Poster Cars?
+01:00:24 Thoughts On PPF?
+01:05:16 Would You Do A Top Gear Style Roadtrip?
+01:08:00 What Are Good Vs Bad Modifications?
+01:13:02 Is Doug&apos;s Wiki Page Accurate?
+01:14:42 How Hard Is It To Ship A Car to Europe?
+
+#dougdemuro #thiscarpod #carsandbids</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=4yKfZsZQjPY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>New Corvette Teased, Maserati Gets Weird, Chinese Self Driving Cars Hit the U.S. THISCARPOD! EP69</media:title>
+			<yt:duration seconds='4953'/>
+	        <yt:uploaded>2025-08-07T14:36:36</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>4yKfZsZQjPY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='129877'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:6wSuRZ0rH6c</id>
+		<published>2025-08-07T14:36:37</published>
+		<updated>2025-08-07T14:36:37</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Mitsubishi 3000GT VR-4 Spyder Was Peak Insane Japanese Sports Car</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/6wSuRZ0rH6c?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=6wSuRZ0rH6c&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/6wSuRZ0rH6c/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=6wSuRZ0rH6c'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/6wSuRZ0rH6c?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/6wSuRZ0rH6c/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/6wSuRZ0rH6c?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=6wSuRZ0rH6c' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=6wSuRZ0rH6c' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=6wSuRZ0rH6c' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>CHECK OUT THIS 1995 MITSUBISHI 3000GT VR-4 SPYDER ON CARS &amp; BIDS!
+https://crsnbds.com/3000gt-vr4
+
+This is a 1995 Mitsubishi 3000GT VR-4 Spyder and it&apos;s a super rare and quirky convertible version of the popular 3000GT. A power operated retractable hardtop was a huge deal back in the &apos;90s and that&apos;s proven by the outrageous original sticker price of this car. We are thrilled to be offering this VR-4 Spyder for sale on CARS &amp; BIDS!! Today, I&apos;m reviewing it and I&apos;ll show you the many quirks and features. I&apos;ll also get behind the wheel and review the driving experience.
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+DOUGSCORE CHART:
+https://www.dougdemuro.com/dougscore
+
+CHAPTERS:
+00:00 THIS...
+00:43 It Can Be Yours On CARS &amp; BIDS!!!
+01:15 Background &amp; Basics
+03:33 Quirky Top Operation
+05:24 Crazy Trunk Operation
+08:32 American Sunroof Corporation
+09:06 Massive Sticker Price
+09:50 Limited Production
+11:02 It Was Very Heavy
+12:11 More Exterior Quirks &amp; Features
+13:46 Quirks Interior
+20:09 Driving Experience
+24:34 Final Thoughts
+25:06 DougScore
+
+#dougdemuro #carsandbids #cars #mitsubishi #mitsubishi3000gt #3000gt</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=6wSuRZ0rH6c&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6wSuRZ0rH6c/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6wSuRZ0rH6c/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6wSuRZ0rH6c/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6wSuRZ0rH6c/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6wSuRZ0rH6c/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6wSuRZ0rH6c/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/6wSuRZ0rH6c/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Mitsubishi 3000GT VR-4 Spyder Was Peak Insane Japanese Sports Car</media:title>
+			<yt:duration seconds='1555'/>
+	        <yt:uploaded>2025-08-07T14:36:37</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>6wSuRZ0rH6c</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='321072'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:a1yHrEgozGg</id>
+		<published>2025-08-07T14:36:37</published>
+		<updated>2025-08-07T14:36:37</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>California Bans Tesla? Ultimate Ferrari Daily Driver. EPA Drops Emission Enforcement? THISCARPOD! 71</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/a1yHrEgozGg?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=a1yHrEgozGg&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/a1yHrEgozGg/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=a1yHrEgozGg'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/a1yHrEgozGg?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/a1yHrEgozGg/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/a1yHrEgozGg?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=a1yHrEgozGg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=a1yHrEgozGg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=a1yHrEgozGg' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>Have a question you want answered on the podcast next week? Ask HERE 
+https://carsandbids.com/community/p/KdOOegOL/aug-8-questions-questions-questions
+
+Big thanks to CarEdge for sponsoring this episode-  https://caredge.com/bids 
+
+Partner with us! partnerships@carsandbids.com
+
+Welcome to THIS CAR POD! Doug DeMuro &amp; Friends offers weekly expert insight and opinion, on the breaking automotive stories, the car market, and audience Q&amp;A.
+
+LISTEN HERE -
+Spotify - https://spotify.link/RHKZoB8ebIb
+Apple Podcasts - https://podcasts.apple.com/us/podcast/this-car-pod-with-doug-demuro-friends/id1737487546
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+CHAPTERS:
+00:00:00 INTRO/Car News
+00:00:25 Hot Wheel Wheels
+00:03:48 Europe Tariff Deal
+00:07:52 BMW Heritage Colors are Back
+00:12:27 CarEdge
+00:13:33 Cadillac Sales Are Up
+00:18:50 Manual Maserati?
+00:22:51 RAM TRX is Coming Back!
+00:24:41 Emission Regulations
+00:29:46 Cars &amp; Bids Classic Cars
+00:30:43 Tesla is Being Sued by California
+00:32:31 TALK CARS!
+00:32:56 Filippo&apos;s Cosmetic Modifications
+00:38:19 Doug&apos;s Ford GT Needs Tires
+00:40:47 Cars &amp; Bids Merch!
+00:41:38 Nick Sells the Bentley for a Multipla
+00:46:04 Market Report!
+00:48:25 Ed Bolian Collection on Cars &amp; Bids
+00:55:17 Ferrari FF Values
+00:59:50 Falcon F7 Results
+01:01:12 Trackside Cars &amp; Coffee
+01:03:18 Questions!!
+01:03:45 One Manufacturer for the Rest of Your Life
+01:05:09 Most Expensive Way to Lose Cars &amp; Coffee
+01:07:39 Is the Ford Flex an Enthusiast Car?
+01:08:47 How Would Your Wives Rank Your Cars?
+01:11:59 Doug Needs a Japanese Turbo 6-Cylinder Car
+01:14:09 Why Do Colors Help Resell Value?
+01:18:38 Would You Ever Buy a NEW Countach?
+01:21:34 Outro
+
+#dougdemuro #thiscarpod #carsandbids</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=a1yHrEgozGg&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/a1yHrEgozGg/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>California Bans Tesla? Ultimate Ferrari Daily Driver. EPA Drops Emission Enforcement? THISCARPOD! 71</media:title>
+			<yt:duration seconds='4965'/>
+	        <yt:uploaded>2025-08-07T14:36:37</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>a1yHrEgozGg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='127845'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:SevnHHhd9ng</id>
+		<published>2025-08-07T14:36:37</published>
+		<updated>2025-08-07T14:36:37</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>The Big Three are in Big Trouble, Industry Collapse Soon? Nick Bought a Multipla?! THISCARPOD! EP70</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/SevnHHhd9ng?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=SevnHHhd9ng&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/SevnHHhd9ng/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=SevnHHhd9ng'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/SevnHHhd9ng?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/SevnHHhd9ng/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/SevnHHhd9ng?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=SevnHHhd9ng' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=SevnHHhd9ng' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=SevnHHhd9ng' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>Join Kennan and Filippo for IMSA Sports Car Weekend at Road America for Cars &amp; Bids Trackside Cars &amp; Coffee! August 3rd! Submit your car HERE! https://crsnbds.com/IMSA
+
+Have a question you want answered on the podcast next week? Ask HERE 
+https://crsnbds.com/PODQUESTIONS
+
+Thank You To Our Sponsors!
+Ava- https://www.meetava.com Code- CARPOD, you’ll get your first month FREE!
+
+Partner with us! partnerships@carsandbids.com
+
+Welcome to THIS CAR POD! Doug DeMuro &amp; Friends offers weekly expert insight and opinion, on the breaking automotive stories, the car market, and audience Q&amp;A.
+
+LISTEN HERE -
+Spotify - https://spotify.link/RHKZoB8ebIb
+Apple Podcasts - https://podcasts.apple.com/us/podcast/this-car-pod-with-doug-demuro-friends/id1737487546
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+Chapters
+00:00:00 THIS CAR POD!
+00:00:13 U.S. Japan Trade Deal
+00:03:55 U.S. Automakers Lose Billions In Tariffs
+00:06:58 Mercedes-Benz To Stop Selling EQ In U.S.
+00:16:35 Ford Recalls
+00:21:49 There&apos;s A New Supra Coming
+00:25:13 Subaru&apos;s New EV
+00:27:42 Faraday Future&apos;s New Van
+00:31:27 Nascar Comes To San Diego
+00:32:27 Acura Has One Car Left
+00:36:03 Leno&apos;s Law
+00:38:48 Talk Cars
+00:39:01 Nick Bought A Car
+00:48:14 Cars &amp; Bids At Road America
+00:50:42 Toyota GR Corolla
+00:54:08 BMW Z8
+00:56:35 Community Questions
+00:57:15 Rank the BMW 7 Series Generations
+01:02:26 What Feature Made Sense But DIdn&apos;t Catch On?
+01:07:05 If Cars &amp; Bids Relocated, Where Would You Move To?
+01:08:14 Will Chinese Cars Ever Make It In America?
+01:09:59 What Is Your Favorite Hollywood Underdog Car?
+01:12:36 Final Thoughts
+
+#dougdemuro #thiscarpod #carsandbids</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=SevnHHhd9ng&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SevnHHhd9ng/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>The Big Three are in Big Trouble, Industry Collapse Soon? Nick Bought a Multipla?! THISCARPOD! EP70</media:title>
+			<yt:duration seconds='4517'/>
+	        <yt:uploaded>2025-08-07T14:36:37</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>SevnHHhd9ng</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='161968'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:4yKfZsZQjPY</id>
+		<published>2025-08-07T14:36:37</published>
+		<updated>2025-08-07T14:36:37</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>New Corvette Teased, Maserati Gets Weird, Chinese Self Driving Cars Hit the U.S. THISCARPOD! EP69</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/4yKfZsZQjPY?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=4yKfZsZQjPY&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/4yKfZsZQjPY/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=4yKfZsZQjPY'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg/uploads/4yKfZsZQjPY?v=2'/>
+		<author>
+			<name>Doug DeMuro</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCsqjHFMB_JYTaEnf_vmTNqg</uri>
+			<yt:userId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/4yKfZsZQjPY/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/4yKfZsZQjPY?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=4yKfZsZQjPY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=4yKfZsZQjPY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=4yKfZsZQjPY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Doug DeMuro' yt:type='partner'>UCsqjHFMB_JYTaEnf_vmTNqg</media:credit>
+			<media:description type='plain'>Join Kennan and Filippo for IMSA Sports Car Weekend at Road America for Cars &amp; Bids Trackside Cars &amp; Coffee! August 3rd! Submit your car HERE! https://crsnbds.com/IMSA
+
+Have a question you want answered on the podcast next week? Ask HERE 
+https://crsnbds.com/PODQUESTIONS
+
+Thank You To Our Sponsors!
+Express VPN - www.expressvpn.com/cars
+Ava- https://www.meetava.com Code- CARPOD, you’ll get your first month FREE!
+Brunt Workwear - Get $10 Off @BRUNT with code CARS
+
+Partner with us! partnerships@carsandbids.com
+
+Welcome to THIS CAR POD! Doug DeMuro &amp; Friends offers weekly expert insight and opinion, on the breaking automotive stories, the car market, and audience Q&amp;A.
+
+LISTEN HERE -
+Spotify - https://spotify.link/RHKZoB8ebIb
+Apple Podcasts - https://podcasts.apple.com/us/podcast/this-car-pod-with-doug-demuro-friends/id1737487546
+
+NEW MERCH! https://merch.carsandbids.com
+
+FOLLOW CARS &amp; BIDS!
+YouTube -  @carsandbids  
+Instagram - https://www.instagram.com/carsandbids/
+TikTok - https://www.tiktok.com/@cars_and_bids
+Twitter - https://twitter.com/carsandbids
+
+FOLLOW ME!
+Twitter - http://www.twitter.com/dougdemuro
+Instagram - http://www.instagram.com/dougdemuro
+Facebook - http://www.facebook.com/ddemuro
+
+
+00:00:00 THIS CAR POD!
+00:00:47 Another New Corvette
+00:06:06 BMW M2 Track Package
+00:08:36 The &quot;New&quot; Maserati
+00:14:48 Mazda CX-5 Goes Touchscreen
+00:18:14 The New Waymo
+00:25:16 Porsche Prices Continue To Increase
+00:30:41 Range Rover&apos;s New Logo
+00:33:17 New Car Movie
+00:35:27 Talk Cars
+00:35:43 Doug&apos;s G-Cab Crosses 100k
+00:40:41 There&apos;s a Chance Filippo Buys A 911
+00:45:14 Nick Cant Find a Fiat Multipla
+00:47:30 Market Report
+00:51:05 Nick Met Ed Bolian
+00:56:32 Community Questions
+00:57:41 What Are Modern Poster Cars?
+01:00:24 Thoughts On PPF?
+01:05:16 Would You Do A Top Gear Style Roadtrip?
+01:08:00 What Are Good Vs Bad Modifications?
+01:13:02 Is Doug&apos;s Wiki Page Accurate?
+01:14:42 How Hard Is It To Ship A Car to Europe?
+
+#dougdemuro #thiscarpod #carsandbids</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=4yKfZsZQjPY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4yKfZsZQjPY/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>New Corvette Teased, Maserati Gets Weird, Chinese Self Driving Cars Hit the U.S. THISCARPOD! EP69</media:title>
+			<yt:duration seconds='4953'/>
+	        <yt:uploaded>2025-08-07T14:36:37</yt:uploaded>
+			<yt:uploaderId>EEUCsqjHFMB_JYTaEnf_vmTNqg</yt:uploaderId>
+			<yt:videoid>4yKfZsZQjPY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='129877'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>

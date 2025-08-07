@@ -1,0 +1,1266 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:4eiGD8fnmTo</id>
+		<published>2025-08-07T14:45:37</published>
+		<updated>2025-08-07T14:45:37</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>BITTEN by Venomous Rattlesnake | Trying to Survive</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/4eiGD8fnmTo?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=4eiGD8fnmTo&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/4eiGD8fnmTo/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=4eiGD8fnmTo'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/4eiGD8fnmTo?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/4eiGD8fnmTo/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/4eiGD8fnmTo?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=4eiGD8fnmTo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=4eiGD8fnmTo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=4eiGD8fnmTo' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Thanks to Aviron for sponsoring today&apos;s video! They have their best prices of the year on right now and you can get an additional $50 off all of their products when you use code BRAVE50. Visit https://avironactive.yt.link/sLwTVj7 
+
+Would You Know What to Do if Bitten by a Rattlesnake?!
+
+Introducing SURVIVAL STATION — a bold new series that tests your instincts and teaches life-saving skills when nature turns against you.
+
+In this video, we drop you into a life-threatening scenario: You&apos;re deep in the wilds of Southern California. A rattlesnake strikes — injecting venom into your leg. What do you do next?
+
+Time to see if you’d survive when Survival Station 1 begins!
+
+Chapters:
+00:00 - The Survival Situation
+01:18 - Survival Station 1: Run?
+02:36 - Survival Station 2: Stop the Venom!
+07:09 - Survival Station 3: Distress Signal?
+08:00 - A man in Arizona got bit
+09:58 - What&apos;s the Worst Case Scenario?!</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=4eiGD8fnmTo&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4eiGD8fnmTo/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4eiGD8fnmTo/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4eiGD8fnmTo/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4eiGD8fnmTo/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4eiGD8fnmTo/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4eiGD8fnmTo/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4eiGD8fnmTo/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>BITTEN by Venomous Rattlesnake | Trying to Survive</media:title>
+			<yt:duration seconds='674'/>
+	        <yt:uploaded>2025-08-07T14:45:37</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>4eiGD8fnmTo</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='107556'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:yMiO1Ra7P_o</id>
+		<published>2025-08-07T14:45:37</published>
+		<updated>2025-08-07T14:45:37</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>I&apos;ve Taught You Everything. It&apos;s Time.</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/yMiO1Ra7P_o?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=yMiO1Ra7P_o&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/yMiO1Ra7P_o/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=yMiO1Ra7P_o'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/yMiO1Ra7P_o?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/yMiO1Ra7P_o/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/yMiO1Ra7P_o?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=yMiO1Ra7P_o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=yMiO1Ra7P_o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=yMiO1Ra7P_o' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Big thanks to Nomad for sponsoring this episode! Download the app and use our special discount code NOMCOYOTE  for 20% off all data plans (available to both new and existing users): https://www.getnomad.app/shop
+
+
+
+The swamp is calling — and this time it’s war! Coyote faces off against fellow wildlife expert and YouTuber Ray Tiller for a wild snapping turtle showdown you won’t want to miss. Over two action-packed days, these two hit multiple ponds across Ohio, racing to catch the most snapping turtles, the largest turtle, and the heaviest combined catch.
+ 
+Watch as they run, leap, and dive into the muddy waters, dodging the powerful jaws of these fierce mud dragons. And the real prize? The custom snapping turtle trophy and the title of 2025 King of the Swamp!
+ 
+And don’t miss the insane moment when they catch two massive snapping turtles at the same time!
+ 
+Get ready... It&apos;s Turtle Time.
+
+
+
+Special thanks to Ray for taking part in this epic competition! Click the links below to see more from Ray on Instagram, TikTok, and his own YouTube channel Fintastic Films:
+
+https://www.youtube.com/@UCRfMWrJRfTSuRswzOYhQ4tw 
+https://www.instagram.com/fintasticfilms/
+https://www.tiktok.com/@fintasticfilms
+https://www.instagram.com/raymond_tiller/
+https://www.tiktok.com/@raytiller_official
+
+
+
+Huge thanks also to Trophy Tiers for making us this AMAZING custom snapping turtle trophy! They create one-of-a-kind trophies for any occasion, and if you’re into fantasy football, they specialize in stackable trophies where you add a tier every year to display the winners around the sides. 
+
+Check them out at https://www.trophytiers.com and follow https://www.instagram.com/TrophyTiers/ on Instagram for more!
+
+
+
+And last but certainly not least, thanks so much to our friends Jessica Schneider and Ellie Rial at Holden Forests &amp; Gardens for hosting us on their beautiful grounds! Plan your visit today at one of Coyote&apos;s favorite childhood locations: https://holdenfg.org/holden-arboretum/plan-your-visit/
+
+
+
+FOLLOW Brave Wilderness on Instagram - https://www.instagram.com/bravewilderness/
+FOLLOW Coyote Peterson on Instagram - https://www.instagram.com/coyotepeterson/
+FOLLOW Brave Wilderness on TikTok - https://www.tiktok.com/@bravewildernessnetwork
+FOLLOW Coyote Peterson on TikTok - https://www.tiktok.com/@coyotepetersonofficial
+
+Don&apos;t miss out on Brave Wilderness news and updates! Subscribe to our emails - https://www.bravewilderness.com/home/#email-signup
+
+Are you BRAVE and WILD?! Join the Brave Crew official club - http://bit.ly/bravecrewofficial
+
+
+
+CREDITS:
+HOST -  Coyote Peterson
+CAMERA - Coyote Peterson
+EDITOR - Ryan Gebura
+COLOR AND AUDIO MASTERING - Ryan Gebura
+MARKETING - Matt Fujita
+GRAPHIC DESIGN - Chance Ross
+PRODUCTION COORDINATOR - Suzanne Zonner
+PRODUCER - Beau Sedivy
+PRODUCER - Coyote Peterson
+MUSIC - APM Music
+
+
+
+The Brave Wilderness Channel is your one stop connection to a wild world of adventure and up-close animal encounters. SUBSCRIBE NOW and join the crew that brings you closer to the most beloved, bizarre and misunderstood creatures on Earth!   
+  
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. THE ANIMALS, INSECTS, PLANT LIFE, AND TERRAIN FEATURED IN  OUR VIDEOS CAN BE DANGEROUS AND CAN POSE A SIGNIFICANT RISK OF INJURY OR  DEATH. The Brave Wilderness hosts and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife. No animals were harmed or removed from  their natural habitat while making this video. Brave Wilderness has obtained permission  to film in each location featured in this video.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=yMiO1Ra7P_o&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yMiO1Ra7P_o/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yMiO1Ra7P_o/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yMiO1Ra7P_o/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yMiO1Ra7P_o/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yMiO1Ra7P_o/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yMiO1Ra7P_o/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yMiO1Ra7P_o/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>I&apos;ve Taught You Everything. It&apos;s Time.</media:title>
+			<yt:duration seconds='1893'/>
+	        <yt:uploaded>2025-08-07T14:45:37</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>yMiO1Ra7P_o</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='81342'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:H6zP-xAnCJs</id>
+		<published>2025-08-07T14:45:38</published>
+		<updated>2025-08-07T14:45:38</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>STUNG by Meanest Scorpion in Thailand!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/H6zP-xAnCJs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=H6zP-xAnCJs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/H6zP-xAnCJs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=H6zP-xAnCJs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/H6zP-xAnCJs?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/H6zP-xAnCJs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/H6zP-xAnCJs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=H6zP-xAnCJs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=H6zP-xAnCJs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=H6zP-xAnCJs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Thanks to Tecovas for sponsoring this video! Visit https://tecovas.yt.link/nFotwy8 and use code BRAVE10 to get 10% off your new favorite pair of boots today (first purchase only)!
+
+Watch as Mark takes on the first recorded sting from the dangerous Thai Bark Scorpion! Where will it land on the Brave Wilderness Bite-Sting Index? How will the sting compare to the likes of the Bullet Ant, Fire Worm, and the deadly Arizona Bark Scorpion? We&apos;re about to find out! 
+
+Subscribe! https://www.youtube.com/@MarkVins 
+
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. THE ANIMALS, INSECTS, PLANT LIFE, AND TERRAIN FEATURED IN  OUR VIDEOS CAN BE DANGEROUS AND CAN POSE A SIGNIFICANT RISK. Mark Vins and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=H6zP-xAnCJs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/H6zP-xAnCJs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/H6zP-xAnCJs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/H6zP-xAnCJs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/H6zP-xAnCJs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/H6zP-xAnCJs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/H6zP-xAnCJs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/H6zP-xAnCJs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>STUNG by Meanest Scorpion in Thailand!</media:title>
+			<yt:duration seconds='817'/>
+	        <yt:uploaded>2025-08-07T14:45:38</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>H6zP-xAnCJs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='351517'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:QlBuYdyDrB0</id>
+		<published>2025-08-07T14:45:38</published>
+		<updated>2025-08-07T14:45:38</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Shark Tooth Challenge! Digging for GIANT Megalodon Teeth!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/QlBuYdyDrB0?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=QlBuYdyDrB0&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/QlBuYdyDrB0/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=QlBuYdyDrB0'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/QlBuYdyDrB0?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/QlBuYdyDrB0/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/QlBuYdyDrB0?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=QlBuYdyDrB0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=QlBuYdyDrB0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=QlBuYdyDrB0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Big thanks to Coupert for sponsoring this episode! Click this link to install Coupert for free and start saving like a pro:  https://www.coupert.com/join-coupert?ref=bravewilderness-1742832000&amp;m=youtube 
+#coupert #coupertextension #savingmoney 
+
+
+
+Just in time for Shark Week, we present... Ultimate Megalodon Tooth Showdown! 
+
+Coyote and Mario are on the hunt for prehistoric shark teeth the size of your hand! Teaming up with real fossil experts—and world-record-breaking explorer Lexie Limitless—they’re diving into the mud to see who can score the biggest megalodon treasure.
+
+There are glorious prizes for the winners.
+And brutal punishments for the losers.
+And also… The Meg Man himself, Jason Statham?
+
+Dive into the Megalodon Madness with us!
+
+
+
+Another huge thanks to our friends with Palmetto Fossils SHRKco for sharing their knowledge and their dig site! To see more of their incredible work and discoveries, follow them below:
+
+Skye &amp; Joshua Basak
+https://www.youtube.com/@UC-UwRb0cSH8dAYLADzf7uSA 
+https://palmetto-fossil-excursions.com
+https://www.instagram.com/palmetto_fossil_excursions/
+https://www.instagram.com/carolinameghuntress/
+https://www.instagram.com/jbsfossildiscoverys/
+
+Wilderness Jeff
+https://www.youtube.com/channel/UCRomDcRcvd3-jjTGSkcviag
+https://shrkco.com/
+
+And let&apos;s not forget out wonderful judges, Dave Ryan and Mark Bunce!
+
+
+
+Thanks also to Lexie Limitless for joining us on this expedition and helping to dig up some ancient treasures! Follow Lexie&apos;s adventures on her YouTube channel and social media here:
+
+https://www.youtube.com/@UCWoEpiHaC7LOQhaHFT8Rx7A 
+https://www.instagram.com/lexielimitless/
+https://www.tiktok.com/@lexie.limitless
+
+
+
+Finally, special thanks to Jason Stanly, the premier Jason Statham impersonator, for his appearance and unbelievable impression!
+
+Follow Jason and book your own personalized video below!
+
+https://www.cameo.com/jason_statham_actor 
+https://www.instagram.com/jasonstanlyjbs/
+https://www.tiktok.com/@the_statham_guy
+https://www.jasonstanly.com
+
+
+
+FOLLOW Brave Wilderness on Instagram - https://www.instagram.com/bravewilderness/
+FOLLOW Coyote Peterson on Instagram - https://www.instagram.com/coyotepeterson/
+FOLLOW Brave Wilderness on TikTok - https://www.tiktok.com/@bravewildernessnetwork
+FOLLOW Coyote Peterson on TikTok - https://www.tiktok.com/@coyotepetersonofficial
+
+Don&apos;t miss out on Brave Wilderness news and updates! Subscribe to our emails - https://www.bravewilderness.com/home/#email-signup
+
+Are you BRAVE and WILD?! Join the Brave Crew official club - http://bit.ly/bravecrewofficial
+
+
+
+CREDITS:
+HOST -  Coyote Peterson
+CAMERA - Coyote Peterson
+EDITOR - Ryan Gebura
+COLOR AND AUDIO MASTERING - Ryan Gebura
+MARKETING - Matt Fujita
+GRAPHIC DESIGN - Chance Ross
+PRODUCTION COORDINATOR - Suzanne Zonner
+PRODUCER - Beau Sedivy
+PRODUCER - Coyote Peterson
+MUSIC - APM Music
+
+
+
+The Brave Wilderness Channel is your one stop connection to a wild world of adventure and up-close animal encounters. SUBSCRIBE NOW and join the crew that brings you closer to the most beloved, bizarre and misunderstood creatures on Earth!   
+  
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. THE ANIMALS, INSECTS, PLANT LIFE, AND TERRAIN FEATURED IN  OUR VIDEOS CAN BE DANGEROUS AND CAN POSE A SIGNIFICANT RISK OF INJURY OR  DEATH. The Brave Wilderness hosts and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife. No animals were harmed or removed from  their natural habitat while making this video. Brave Wilderness has obtained permission  to film in each location featured in this video.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=QlBuYdyDrB0&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QlBuYdyDrB0/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QlBuYdyDrB0/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QlBuYdyDrB0/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QlBuYdyDrB0/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QlBuYdyDrB0/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QlBuYdyDrB0/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/QlBuYdyDrB0/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Shark Tooth Challenge! Digging for GIANT Megalodon Teeth!</media:title>
+			<yt:duration seconds='1782'/>
+	        <yt:uploaded>2025-08-07T14:45:38</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>QlBuYdyDrB0</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='99930'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Cl_w3l24ekI</id>
+		<published>2025-08-07T14:45:38</published>
+		<updated>2025-08-07T14:45:38</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Poison Ivy Smoothie - BIG MISTAKE!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Cl_w3l24ekI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Cl_w3l24ekI&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/Cl_w3l24ekI/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Cl_w3l24ekI'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/Cl_w3l24ekI?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/Cl_w3l24ekI/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/Cl_w3l24ekI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Cl_w3l24ekI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=Cl_w3l24ekI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=Cl_w3l24ekI' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Thank you so much to Lectric for making the coolest eBikes on the planet! If you want to ride in style and comfort like us, check out Lectric&apos;s XPeak High-Step 2.0 eBike at https://lectricebikes.sjv.io/coyote and get yours today!
+
+
+
+This episode is not for the faint of heart.
+
+Coyote has claimed for years that he’s immune to poison ivy—but that’s about to be put to the ultimate test. Joined by wildlife expert, Ray Tiller (who, spoiler alert, breaks out from even a glance at poison ivy), the duo embarks on a wild experiment that pushes their skin—and sanity—to the edge.
+
+They ID the plant and prep for contact. They test leaf vs. stem vs. oil. And then… they BLEND IT into a Poison Ivy SMOOTHIE and rub it directly on their skin
+
+This isn’t just backyard botany. It’s science, pain, and a whole lot of itching waiting to happen. And the results? Let’s just say… you’ll want to see how it plays out in the days and weeks after.
+
+Have YOU ever had a run-in with poison ivy? Head to the comments and tell us your story!
+
+
+
+Special thanks to Ray for joining us on this adventure and sharing his knowledge! Click the links below to see more from Ray on Instagram, TikTok, and his own YouTube channel Fintastic Films:
+
+https://www.youtube.com/@UCRfMWrJRfTSuRswzOYhQ4tw 
+https://www.instagram.com/fintasticfilms/
+https://www.tiktok.com/@fintasticfilms
+https://www.instagram.com/raymond_tiller/
+https://www.tiktok.com/@raytiller_official
+
+
+
+FOLLOW Brave Wilderness on Instagram - https://www.instagram.com/bravewilderness/
+FOLLOW Coyote Peterson on Instagram - https://www.instagram.com/coyotepeterson/
+FOLLOW Brave Wilderness on TikTok - https://www.tiktok.com/@bravewildernessnetwork
+FOLLOW Coyote Peterson on TikTok - https://www.tiktok.com/@coyotepetersonofficial
+
+Don&apos;t miss out on Brave Wilderness news and updates! Subscribe to our emails - https://www.bravewilderness.com/home/#email-signup
+
+Are you BRAVE and WILD?! Join the Brave Crew official club - http://bit.ly/bravecrewofficial
+
+
+
+CREDITS:
+HOST -  Coyote Peterson
+CAMERA - Coyote Peterson
+EDITOR - Ryan Gebura
+COLOR AND AUDIO MASTERING - Ryan Gebura
+MARKETING - Matt Fujita
+GRAPHIC DESIGN - Chance Ross
+PRODUCTION COORDINATOR - Suzanne Zonner
+PRODUCER - Beau Sedivy
+PRODUCER - Coyote Peterson
+MUSIC - APM Music
+
+
+
+The Brave Wilderness Channel is your one stop connection to a wild world of adventure and up-close animal encounters. SUBSCRIBE NOW and join the crew that brings you closer to the most beloved, bizarre and misunderstood creatures on Earth!   
+  
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. THE ANIMALS, INSECTS, PLANT LIFE, AND TERRAIN FEATURED IN  OUR VIDEOS CAN BE DANGEROUS AND CAN POSE A SIGNIFICANT RISK OF INJURY OR  DEATH. The Brave Wilderness hosts and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife. No animals were harmed or removed from  their natural habitat while making this video. Brave Wilderness has obtained permission  to film in each location featured in this video.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Cl_w3l24ekI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Cl_w3l24ekI/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Cl_w3l24ekI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Cl_w3l24ekI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Cl_w3l24ekI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Cl_w3l24ekI/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Cl_w3l24ekI/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Cl_w3l24ekI/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Poison Ivy Smoothie - BIG MISTAKE!</media:title>
+			<yt:duration seconds='902'/>
+	        <yt:uploaded>2025-08-07T14:45:38</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>Cl_w3l24ekI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='555203'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:_OuFSCKvaSM</id>
+		<published>2025-08-07T14:45:38</published>
+		<updated>2025-08-07T14:45:38</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>STUNG by the Murder Hornet!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/_OuFSCKvaSM?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=_OuFSCKvaSM&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/_OuFSCKvaSM/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=_OuFSCKvaSM'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/_OuFSCKvaSM?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/_OuFSCKvaSM/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/_OuFSCKvaSM?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=_OuFSCKvaSM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=_OuFSCKvaSM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=_OuFSCKvaSM' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Thanks to Tecovas for sponsoring this video! Visit https://tecovas.yt.link/0QA5bdO to get your new favorite pair of boots today!
+
+On this adventure, Mark travels into the forests of Japan, hunting for the infamous Giant Murder Hornet!  Will this massive insect become the new King of Sting on the Official Brave Wilderness Bite Sting Index?! Watch to find out!
+
+Chapters:
+
+00:00 - STUNG by the Murder Hornet!
+00:14 - Let&apos;s find a Murder Hornet
+02:28 - Caught One
+03:04 - Sting table time
+07:11 - Hornet comes out of the jar
+08:45 - Sting time
+11:19 - Back to the table
+
+
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. THE ANIMALS, INSECTS, PLANT LIFE, AND TERRAIN FEATURED IN  OUR VIDEOS CAN BE DANGEROUS AND CAN POSE A SIGNIFICANT RISK. Mark Vins and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife. No animals were harmed in the making of this video.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=_OuFSCKvaSM&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_OuFSCKvaSM/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_OuFSCKvaSM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_OuFSCKvaSM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_OuFSCKvaSM/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_OuFSCKvaSM/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_OuFSCKvaSM/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_OuFSCKvaSM/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>STUNG by the Murder Hornet!</media:title>
+			<yt:duration seconds='819'/>
+	        <yt:uploaded>2025-08-07T14:45:38</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>_OuFSCKvaSM</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1805847'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Ujjln4m88GE</id>
+		<published>2025-08-07T14:45:38</published>
+		<updated>2025-08-07T14:45:38</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>5 Deadly Tick Bites You Need To Worry About!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Ujjln4m88GE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Ujjln4m88GE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/Ujjln4m88GE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Ujjln4m88GE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/Ujjln4m88GE?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/Ujjln4m88GE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/Ujjln4m88GE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=Ujjln4m88GE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=Ujjln4m88GE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=Ujjln4m88GE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Thanks for Kitsch for sponsoring this video! Follow my link https://kitsch.yt.link/avJX8XJ or use my code BRAVEWILDERNESS to get 25% off your order which will auto-apply at checkout!
+
+These are the five ticks you need to worry about this tick season! Keep those pants rolled down, and make sure you don&apos;t take any of these parasites home with you while you&apos;re out in the wild.
+
+Subscribe! https://www.youtube.com/@MarkVins 
+
+Chapters:
+
+00:00 5 Dangerous Ticks!
+00:14 Tick #5 - Meat Allergy!?
+1:28 Tick #4 - The Invasive Wildcard
+2:42 Tick #3 - The Smallest but Mightiest
+5:54 Tick #2 - The Worst Fever!
+8:03 Tick #1 - The Most Dangerous!
+
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. THE ANIMALS, INSECTS, PLANT LIFE, AND TERRAIN FEATURED IN  OUR VIDEOS CAN BE DANGEROUS AND CAN POSE A SIGNIFICANT RISK OF INJURY OR  DEATH. The Brave Wilderness hosts and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife. No animals were harmed or removed from  their natural habitat while making this video. Brave Wilderness has obtained permission  to film in each location featured in this video.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=Ujjln4m88GE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ujjln4m88GE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ujjln4m88GE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ujjln4m88GE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ujjln4m88GE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ujjln4m88GE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ujjln4m88GE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ujjln4m88GE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>5 Deadly Tick Bites You Need To Worry About!</media:title>
+			<yt:duration seconds='601'/>
+	        <yt:uploaded>2025-08-07T14:45:38</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>Ujjln4m88GE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='380160'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:sSaBUkhKOk0</id>
+		<published>2025-08-07T14:45:39</published>
+		<updated>2025-08-07T14:45:39</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Found in a GRIZZLY BEAR Cave!!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/sSaBUkhKOk0?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=sSaBUkhKOk0&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/sSaBUkhKOk0/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=sSaBUkhKOk0'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/sSaBUkhKOk0?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/sSaBUkhKOk0/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/sSaBUkhKOk0?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=sSaBUkhKOk0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=sSaBUkhKOk0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=sSaBUkhKOk0' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Support the channel by getting Fishing Clash on your iOS/Android device for free https://fishingclash.link/BW25 !
+
+Use our gift code BRAVE to get a $20 reward and share your biggest catch in the comments!
+
+Join the Fishing Clash community to stay tuned about the latest news:
+Instagram - https://www.instagram.com/fishingclash_official/  
+Facebook -  https://www.facebook.com/fishingclashcommunity  
+
+
+
+Ten years ago, deep in Montana’s remote Tom Miner Basin, Casey Anderson made a choice few would dare: instead of running from a grizzly bear den… he crawled inside.
+
+Now, in one of our boldest episodes yet, Coyote teams up with Casey to return to the most densely grizzly-populated area in the lower 48. Their mission? Find that same bear cave—and uncover whatever secrets the camera may have captured after all this time.
+
+Did the camera survive Montana’s brutal winters? Are there images of grizzlies… or other mysterious creatures? Is the footage still recoverable—or has nature claimed it for good?
+
+As if that challenge wasn’t enough, Coyote and Casey come face-to-face with a mother grizzly and her two cubs—exactly the kind of encounter Casey warns could lead to disaster.
+
+This is more than an animal encounter. It’s a real-life wilderness mystery years in the making.
+
+The adventure is waiting—watch the new episode now on Brave Wilderness. If you to see the big reveal, and more Coyote and Casey adventures, check out Casey&apos;s new YouTube channel, Endless Venture.
+
+Endless Venture on Instagram - https://www.instagram.com/endlessvtr/
+Casey on Instagram - https://www.instagram.com/grizzlyguy/
+Riley on Instagram - https://www.instagram.com/riley.mcclaughry/
+
+
+
+FOLLOW Brave Wilderness on Instagram - https://www.instagram.com/bravewilderness/
+FOLLOW Coyote Peterson on Instagram - https://www.instagram.com/coyotepeterson/
+FOLLOW Brave Wilderness on TikTok - https://www.tiktok.com/@bravewildernessnetwork
+FOLLOW Coyote Peterson on TikTok - https://www.tiktok.com/@coyotepetersonofficial
+
+Don&apos;t miss out on Brave Wilderness news and updates! Subscribe to our emails - https://www.bravewilderness.com/home/#email-signup
+
+Are you BRAVE and WILD?! Join the Brave Crew official club - http://bit.ly/bravecrewofficial
+
+
+
+CREDITS:
+HOST -  Coyote Peterson
+CAMERA - Coyote Peterson
+EDITOR - Ryan Gebura
+COLOR AND AUDIO MASTERING - Ryan Gebura
+MARKETING - Matt Fujita
+GRAPHIC DESIGN - Chance Ross
+PRODUCTION COORDINATOR - Suzanne Zonner
+PRODUCER - Beau Sedivy
+PRODUCER - Coyote Peterson
+MUSIC - APM Music
+
+
+
+The Brave Wilderness Channel is your one stop connection to a wild world of adventure and up-close animal encounters. SUBSCRIBE NOW and join the crew that brings you closer to the most beloved, bizarre and misunderstood creatures on Earth!   
+  
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. THE ANIMALS, INSECTS, PLANT LIFE, AND TERRAIN FEATURED IN  OUR VIDEOS CAN BE DANGEROUS AND CAN POSE A SIGNIFICANT RISK OF INJURY OR  DEATH. The Brave Wilderness hosts and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife. No animals were harmed or removed from  their natural habitat while making this video. Brave Wilderness has obtained permission  to film in each location featured in this video.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=sSaBUkhKOk0&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/sSaBUkhKOk0/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/sSaBUkhKOk0/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/sSaBUkhKOk0/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/sSaBUkhKOk0/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/sSaBUkhKOk0/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/sSaBUkhKOk0/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/sSaBUkhKOk0/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Found in a GRIZZLY BEAR Cave!!</media:title>
+			<yt:duration seconds='857'/>
+	        <yt:uploaded>2025-08-07T14:45:39</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>sSaBUkhKOk0</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='270441'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:idMJUagLXdU</id>
+		<published>2025-08-07T14:45:39</published>
+		<updated>2025-08-07T14:45:39</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>STUNG by an Electric Caterpillar!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/idMJUagLXdU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=idMJUagLXdU&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/idMJUagLXdU/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=idMJUagLXdU'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/idMJUagLXdU?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/idMJUagLXdU/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/idMJUagLXdU?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=idMJUagLXdU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=idMJUagLXdU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=idMJUagLXdU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Thanks to Tecovas for sponsoring this video! Visit https://tecovas.yt.link/SB0Kzx3 to get your new favorite pair of boots today!
+
+Watch as Mark goes face-to-face with the shocking sting of Japan’s infamous Denki Mushi caterpillar! Where will this jolt-inducing larva land on the Brave Wilderness Bite-Sting Index? Will it rival the agony of the Cow Killer, the Fire Worm, or even the dreaded Stonefish? Get ready to witness a surge of pain as Mark puts this strange, fuzzy creature’s defense mechanism to the ultimate test. Could the Denki Mushi be the next king of pain, potentially unseating the brutal sting of the Bark Scorpion? There&apos;s only one way to find out!
+
+Podcast about this video - https://youtu.be/5jFWMwES4Xw
+
+The Brave Wilderness Channel is your one stop connection to a wild world of adventure and up-close animal encounters. SUBSCRIBE NOW and join the crew that brings you closer to the most beloved, bizarre and misunderstood creatures on Earth!   
+
+Subscribe! https://www.youtube.com/@MarkVins 
+
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. THE ANIMALS, INSECTS, PLANT LIFE, AND TERRAIN FEATURED IN  OUR VIDEOS CAN BE DANGEROUS AND CAN POSE A SIGNIFICANT RISK OF INJURY OR  DEATH. The Brave Wilderness hosts and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife. No animals were harmed or removed from  their natural habitat while making this video. Brave Wilderness has obtained permission  to film in each location featured in this video.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=idMJUagLXdU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/idMJUagLXdU/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/idMJUagLXdU/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/idMJUagLXdU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/idMJUagLXdU/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/idMJUagLXdU/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/idMJUagLXdU/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/idMJUagLXdU/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>STUNG by an Electric Caterpillar!</media:title>
+			<yt:duration seconds='869'/>
+	        <yt:uploaded>2025-08-07T14:45:39</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>idMJUagLXdU</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='309572'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:EK2Dt0vXNOY</id>
+		<published>2025-08-07T14:45:39</published>
+		<updated>2025-08-07T14:45:39</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>I Found the World’s Smartest Octopus! (Wonderpus)</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/EK2Dt0vXNOY?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=EK2Dt0vXNOY&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/EK2Dt0vXNOY/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=EK2Dt0vXNOY'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/EK2Dt0vXNOY?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/EK2Dt0vXNOY/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/EK2Dt0vXNOY?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=EK2Dt0vXNOY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=EK2Dt0vXNOY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=EK2Dt0vXNOY' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Try OpusClip today and receive one free week, then three months at 50% off the Pro plan.
+ https://clip.opus.pro/dashboard?coupon_code=CLIPPING
+
+In this wild adventure, Mark relives diving in Indonesia in search of the Wonderpus, one of the rarest octopuses in the world and possibly one of the smartest?!
+
+Subscribe! https://www.youtube.com/@MarkVins 
+
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. THE ANIMALS, INSECTS, PLANT LIFE, AND TERRAIN FEATURED IN  OUR VIDEOS CAN BE DANGEROUS AND CAN POSE A SIGNIFICANT RISK. Mark Vins and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=EK2Dt0vXNOY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EK2Dt0vXNOY/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EK2Dt0vXNOY/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EK2Dt0vXNOY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EK2Dt0vXNOY/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EK2Dt0vXNOY/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EK2Dt0vXNOY/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EK2Dt0vXNOY/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>I Found the World’s Smartest Octopus! (Wonderpus)</media:title>
+			<yt:duration seconds='603'/>
+	        <yt:uploaded>2025-08-07T14:45:39</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>EK2Dt0vXNOY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='129395'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:mls7qIPppAs</id>
+		<published>2025-08-07T14:45:39</published>
+		<updated>2025-08-07T14:45:39</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Scariest Pig on the Planet! (Bearded Pig of Borneo)</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/mls7qIPppAs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=mls7qIPppAs&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/mls7qIPppAs/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=mls7qIPppAs'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/mls7qIPppAs?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/mls7qIPppAs/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/mls7qIPppAs?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=mls7qIPppAs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=mls7qIPppAs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=mls7qIPppAs' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Head to https://maev.yt.link/bKapeqc and use code BRAVE for 20% off your first order.
+
+This was the pig encounter of a lifetime! Watch as Mark and the crew explore Bako National Park in Malaysian Borneo, and come face to face with a wild bearded pig while searching for proboscis monkeys! This was by far one of the most unexpected encounters while making a Brave Wilderness video!
+
+Subscribe! @MarkVins
+ 
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. THE ANIMALS, INSECTS, PLANT LIFE, AND TERRAIN FEATURED IN  OUR VIDEOS CAN BE DANGEROUS AND CAN POSE A SIGNIFICANT RISK. Mark Vins and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife. No wildlife was harmed or removed from their habitats to make this video</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=mls7qIPppAs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/mls7qIPppAs/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/mls7qIPppAs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/mls7qIPppAs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/mls7qIPppAs/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/mls7qIPppAs/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/mls7qIPppAs/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/mls7qIPppAs/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Scariest Pig on the Planet! (Bearded Pig of Borneo)</media:title>
+			<yt:duration seconds='750'/>
+	        <yt:uploaded>2025-08-07T14:45:39</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>mls7qIPppAs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='231816'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:SWNFshZ-1vU</id>
+		<published>2025-08-07T14:45:39</published>
+		<updated>2025-08-07T14:45:39</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Searching for CREEPY Tide Pool Creatures at Night!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/SWNFshZ-1vU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=SWNFshZ-1vU&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/SWNFshZ-1vU/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=SWNFshZ-1vU'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/SWNFshZ-1vU?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/SWNFshZ-1vU/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/SWNFshZ-1vU?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=SWNFshZ-1vU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=SWNFshZ-1vU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=SWNFshZ-1vU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Take the first step toward adventure with Vessi. Visit https://vessi.com/wilderness to keep your outdoor adventure comfortable and dry. Explore confidently and enjoy 15% off your first pair at checkout!
+
+
+
+By day, Costa Rica’s tide pools are teeming with life. But when the sun disappears... a whole new world awakens.
+ 
+In this episode, Coyote returns to the rocky shores — but this time under the cover of darkness. With his flashlight cutting through the black of night, he’s on the hunt for the strange, the scary, and the seldom-seen.
+ 
+What creatures only emerge when the world is sleeping? Some are masters of camouflage, others are downright spine-chilling. You won’t believe what turns up in the night.
+ 
+
+
+Special thanks to Tosh, Chuck, and Arturo from 4 Corners for joining us on this expedition! Check out their website and follow their adventures on social media below:
+4 Corners Website - https://4cornerscostarica.com/
+4 Corners on Instagram - https://www.instagram.com/4cornerscr/
+Tosh on Instagram - https://www.instagram.com/toshtalbot/
+Chuck on Instagram - https://www.instagram.com/chuck_hill/
+Arturo on Instagram - https://www.instagram.com/marvinarturo_r/
+
+
+
+FOLLOW Brave Wilderness on Instagram - https://www.instagram.com/bravewilderness/
+FOLLOW Coyote Peterson on Instagram - https://www.instagram.com/coyotepeterson/
+FOLLOW Brave Wilderness on TikTok - https://www.tiktok.com/@bravewildernessnetwork
+FOLLOW Coyote Peterson on TikTok - https://www.tiktok.com/@coyotepetersonofficial
+
+Don&apos;t miss out on Brave Wilderness news and updates! Subscribe to our emails - https://www.bravewilderness.com/home/#email-signup
+
+Are you BRAVE and WILD?! Join the Brave Crew official club - http://bit.ly/bravecrewofficial
+
+
+
+CREDITS:
+HOST -  Coyote Peterson
+DIRECTOR OF PHOTOGRAPHY - Trent Underwood
+CAMERA OPERATOR &amp; WILDLIFE BIOLOGIST - Mario Aldecoa
+EDITOR - Ryan Gebura
+COLOR AND AUDIO MASTERING - Ryan Gebura
+MARKETING - Matt Fujita
+PRODUCTION COORDINATOR - Suzanne Zonner
+PRODUCER - Beau Sedivy
+PRODUCER - Coyote Peterson
+MUSIC - APM Music
+
+
+
+The Brave Wilderness Channel is your one stop connection to a wild world of adventure and up-close animal encounters. SUBSCRIBE NOW and join the crew that brings you closer to the most beloved, bizarre and misunderstood creatures on Earth!   
+  
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. THE ANIMALS, INSECTS, PLANT LIFE, AND TERRAIN FEATURED IN  OUR VIDEOS CAN BE DANGEROUS AND CAN POSE A SIGNIFICANT RISK OF INJURY OR  DEATH. The Brave Wilderness hosts and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife. No animals were harmed or removed from  their natural habitat while making this video. Brave Wilderness has obtained permission  to film in each location featured in this video.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=SWNFshZ-1vU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SWNFshZ-1vU/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SWNFshZ-1vU/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SWNFshZ-1vU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SWNFshZ-1vU/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SWNFshZ-1vU/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SWNFshZ-1vU/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/SWNFshZ-1vU/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Searching for CREEPY Tide Pool Creatures at Night!</media:title>
+			<yt:duration seconds='681'/>
+	        <yt:uploaded>2025-08-07T14:45:39</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>SWNFshZ-1vU</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='271351'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:52AuNyBbedE</id>
+		<published>2025-08-07T14:45:40</published>
+		<updated>2025-08-07T14:45:40</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>STUNG by a Stonefish! (Most Painful Sting on Earth)</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/52AuNyBbedE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=52AuNyBbedE&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/52AuNyBbedE/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=52AuNyBbedE'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/52AuNyBbedE?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/52AuNyBbedE/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/52AuNyBbedE?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=52AuNyBbedE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=52AuNyBbedE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=52AuNyBbedE' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>See what it’s like to get stung by the world’s most venomous fish, the Stonefish!
+
+In this video I&apos;m back in Australia to show you where stonefish live, how they defend themselves with venomous spines and then I will test the venom on myself to see just how bad this sting is vs the other toxic fish I’ve encountered before. First hand victims have claimed this is the most painful sting on earth. Now it’s time to find out.
+
+Make no mistake, this is a very painful sting and I can’t stress enough that I’m a professional performing a controlled test. DO NOT try to recreate this video. Stonefish stings have the potential to be life threatening to certain individuals.
+
+
+Big thanks to Miller Wilson for helping our team locate and understand Stonefish behavior in creating this video. 
+
+The Brave Wilderness Channel is your one stop connection to a wild world of adventure and up-close animal encounters. SUBSCRIBE NOW and join the crew that brings you closer to the most beloved, bizarre and misunderstood creatures on Earth!   
+
+SUBSCRIBE to the Mark Vins Channel:  https://www.youtube.com/c/BraveMarkVins
+
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. THE ANIMALS, INSECTS, PLANT LIFE, AND TERRAIN FEATURED IN  OUR VIDEOS CAN BE DANGEROUS AND CAN POSE A SIGNIFICANT RISK OF INJURY. The Brave Wilderness hosts and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife. No animals were harmed or removed from  their natural habitat while making this video. Brave Wilderness has obtained permission  to film in each location featured in this video.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=52AuNyBbedE&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/52AuNyBbedE/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/52AuNyBbedE/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/52AuNyBbedE/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/52AuNyBbedE/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/52AuNyBbedE/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/52AuNyBbedE/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/52AuNyBbedE/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>STUNG by a Stonefish! (Most Painful Sting on Earth)</media:title>
+			<yt:duration seconds='715'/>
+	        <yt:uploaded>2025-08-07T14:45:40</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>52AuNyBbedE</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='8277171'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:BiRdUJOJRII</id>
+		<published>2025-08-07T14:45:40</published>
+		<updated>2025-08-07T14:45:40</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>ALLIGATOR BITE!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/BiRdUJOJRII?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=BiRdUJOJRII&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/BiRdUJOJRII/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=BiRdUJOJRII'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/BiRdUJOJRII?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/BiRdUJOJRII/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/BiRdUJOJRII?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=BiRdUJOJRII' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=BiRdUJOJRII' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=BiRdUJOJRII' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>Please SUBSCRIBE NOW! http://bit.ly/BWchannel
+Watch More - http://bit.ly/BTAgatorbite
+
+On this episode of Breaking Trail, Coyote takes a serious BITE from an American Alligator! 
+
+From coast to coast across the United States and all over the world, American Alligators are becoming increasingly popular in the pet trade and while Coyote himself loves Alligators he is always the first one to say that owning them as pets is NEVER a good idea.
+
+To demonstrate why, he has volunteered himself to show the damage that just a two year old juvenile can inflict upon an unwary pet owner…and let’s just say, it’s not pretty!
+
+So don’t let the adorable squeaking hatchings in the fish tank fool you…they will eventually grow up to become large formidable predators not suitable for indoor companions. Due to this reality, it is unfortunately the case that many of these pet Alligators end up abandoned or neglected because their owners can no longer care for them properly…which is a very sad situation for both the pet owners and animals alike.
+
+So if you’re ever in the mood to own a pet gator, do yourself a favor and just watch this video again so you don’t end up like Coyote…and for those of you that just want to see the CHOMP…well, get ready…here it comes! 
+
+**NEVER ATTEMPT TO RECREATE WHAT YOU HAVE SEEN IN THIS VIDEO**
+
+
+
+Breaking Trail leaves the map behind and follows adventurer and animal expert Coyote Peterson and his crew as they encounter a variety of wildlife in the most amazing environments on the planet!
+
+The Brave Wilderness Channel is your one stop connection to a wild world of adventure and amazing up close animal encounters!
+
+Follow along with adventurer and animal expert Coyote Peterson and his crew as they lead you on three exciting expedition series - Emmy Award Winning Breaking Trail, Dragon Tails and Coyote’s Backyard - featuring everything from Grizzly Bears and Crocodiles to Rattlesnakes and Tarantulas…each episode offers an opportunity to learn something new.  
+      
+So SUBSCRIBE NOW and join the adventure that brings you closer to the most beloved, bizarre and misunderstood creatures known to man! 
+
+GET READY...things are about to get WILD!   
+New Episodes Every Tuesday and Friday at 9AM EST
+
+Subscribe Now! https://www.youtube.com/BraveWilderness
+
+Find more info at: https://www.CoyotePeterson.com
+
+Coyote Peterson on Twitter: https://twitter.com/CoyotePeterson
+
+Coyote Peterson on Facebook: https://www.facebook.com/CoyotePeterson
+
+Coyote Peterson on Instagram: https://www.instagram.com/CoyotePeterson
+
+Coyote Peterson G+: https://plus.google.com/100310803754690323805/about</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=BiRdUJOJRII&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BiRdUJOJRII/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BiRdUJOJRII/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BiRdUJOJRII/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BiRdUJOJRII/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BiRdUJOJRII/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BiRdUJOJRII/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BiRdUJOJRII/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>ALLIGATOR BITE!</media:title>
+			<yt:duration seconds='429'/>
+	        <yt:uploaded>2025-08-07T14:45:40</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>BiRdUJOJRII</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='44835498'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:4qknoG8fqF4</id>
+		<published>2025-08-07T14:45:40</published>
+		<updated>2025-08-07T14:45:40</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>BURNED by a Giant Fireworm!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/4qknoG8fqF4?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=4qknoG8fqF4&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/4qknoG8fqF4/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=4qknoG8fqF4'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg/uploads/4qknoG8fqF4?v=2'/>
+		<author>
+			<name>Brave Wilderness</name>
+			<uri>http://192.168.1.27/feeds/api/users/UC6E2mP01ZLH_kbAyeazCNdg</uri>
+			<yt:userId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/4qknoG8fqF4/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/4qknoG8fqF4?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=4qknoG8fqF4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=4qknoG8fqF4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=4qknoG8fqF4' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Brave Wilderness' yt:type='partner'>UC6E2mP01ZLH_kbAyeazCNdg</media:credit>
+			<media:description type='plain'>If you want to hear the Fireworm sing, check out My Singing Monsters and see what the Rare Fleechwurm can do! Download Today!
+Android: https://play.google.com/store/apps/details?id=com.bigbluebubble.singingmonsters.full&amp;hl=en_US&amp;gl=US&amp;pli=1
+iOS: https://apps.apple.com/us/app/my-singing-monsters/id521671873
+
+This might just be one of the worst stings ever taken on Brave Wilderness! Watch as Mark Vins catches, examines, and ultimately takes a burn from the dreaded Fireworm. Considered to be one of the most painful stings in the ocean.
+
+The Brave Wilderness Channel is your one-stop connection to a wild world of adventure and up-close animal encounters. SUBSCRIBE NOW and join the crew that brings you closer to the most beloved, bizarre and misunderstood creatures on Earth!   
+
+PLEASE DO NOT ATTEMPT TO REENACT OR RECREATE ANY EVENTS OR SCENES  FROM OUR VIDEOS. Mark Vins and crew are professionally trained and routinely  receive assistance from wildlife experts, guides, and safety personnel when filming to  ensure the safety of our crew and all wildlife.</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=4qknoG8fqF4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qknoG8fqF4/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qknoG8fqF4/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qknoG8fqF4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qknoG8fqF4/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qknoG8fqF4/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qknoG8fqF4/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4qknoG8fqF4/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>BURNED by a Giant Fireworm!</media:title>
+			<yt:duration seconds='956'/>
+	        <yt:uploaded>2025-08-07T14:45:40</yt:uploaded>
+			<yt:uploaderId>EEUC6E2mP01ZLH_kbAyeazCNdg</yt:uploaderId>
+			<yt:videoid>4qknoG8fqF4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='1913326'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>

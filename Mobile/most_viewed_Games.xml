@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:yt='http://192.168.1.27//schemas/2007'
+	xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/'
+	xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEIMR384cSp7I2A9XRdUE0Q.&quot;'>
+	<id>tag:youtube.com,2008:user:19cachicha:uploads</id>
+	<updated>2014-12-01T00:09:46.139Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27//schemas/2007#video'/>
+	<title>Search results</title>
+	<logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC9yMWgQf2_xMhbdKPo7Ljrw/videos'/>
+	<link rel='hub' href='http://pubsubhubbub.appspot.com'/>
+	<author>
+		<name>Youtube</name>
+		<uri>http://192.168.1.27//feeds/api/users/Youtube</uri>
+		<yt:userId>null</yt:userId>
+	</author>
+	<generator version='2.1' uri='http://192.168.1.27/'>YouTube data API</generator>
+	<openSearch:totalResults>9955</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>20</openSearch:itemsPerPage>
+    <entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:4q2Kfm-knAc</id>
+		<published>2025-08-07T14:14:04</published>
+		<updated>2025-08-07T14:14:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Welcome to YouTube&apos;s Roblox Museum ft. @Lanaslifeee &amp; @MeEnyu</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/4q2Kfm-knAc?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=4q2Kfm-knAc&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/4q2Kfm-knAc/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=4q2Kfm-knAc'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg/uploads/4q2Kfm-knAc?v=2'/>
+		<author>
+			<name>YouTube Channel</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg</uri>
+			<yt:userId>EEUCOpNcN46UbXVtpKMrmU4Abg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/4q2Kfm-knAc/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/4q2Kfm-knAc?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=4q2Kfm-knAc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=4q2Kfm-knAc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=4q2Kfm-knAc' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='YouTube Channel' yt:type='partner'>UCOpNcN46UbXVtpKMrmU4Abg</media:credit>
+			<media:description type='plain'>Visit YouTube&apos;s Roblox Museum: https://www.roblox.com/games/87445296052708/YouTubes-Roblox-Museum
+
+Can you believe Roblox has ONE TRILLION views on YouTube?! To celebrate, we&apos;re thrilled to officially unveil YouTube&apos;s Roblox Museum celebrating some of our favorite Roblox moments on the platform from over the years. Join @Lanaslifeee and @MeEnyu as they&apos;re the first creators to explore the museum, complete the scavenger hunt, and collect their limited edition YouTube UGC! 
+
+You can collect your limited edition UGC in Roblox, and purchase our YouTube x Roblox shirts IRL on the YouTube shopping shelf below this video. 
+
+Are your favorite video relics in our museum exhibits? Let us know in the comments. 
+
+Featured Creators in video:
+@AJIbarraGaming 
+@alaskaviolet 
+@Amberry 
+@BachaBlox 
+@caylusblox 
+@cutiethebunny 
+@FoltynFamily 
+@Laughability 
+@lilnasx 
+@MeganPlays 
+@MoodyToo 
+@ObliviousHD_ 
+@PokeBH 
+@RoplexGaming 
+@TerrionTavious 
+@thinknoodles 
+
+Featured Creators In The Museum:
+@Acenix 
+@AJIbarraGaming 
+@alaskaviolet 
+@Amberry 
+@aquajet316 
+@AshleyTheUnicorn 
+@astvRBLX 
+@AvocadoPlayz 
+@BachaBlox 
+@BedsheetGhost_ 
+@bree_animation 
+@BunAndDaisy 
+@callmehhaley 
+@cashblox 
+@caylusblox 
+@CHRISROBLOXX 
+@Chipiblox 
+@ComboPanda 
+@Cookieswirlc 
+@CrimsonForce 
+@cutiethebunny 
+@CybernovaGames 
+@DanTDM 
+@DangOldRegularOld 
+@DaPandaGirl 
+@DemonRBLX 
+@denisdaily 
+@eridinchi 
+@fgteev 
+@FoltynFamily 
+@ForeverNenaa 
+@GamingWithJen 
+@highlywanted 
+@IBella 
+@iicottenCloud 
+@ItsAkeila 
+@ItsFunneh 
+@itsbellza  
+@Jeny_Punker 
+@JJ5x5 
+@JohnnyandMarty 
+@kainoaroblox 
+@kanandy 
+@kawaiikunicorn 
+@koopekool 
+@KreekCraft 
+@Laughability 
+@LazarBeam 
+@leahashe 
+@Lyna 
+@lilnasx 
+@maizenofficial 
+@manacraftoficial 
+@MeganPlays 
+@MoodyToo 
+@NicsterV 
+@nicoblox 
+@notamberroblox-  
+@ObliviousHD_ 
+@officialnoobie 
+@PeetahBread 
+@peachyylexi 
+@PokeBH 
+@realrosa  
+@Remainings 
+@RoplexGaming 
+@RoyaltyGaming1 
+@RUST010 
+@russoplaysgames 
+@ShanePlays 
+@SharkBlox 
+@Sketchh 
+@speedy 
+@SSundee 
+@StupidestStorm 
+@SunsetSafari 
+@Temprist 
+@TerrionTavious 
+@THYEDGAR 
+@Thijmen0808 
+@thinknoodles 
+@vanilbean 
+@Vindooly 
+@vixiedust 
+@Willyandgaming 
+@ZaiLetsPlay 
+
+#roblox 
+
+*Source: YouTube Data, Global, Lifetime</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=4q2Kfm-knAc&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4q2Kfm-knAc/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4q2Kfm-knAc/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4q2Kfm-knAc/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4q2Kfm-knAc/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4q2Kfm-knAc/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4q2Kfm-knAc/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/4q2Kfm-knAc/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Welcome to YouTube&apos;s Roblox Museum ft. @Lanaslifeee &amp; @MeEnyu</media:title>
+			<yt:duration seconds='522'/>
+	        <yt:uploaded>2025-08-07T14:14:04</yt:uploaded>
+			<yt:uploaderId>EEUCOpNcN46UbXVtpKMrmU4Abg</yt:uploaderId>
+			<yt:videoid>4q2Kfm-knAc</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='810235'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:uQ3YUxuZ5vw</id>
+		<published>2025-08-07T14:14:04</published>
+		<updated>2025-08-07T14:14:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>Lp. Точка Невозврата #97 МИЛЛИОН ЖИЗНЕЙ [Поглощение Памяти] • Майнкрафт</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/uQ3YUxuZ5vw?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=uQ3YUxuZ5vw&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/uQ3YUxuZ5vw/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=uQ3YUxuZ5vw'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg/uploads/uQ3YUxuZ5vw?v=2'/>
+		<author>
+			<name>YouTube Channel</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg</uri>
+			<yt:userId>EEUCOpNcN46UbXVtpKMrmU4Abg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/uQ3YUxuZ5vw/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/uQ3YUxuZ5vw?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=uQ3YUxuZ5vw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=uQ3YUxuZ5vw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=uQ3YUxuZ5vw' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='YouTube Channel' yt:type='partner'>UCOpNcN46UbXVtpKMrmU4Abg</media:credit>
+			<media:description type='plain'>В этой серии мы поймём, что даже МИЛЛИОН ЖИЗНЕЙ — Это мало. Но что их объединяет?
+Дополнительный выбор или серия (Смотреть) — https://boosty.to/mrlololoshka
+👽 Мой Мерч: https://mirohodec.ru/ (Доставка в любую точку России и не только)
+Плейлист сезона: https://www.youtube.com/playlist?list=PLpYwltiByWUtN91BU99_CAxyCh-er8wru
+
+Всем привет, Друзья! Добро пожаловать в &quot;Постапокалипсис&quot; и начало новой истории под названием &quot;Точка Невозврата&quot;! Перед вами одиночество, тайны Вселенной, борьба за самые базовые нужды человека и неутолимое желание ЖИТЬ! Первый Междумирец по имени Лололошка, пытаясь сбежать из своего родного и полумёртвого мира под названием Архей, явно забежал туда, где не планировал оказаться. Но как это произошло? Именно это нам предстоит узнать в новой истории, где Лололошка, более не теряя память, впервые научится жить самостоятельно, ведь руку помощи... никто не протянет.
+
+Краткая сводка для тех, кто забыл финал предыдущего сезона &quot;Сердце Вселенной&quot; или чего-то не знает:
+Лололошка, столкнувшись с ранее неведомой угрозой в виде могущественного злодея (Отца по имени Тадмавриэль), поработившего и уничтожившего его родной мир (Архей), вынужден был бежать со своим альтер-эго Джоном (JDH), чтобы не погибнуть самому. Но бежать не обычным способом, ведь на Архей была наложена Завеса (Защита от Отца), не дающая выбраться ни одному живому существу. Джон придумал план, позволяющий выбраться из Архея путём побега в прошлое. Всё шло по плану, до тех пор, пока по неведомым обстоятельствам, Лололошка не отклонился от курса. С этого момента, пути Джона и Главного героя разошлись...
+
+Дамы и Господа, сегодня нас ждут новые приключения, очень серьёзное выживание, постапокалипсис и продолжение ГЛОБАЛЬНОГО СЮЖЕТА . Большая просьба, не забудь ПОДПИСАТЬСЯ и ПОСТАВИТЬ ЛАЙК, это огромная мотивация для всей команды. Мы правда стараемся... Надеемся это заметно! Эксклюзивные интересные моды, проработанный лор и все детали, которые требуют большой отдачи и любви, просят вас не забывать, что ваша мотивация — Лучшее Топливо! Особенно тогда, когда Ютуб ещё и замедляют.
+Плейлист сезона: https://www.youtube.com/playlist?list=PLpYwltiByWUtN91BU99_CAxyCh-er8wru
+
+• Магазинчик Лололошки: https://lololoshkashop.net/goods/minecraft-sajt
+
+Мой ВК: https://vk.com/mrlololoshka
+Твой арт на превьюшку скидывать сюда: https://vk.com/album-39408465_287365287?rev=1
+Инстаграм: https://www.instagram.com/lololoshkause/
+Бусти: https://boosty.to/mrlololoshka</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=uQ3YUxuZ5vw&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uQ3YUxuZ5vw/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uQ3YUxuZ5vw/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uQ3YUxuZ5vw/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uQ3YUxuZ5vw/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uQ3YUxuZ5vw/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uQ3YUxuZ5vw/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/uQ3YUxuZ5vw/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>Lp. Точка Невозврата #97 МИЛЛИОН ЖИЗНЕЙ [Поглощение Памяти] • Майнкрафт</media:title>
+			<yt:duration seconds='1417'/>
+	        <yt:uploaded>2025-08-07T14:14:04</yt:uploaded>
+			<yt:uploaderId>EEUCOpNcN46UbXVtpKMrmU4Abg</yt:uploaderId>
+			<yt:videoid>uQ3YUxuZ5vw</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='802355'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:IPcid6An7B8</id>
+		<published>2025-08-07T14:14:04</published>
+		<updated>2025-08-07T14:14:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>ДОВЕЛ ДО ИСТЕРИКИ ШКОЛЬНИКА В ГТА 5 РП / MAJESTIC RP</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/IPcid6An7B8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=IPcid6An7B8&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/IPcid6An7B8/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=IPcid6An7B8'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg/uploads/IPcid6An7B8?v=2'/>
+		<author>
+			<name>YouTube Channel</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg</uri>
+			<yt:userId>EEUCOpNcN46UbXVtpKMrmU4Abg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/IPcid6An7B8/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/IPcid6An7B8?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=IPcid6An7B8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=IPcid6An7B8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=IPcid6An7B8' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='YouTube Channel' yt:type='partner'>UCOpNcN46UbXVtpKMrmU4Abg</media:credit>
+			<media:description type='plain'>ДОВЕЛ ДО ИСТЕРИКИ ШКОЛЬНИКА В ГТА 5 РП / MAJESTIC RP
+
+❗Скачать ГТА РП можно тут -  https://majestic-gta5.com/boom/
+❗Вводите промокод BOOM при регистрации или /promo BOOM в чат!
+
+Телеграмм - https://t.me/AlexBoomOfficial
+
+❗ТВИЧ - https://www.twitch.tv/alexboomgs
+💥Мой Дискорд сервер: https://discord.gg/mfwNXC9zcU 💥
+💥Дискорд нашего сквада: https://discord.gg/MZ3UBnx98f💥
+
+Немного обо мне
+Зовут меня Александр - 21 год ( Хулиган ), проживаю в Казани и в свободное время играю в Хоккей! Мечтаю набрать 200.000 подписчиках на канале!
+Больше ирл моментов в моем телеграмме - https://t.me/AlexBoomOfficial
+
+Мой пк:
+🚀видеокарта - rtx 5080 
+🚀процессор - i9-14900k
+🚀оперативка - 64гб ddr5
+🚀мониторы - 2к msi 240гц 31.5 дюйма
+2к msi 144гц 31.5 дюйма
+
+
+Читать не обязательно!
+Ты попал на игровой, развлекательный канал по одной из самых популярных игр нашего времени - Grand Theft Auto или же просто GTA! Здесь ты найдешь огромное количество интересных роликов по ГТА 5, GTA 5 моды , прохождение и обзор модов, gta v mods, GtaRoleplay, а также смешные и веселые моменты в гта 5 рп, ведь мы будем играть на популярных серверах Гта 5 рп и не только!
+На данный момент интереснее gta 5 online, может быть только gta 5 rp - и лучший проект MAJESTIC</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=IPcid6An7B8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IPcid6An7B8/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IPcid6An7B8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IPcid6An7B8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IPcid6An7B8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IPcid6An7B8/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IPcid6An7B8/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/IPcid6An7B8/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>ДОВЕЛ ДО ИСТЕРИКИ ШКОЛЬНИКА В ГТА 5 РП / MAJESTIC RP</media:title>
+			<yt:duration seconds='1529'/>
+	        <yt:uploaded>2025-08-07T14:14:04</yt:uploaded>
+			<yt:uploaderId>EEUCOpNcN46UbXVtpKMrmU4Abg</yt:uploaderId>
+			<yt:videoid>IPcid6An7B8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='44331'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:398e_T715ek</id>
+		<published>2025-08-07T14:14:04</published>
+		<updated>2025-08-07T14:14:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>ЯТОРО комментит игру САТАНИКА и AME на Турнире ! 😮🔥 YATORO и ILLIDAN смотрят - PARIVISION vs Xtreme</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/398e_T715ek?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=398e_T715ek&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/398e_T715ek/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=398e_T715ek'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg/uploads/398e_T715ek?v=2'/>
+		<author>
+			<name>YouTube Channel</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg</uri>
+			<yt:userId>EEUCOpNcN46UbXVtpKMrmU4Abg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/398e_T715ek/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/398e_T715ek?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=398e_T715ek' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=398e_T715ek' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=398e_T715ek' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='YouTube Channel' yt:type='partner'>UCOpNcN46UbXVtpKMrmU4Abg</media:credit>
+			<media:description type='plain'>🔥 Мой тгк - https://t.me/kynil0ver (Инфа про TS, Доту 2 и т.п.)
+❗KOMA x YATORO x KYNI LOVER - https://boosty.to/scalekoma (Гайды, Реплеи, Разборы игр, TIER листы и...)
+
+➖➖
+Твич Иллидана - https://www.twitch.tv/illidanstr
+➖➖
+Связь со мной: 
+tg: https://t.me/BlinkNaKyxny
+vk: https://vk.com/kynil0ver
+email: kynil0veroffers@gmail.com
+➖➖
+ТУРНИР: Clavision Masters 2025: Snow-Ruyi
+ЯТОРО комментит игру САТАНИКА и AME на Турнире ! 😮🔥 YATORO и ILLIDAN смотрят - PARIVISION vs Xtreme !
+
+#yatoro #teamspirit #satanic #ame #дота2 #dota2</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=398e_T715ek&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/398e_T715ek/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/398e_T715ek/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/398e_T715ek/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/398e_T715ek/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/398e_T715ek/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/398e_T715ek/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/398e_T715ek/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>ЯТОРО комментит игру САТАНИКА и AME на Турнире ! 😮🔥 YATORO и ILLIDAN смотрят - PARIVISION vs Xtreme</media:title>
+			<yt:duration seconds='1229'/>
+	        <yt:uploaded>2025-08-07T14:14:04</yt:uploaded>
+			<yt:uploaderId>EEUCOpNcN46UbXVtpKMrmU4Abg</yt:uploaderId>
+			<yt:videoid>398e_T715ek</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='85369'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry><entry gd:etag='W/&quot;CUYDQ347eCp7I2A9XRdVGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:BkQNtM2XcPU</id>
+		<published>2025-08-07T14:14:04</published>
+		<updated>2025-08-07T14:14:04</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://192.168.1.27/schemas/2007#video'/>
+		<category scheme='http://192.168.1.27/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+		<title>ОТПРАВИЛ ТОП 1 ТЕЧИСА на 13К КОШМАРИТЬ ПРО-ИГРОКОВ 😎 (ft. shanachnetsya)</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/BkQNtM2XcPU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=BkQNtM2XcPU&amp;feature=youtube_gdata'/>
+		<link rel='http://192.168.1.27/schemas/2007#video.related' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/videos/BkQNtM2XcPU/related?v=2'/>
+		<link rel='http://192.168.1.27/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=BkQNtM2XcPU'/>
+		<link rel='http://192.168.1.27/schemas/2007#uploader' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg?v=2'/>
+		<link rel='self' type='applicatio0tom+xml' href='http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg/uploads/BkQNtM2XcPU?v=2'/>
+		<author>
+			<name>YouTube Channel</name>
+			<uri>http://192.168.1.27/feeds/api/users/UCOpNcN46UbXVtpKMrmU4Abg</uri>
+			<yt:userId>EEUCOpNcN46UbXVtpKMrmU4Abg</yt:userId>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://192.168.1.27/schemas/2007#comments' href='http://192.168.1.27/feeds/api/videos/BkQNtM2XcPU/comments?v=2' countHint='24'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='News &amp; Politics' scheme='http://192.168.1.27/schemas/2007/categories.cat'>News</media:category>
+			<media:content url='http://www.youtube.com/v/BkQNtM2XcPU?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2506' yt:format='5'/>
+            <media:content url='http://192.168.1.27/channel_fh264_getvideo?v=BkQNtM2XcPU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='3'/><media:content url='http://192.168.1.27/get_480?video_id=BkQNtM2XcPU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='14'/><media:content url='http://192.168.1.27/exp_hd?video_id=BkQNtM2XcPU' type='video/3gpp' medium='video' expression='full' duration='999' yt:format='8'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='YouTube Channel' yt:type='partner'>UCOpNcN46UbXVtpKMrmU4Abg</media:credit>
+			<media:description type='plain'>Смотри закрепленный коммент🙂
+Твитч гостя — https://twitch.tv/sha_nachnetsya
+Boosty (Все видео дублируются тут) — https://boosty.to/inkognito_gg
+Мой телеграмм — https://t.me/INKOGNITOD2</media:description>
+			<media:keywords/>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='http://www.youtube.com/watch?v=BkQNtM2XcPU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BkQNtM2XcPU/default.jpg' height='90' width='120' time='00:20:53' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BkQNtM2XcPU/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BkQNtM2XcPU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BkQNtM2XcPU/sddefault.jpg' height='480' width='640' yt:name='sddefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BkQNtM2XcPU/1.jpg' height='90' width='120' time='00:10:26.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BkQNtM2XcPU/2.jpg' height='90' width='120' time='00:20:53' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/BkQNtM2XcPU/3.jpg' height='90' width='120' time='00:31:19.500' yt:name='end'/>
+			<media:title type='plain'>ОТПРАВИЛ ТОП 1 ТЕЧИСА на 13К КОШМАРИТЬ ПРО-ИГРОКОВ 😎 (ft. shanachnetsya)</media:title>
+			<yt:duration seconds='3498'/>
+	        <yt:uploaded>2025-08-07T14:14:04</yt:uploaded>
+			<yt:uploaderId>EEUCOpNcN46UbXVtpKMrmU4Abg</yt:uploaderId>
+			<yt:videoid>BkQNtM2XcPU</yt:videoid>
+		</media:group>
+		<gd:rating average='4.151515' max='5' min='1' numRaters='99' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='189230'/>
+		<yt:rating numDislikes='0' numLikes='0'/>
+	</entry>
+</feed>
